@@ -394,6 +394,7 @@
 
 ## Python
 
+*   [maguowei/starred](https://github.com/maguowei/starred): creating your own Awesome List by GitHub stars!
 *   [sshuttle/sshuttle](https://github.com/sshuttle/sshuttle): Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
 *   [archlinux/archweb](https://github.com/archlinux/archweb): Arch Linux website code
 *   [wkentaro/labelme](https://github.com/wkentaro/labelme): Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation).
