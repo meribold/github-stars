@@ -21,6 +21,8 @@ for s in GitHub().starred_by("meribold"):
 
 repo_list_of_lists = sorted(repo_list_dict.items(), key=lambda r: r[0])
 
+print("## Languages\n")
+
 print(
     *(
         "*   [{}](#{})".format(language, "-".join(language.lower().split()))
