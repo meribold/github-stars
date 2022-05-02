@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-if venv/bin/python3 update.py > readme.md; then
+if python3 update.py > readme.md; then
    git commit readme.md -m "Update list of starred repositories"
 else
    git checkout readme.md
