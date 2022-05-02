@@ -1,3 +1,5 @@
+## Languages
+
 *   [Assembly](#assembly)
 *   [Awk](#awk)
 *   [C](#c)
@@ -124,6 +126,7 @@
 
 ## C++
 
+*   [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot): Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 *   [electronicarts/CnC_Remastered_Collection](https://github.com/electronicarts/CnC_Remastered_Collection)
 *   [SerenityOS/serenity](https://github.com/SerenityOS/serenity): The Serenity Operating System 🐞
 *   [g-truc/glm](https://github.com/g-truc/glm): OpenGL Mathematics (GLM)
