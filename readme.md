@@ -7,7 +7,6 @@
 *   [C++](#c++)
 *   [CSS](#css)
 *   [Clojure](#clojure)
-*   [CoffeeScript](#coffeescript)
 *   [Common Lisp](#common-lisp)
 *   [Dart](#dart)
 *   [Emacs Lisp](#emacs-lisp)
@@ -181,10 +180,6 @@
 ## Clojure
 
 *   [CmdrDats/igoki](https://github.com/CmdrDats/igoki): Clojure Go Kifu recorder and OGS player
-
-## CoffeeScript
-
-*   [carlosdcastillo/vim-mode](https://github.com/carlosdcastillo/vim-mode): Experimental next generation vim support for atom. This project needs a new home!
 
 ## Common Lisp
 
@@ -374,7 +369,6 @@
 *   [iridium-browser/tracker](https://github.com/iridium-browser/tracker): Iridium Browser tracker and wiki.
 *   [dctrwatson/mutt-gmail-patch](https://github.com/dctrwatson/mutt-gmail-patch)
 *   [cdown/passmenu](https://github.com/cdown/passmenu): dmenu interface to the pass password manager
-*   [github/gitignore](https://github.com/github/gitignore): A collection of useful .gitignore templates
 *   [huyz/irssi-colors-solarized](https://github.com/huyz/irssi-colors-solarized): A color theme for irssi using Ethan Schoonover’s Solarized color scheme
 *   [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line): Master the command line, in one page
 *   [Gethe/wow-ui-textures](https://github.com/Gethe/wow-ui-textures): git mirror of the user interface textures for World of Warcraft
@@ -567,7 +561,6 @@
 *   [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto): The configuration framework for Zsh
 *   [bohoomil/fontconfig-ultimate](https://github.com/bohoomil/fontconfig-ultimate): freetype2-infinality run-time settings =&gt; infinality compatible fontconfig =&gt; infinality-bundle
 *   [KittyKatt/screenFetch](https://github.com/KittyKatt/screenFetch): Fetches system/theme information in terminal for Linux desktop screenshots.
-*   [zplug/zplug](https://github.com/zplug/zplug): :hibiscus: A next-generation plugin manager for zsh
 *   [sampson-chen/sack](https://github.com/sampson-chen/sack): s(hortcut)-ack: a faster way to use ag, ack (or grep)!
 *   [jukil/dmenu-scripts-collection](https://github.com/jukil/dmenu-scripts-collection): Collection of optional dmenu hacking scripts:
 *   [cdown/clipmenu](https://github.com/cdown/clipmenu): Clipboard management using dmenu
@@ -743,7 +736,6 @@
 *   [preservim/tagbar](https://github.com/preservim/tagbar): Vim plugin that displays tags in a window, ordered by scope
 *   [tpope/vim-surround](https://github.com/tpope/vim-surround): surround.vim: Delete/change/add parentheses/quotes/XML-tags/much more with ease
 *   [vim-syntastic/syntastic](https://github.com/vim-syntastic/syntastic): Syntax checking hacks for vim
-*   [VundleVim/Vundle.vim](https://github.com/VundleVim/Vundle.vim): Vundle, the plug-in manager for Vim
 *   [tpope/vim-fugitive](https://github.com/tpope/vim-fugitive): fugitive.vim: A Git wrapper so awesome, it should be illegal
 *   [Shougo/vimshell.vim](https://github.com/Shougo/vimshell.vim): :shell: Powerful shell implemented by vim.
 *   [neovim/neovim](https://github.com/neovim/neovim): Vim-fork focused on extensibility and usability
