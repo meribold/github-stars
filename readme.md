@@ -354,6 +354,7 @@
 
 ## Miscellaneous
 
+*   [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars): My Awesome List
 *   [ninsky/recovermyvideotracker](https://github.com/ninsky/recovermyvideotracker): RecoverMy.Video issue tracker
 *   [neomutt/corpus-address](https://github.com/neomutt/corpus-address): :books: Test data for fuzzing
 *   [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol): Defines a common protocol for language servers.
@@ -397,6 +398,8 @@
 
 ## Python
 
+*   [meribold/github-stars](https://github.com/meribold/github-stars)
+*   [sigmavirus24/github3.py](https://github.com/sigmavirus24/github3.py): Hi, I'm a library for interacting with GItHub's REST API in a convenient and ergonomic way. I work on Python 3.6+.
 *   [maguowei/starred](https://github.com/maguowei/starred): creating your own Awesome List by GitHub stars!
 *   [sshuttle/sshuttle](https://github.com/sshuttle/sshuttle): Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
 *   [archlinux/archweb](https://github.com/archlinux/archweb): Arch Linux website code
