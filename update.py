@@ -1,4 +1,5 @@
 import os
+import re
 from collections import defaultdict
 
 from github3 import GitHub
@@ -15,6 +16,27 @@ def html_escape(text):
     return "".join(html_escape_table.get(c, c) for c in text)
 
 
+heading_lists: dict[list] = {}
+
+
+def get_fragment_id(heading):
+    base_fragment_id = re.sub("[^a-z-]+", "", heading.lower().replace(" ", "-"))
+    if base_fragment_id not in heading_lists:
+        heading_lists[base_fragment_id] = [heading]
+        return base_fragment_id
+
+    headings = heading_lists[base_fragment_id]
+    if heading == headings[0]:
+        return base_fragment_id
+    i = 1
+    for h in headings[1:]:
+        if heading == h:
+            return f"{base_fragment_id}-{i}"
+        i += 1
+    headings.append(heading)
+    return f"{base_fragment_id}-{i}"
+
+
 repo_list_dict = defaultdict(list)
 
 for s in gh.starred_by("meribold"):
@@ -26,7 +48,7 @@ repo_list_of_lists = sorted(repo_list_dict.items(), key=lambda r: r[0])
 
 new_readme_content = "## Languages\n\n{}\n{}\n".format(
     "\n".join(
-        "*   [{}](#{})".format(language, "-".join(language.lower().split()))
+        "*   [{}](#{})".format(language, get_fragment_id(language))
         for language, _ in repo_list_of_lists
     ),
     "\n".join(
