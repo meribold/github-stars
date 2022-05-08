@@ -388,7 +388,7 @@
 
 ## Python
 
-*   [meribold/github-stars](https://github.com/meribold/github-stars)
+*   [meribold/github-stars](https://github.com/meribold/github-stars): A list of the repositories I starred on GitHub that updates itself using GitHub Actions
 *   [sigmavirus24/github3.py](https://github.com/sigmavirus24/github3.py): Hi, I'm a library for interacting with GItHub's REST API in a convenient and ergonomic way. I work on Python 3.6+.
 *   [maguowei/starred](https://github.com/maguowei/starred): creating your own Awesome List by GitHub stars!
 *   [sshuttle/sshuttle](https://github.com/sshuttle/sshuttle): Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
