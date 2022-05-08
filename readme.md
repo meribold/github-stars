@@ -83,7 +83,6 @@
 *   [Airblader/unclutter-xfixes](https://github.com/Airblader/unclutter-xfixes): Hides the cursor on inactivity (rewrite of unclutter)
 *   [mpv-player/mpv](https://github.com/mpv-player/mpv): 🎥 Command line video player
 *   [id-Software/Quake-III-Arena](https://github.com/id-Software/Quake-III-Arena): Quake III Arena GPL Source Release
-*   [GNOME/gedit](https://github.com/GNOME/gedit): Read-only mirror of https://gitlab.gnome.org/GNOME/gedit
 *   [nelhage/reptyr](https://github.com/nelhage/reptyr): Reparent a running program to a new terminal
 *   [Airblader/xtrlock](https://github.com/Airblader/xtrlock): Fork of xtrlock that uses a normal pointer
 *   [Arkq/alock](https://github.com/Arkq/alock): Simple screen lock application for X server
@@ -113,7 +112,6 @@
 *   [axxapy/Adwaita-dark-gtk2](https://github.com/axxapy/Adwaita-dark-gtk2): clone of gnome3 Adwaita theme for gtk2
 *   [i3/i3](https://github.com/i3/i3): A tiling window manager
 *   [Airblader/i3](https://github.com/Airblader/i3): A fork of the i3 window manager with gaps and some other features
-*   [CipherShed/CipherShed](https://github.com/CipherShed/CipherShed): Main CipherShed Development
 *   [ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher): A code-searching tool similar to ack, but faster.
 *   [irssi/irssi](https://github.com/irssi/irssi): The client of the future
 *   [raboof/notion](https://github.com/raboof/notion): Tiling tabbed window manager
@@ -158,7 +156,6 @@
 *   [boostorg/thread](https://github.com/boostorg/thread): Boost.org thread module
 *   [doxygen/doxygen](https://github.com/doxygen/doxygen): Official doxygen git repository
 *   [brndnmtthws/conky](https://github.com/brndnmtthws/conky): Light-weight system monitor for X.
-*   [FLIF-hub/FLIF](https://github.com/FLIF-hub/FLIF): Free Lossless Image Format
 *   [meribold/nutshell_dynamics](https://github.com/meribold/nutshell_dynamics): Collision detection and resolution of rigid bodies in 3D space
 *   [ladislav-zezula/CascLib](https://github.com/ladislav-zezula/CascLib): An open-source implementation of library for reading CASC storages from Blizzard games since 2014
 *   [wxWidgets/wxWidgets](https://github.com/wxWidgets/wxWidgets): Cross-Platform C++ GUI Library
@@ -309,7 +306,6 @@
 *   [hakimel/reveal.js](https://github.com/hakimel/reveal.js): The HTML Presentation Framework
 *   [benbasson/newtabhomepage](https://github.com/benbasson/newtabhomepage): Firefox Extension - Loads your homepage when you open a new tab.
 *   [stylish-userstyles/stylish](https://github.com/stylish-userstyles/stylish): User styles manager for Firefox and other Mozilla software
-*   [CptFoobar/Blink](https://github.com/CptFoobar/Blink): A browser extension to replace New Tab with awesome news feed sourced from Feedly
 *   [streamlink/streamlink-twitch-gui](https://github.com/streamlink/streamlink-twitch-gui): A multi platform Twitch.tv browser for Streamlink
 *   [gorhill/uBlock](https://github.com/gorhill/uBlock): uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 *   [akahuku/wasavi](https://github.com/akahuku/wasavi): wasavi is an extension for Chrome, Firefox, and Opera. wasavi changes a textarea element to virtual vi editor which supports almost all the vi/ex commands.
@@ -482,7 +478,6 @@
 *   [jekyll/jekyll](https://github.com/jekyll/jekyll): :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
 *   [jekyll/jekyll-sitemap](https://github.com/jekyll/jekyll-sitemap): Jekyll plugin to silently generate a sitemaps.org compliant sitemap for your Jekyll site
 *   [jekyll/jekyll-seo-tag](https://github.com/jekyll/jekyll-seo-tag): A Jekyll plugin to add metadata tags for search engines and social networks to better index and display your site's content.
-*   [github/pages-gem](https://github.com/github/pages-gem): A simple Ruby Gem to bootstrap dependencies for setting up and maintaining a local Jekyll environment in sync with GitHub Pages
 *   [mastodon/mastodon](https://github.com/mastodon/mastodon): Your self-hosted, globally interconnected microblogging community
 *   [repomaa/autopass](https://github.com/repomaa/autopass): a rofi frontend for pass
 *   [tybenz/vimdeck](https://github.com/tybenz/vimdeck): VIM as a presentation tool
