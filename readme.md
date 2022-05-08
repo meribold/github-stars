@@ -280,7 +280,6 @@
 
 *   [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike): Chrome extension to return youtube dislikes
 *   [jzlai/whereistaipei.com](https://github.com/jzlai/whereistaipei.com): 🇹🇼
-*   [endeavoursc/firefox-overlay-scrollbars-win10](https://github.com/endeavoursc/firefox-overlay-scrollbars-win10): Firefox Quantum Overlay Scrollbars, styled to match Windows 10 native apps
 *   [mozilla/multi-account-containers](https://github.com/mozilla/multi-account-containers): Firefox Multi-Account Containers lets you keep parts of your online life separated into color-coded tabs that preserve your privacy. Cookies are separated by container, allowing you to use the web with multiple identities or accounts simultaneously.
 *   [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer): Run compilers interactively from your web browser and interact with the assembly
 *   [mozilla/FirefoxColor](https://github.com/mozilla/FirefoxColor): Theming demo for Firefox Quantum and beyond
