@@ -12,14 +12,14 @@ html_escape_table = {
 }
 
 
-def html_escape(text):
+def html_escape(text: str) -> str:
     return "".join(html_escape_table.get(c, c) for c in text)
 
 
 heading_lists: dict[list] = {}
 
 
-def get_fragment_id(heading):
+def get_fragment_id(heading: str) -> str:
     base_fragment_id = re.sub("[^a-z-]+", "", heading.lower().replace(" ", "-"))
     if base_fragment_id not in heading_lists:
         heading_lists[base_fragment_id] = [heading]
@@ -48,7 +48,7 @@ repo_list_of_lists = sorted(repo_list_dict.items(), key=lambda r: r[0])
 
 new_readme_content = "## Languages\n\n{}\n{}\n".format(
     "\n".join(
-        "*   [{}](#{})".format(language, get_fragment_id(language))
+        f"*   [{language}](#{get_fragment_id(language)})"
         for language, _ in repo_list_of_lists
     ),
     "\n".join(
