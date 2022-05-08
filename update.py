@@ -24,22 +24,19 @@ for s in gh.starred_by("meribold"):
 
 repo_list_of_lists = sorted(repo_list_dict.items(), key=lambda r: r[0])
 
-new_readme_content = (
-    "## Languages\n\n"
-    + "\n".join(
+new_readme_content = "## Languages\n\n{}\n{}\n".format(
+    "\n".join(
         "*   [{}](#{})".format(language, "-".join(language.lower().split()))
         for language, _ in repo_list_of_lists
-    )
-    + "\n"
-    + "\n".join(
+    ),
+    "\n".join(
         f"\n## {language}\n\n"
         + "\n".join(
             f"*   [{name}]({url})" + (f": {desc}" if desc else "")
             for name, url, desc in repo_list
         )
         for language, repo_list in repo_list_of_lists
-    )
-    + "\n"
+    ),
 ).encode()
 
 readme = gh.repository("meribold", "github-stars").readme()
