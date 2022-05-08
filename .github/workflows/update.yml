@@ -2,7 +2,7 @@ name: Update list
 on:
   workflow_dispatch:
   schedule:
-  - cron: 39 22 * * *
+  - cron: 23 * * * *
 jobs:
   update-list:
     runs-on: ubuntu-latest
