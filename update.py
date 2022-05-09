@@ -16,25 +16,18 @@ def html_escape(text: str) -> str:
     return "".join(html_escape_table.get(c, c) for c in text)
 
 
-heading_lists: dict[list] = {}
+base_fragment_id_counters: dict[int] = {}
 
 
 def get_fragment_id(heading: str) -> str:
     base_fragment_id = re.sub("[^a-z-]+", "", heading.lower().replace(" ", "-"))
-    if base_fragment_id not in heading_lists:
-        heading_lists[base_fragment_id] = [heading]
+    if base_fragment_id not in base_fragment_id_counters:
+        base_fragment_id_counters[base_fragment_id] = 1
         return base_fragment_id
 
-    headings = heading_lists[base_fragment_id]
-    if heading == headings[0]:
-        return base_fragment_id
-    i = 1
-    for h in headings[1:]:
-        if heading == h:
-            return f"{base_fragment_id}-{i}"
-        i += 1
-    headings.append(heading)
-    return f"{base_fragment_id}-{i}"
+    fragment_id = f"{base_fragment_id}-{base_fragment_id_counters[base_fragment_id]}"
+    base_fragment_id_counters[base_fragment_id] += 1
+    return fragment_id
 
 
 repo_list_dict = defaultdict(list)
