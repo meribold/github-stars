@@ -19,6 +19,7 @@
 *   [Lua](#lua)
 *   [Makefile](#makefile)
 *   [Miscellaneous](#miscellaneous)
+*   [OCaml](#ocaml)
 *   [Objective-C](#objective-c)
 *   [PHP](#php)
 *   [Perl](#perl)
@@ -220,6 +221,7 @@
 
 ## Go
 
+*   [arp242/goatcounter](https://github.com/arp242/goatcounter): Easy web analytics. No tracking of personal data.
 *   [rclone/rclone](https://github.com/rclone/rclone): "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 *   [stapelberg/percentage-for-i3](https://github.com/stapelberg/percentage-for-i3): resizes the current window to use the specified percentage of its parent container
 *   [stapelberg/next-chrome-for-i3](https://github.com/stapelberg/next-chrome-for-i3): next-chrome-for-i3 focuses the chrome window on the current workspace or starts a new chrome instance
@@ -367,6 +369,10 @@
 *   [huyz/irssi-colors-solarized](https://github.com/huyz/irssi-colors-solarized): A color theme for irssi using Ethan Schoonover’s Solarized color scheme
 *   [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line): Master the command line, in one page
 *   [Gethe/wow-ui-textures](https://github.com/Gethe/wow-ui-textures): git mirror of the user interface textures for World of Warcraft
+
+## OCaml
+
+*   [janestreet/magic-trace](https://github.com/janestreet/magic-trace): magic-trace collects and displays high-resolution traces of what a process is doing
 
 ## Objective-C
 
