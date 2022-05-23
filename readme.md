@@ -402,7 +402,7 @@
 *   [psf/black](https://github.com/psf/black): The uncompromising Python code formatter
 *   [wavexx/screenkey](https://github.com/wavexx/screenkey): A screencast tool to display your keys inspired by Screenflick
 *   [mooz/xkeysnail](https://github.com/mooz/xkeysnail): Yet another keyboard remapping tool for X environment
-*   [scheibler/khard](https://github.com/scheibler/khard): Console carddav client
+*   [lucc/khard](https://github.com/lucc/khard): Console vcard client
 *   [ankitects/anki](https://github.com/ankitects/anki): Anki for desktop computers
 *   [luoliyan/chinese-support-redux](https://github.com/luoliyan/chinese-support-redux): Anki add-on providing support for Chinese study
 *   [beetbox/beets](https://github.com/beetbox/beets): music library manager and MusicBrainz tagger
