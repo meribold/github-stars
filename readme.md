@@ -164,6 +164,7 @@
 
 ## CSS
 
+*   [LukeSmithxyz/based.cooking](https://github.com/LukeSmithxyz/based.cooking): A simple culinary website.
 *   [meribold/meribold.org](https://github.com/meribold/meribold.org)
 *   [progit/progit2](https://github.com/progit/progit2): Pro Git 2nd Edition
 *   [Timvde/UserChrome-Tweaks](https://github.com/Timvde/UserChrome-Tweaks): A community maintained repository of userChrome.css tweaks for Firefox
@@ -235,7 +236,6 @@
 ## HTML
 
 *   [kevquirk/512kb.club](https://github.com/kevquirk/512kb.club): Website for the 512 KB Club
-*   [LukeSmithxyz/based.cooking](https://github.com/LukeSmithxyz/based.cooking): A simple culinary website.
 *   [standardebooks/oscar-wilde_the-picture-of-dorian-gray](https://github.com/standardebooks/oscar-wilde_the-picture-of-dorian-gray): Epub source for the Standard Ebooks edition of The Picture of Dorian Gray, by Oscar Wilde
 *   [standardebooks/jules-verne_journey-to-the-center-of-the-earth_f-a-malleson](https://github.com/standardebooks/jules-verne_journey-to-the-center-of-the-earth_f-a-malleson): Epub source for the Standard Ebooks edition of Journey to the Center of the Earth, by Jules Verne
 *   [mattgodbolt/cppcon-bits-between-bits](https://github.com/mattgodbolt/cppcon-bits-between-bits): A presentation on how much stuff happens before your code even starts running
