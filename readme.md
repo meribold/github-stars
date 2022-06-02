@@ -238,6 +238,7 @@
 *   [kevquirk/512kb.club](https://github.com/kevquirk/512kb.club): Website for the 512 KB Club
 *   [standardebooks/oscar-wilde_the-picture-of-dorian-gray](https://github.com/standardebooks/oscar-wilde_the-picture-of-dorian-gray): Epub source for the Standard Ebooks edition of The Picture of Dorian Gray, by Oscar Wilde
 *   [standardebooks/jules-verne_journey-to-the-center-of-the-earth_f-a-malleson](https://github.com/standardebooks/jules-verne_journey-to-the-center-of-the-earth_f-a-malleson): Epub source for the Standard Ebooks edition of Journey to the Center of the Earth, by Jules Verne
+*   [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol): Defines a common protocol for language servers.
 *   [mattgodbolt/cppcon-bits-between-bits](https://github.com/mattgodbolt/cppcon-bits-between-bits): A presentation on how much stuff happens before your code even starts running
 *   [standardebooks/seneca_dialogues_aubrey-stewart](https://github.com/standardebooks/seneca_dialogues_aubrey-stewart): Epub source for the Standard Ebooks edition of Dialogues, by Seneca. Translated by Aubrey Stewart
 *   [standardebooks/epictetus_the-enchiridion_elizabeth-carter](https://github.com/standardebooks/epictetus_the-enchiridion_elizabeth-carter): Epub source for the Standard Ebooks edition of The Enchiridion of Epictetus. Translated by Elizabeth Carter
@@ -349,7 +350,6 @@
 *   [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars): My Awesome List
 *   [ninsky/recovermyvideotracker](https://github.com/ninsky/recovermyvideotracker): RecoverMy.Video issue tracker
 *   [neomutt/corpus-address](https://github.com/neomutt/corpus-address): :books: Test data for fuzzing
-*   [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol): Defines a common protocol for language servers.
 *   [DFgraphics/Ironhand](https://github.com/DFgraphics/Ironhand): [18x18] Ironhand 40.x - by Goldenshadow
 *   [mozilla/gecko-dev](https://github.com/mozilla/gecko-dev): Read-only Git mirror of the Mercurial gecko repositories at https://hg.mozilla.org. How to contribute: https://firefox-source-docs.mozilla.org/contributing/contribution_quickref.html
 *   [arasatasaygin/openlogos](https://github.com/arasatasaygin/openlogos): Free logos for open source projects
