@@ -319,7 +319,7 @@
 
 ## Lua
 
-*   [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig): Quickstart configurations for the Nvim LSP client
+*   [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig): Quickstart configs for Nvim LSP
 *   [Primal-UI/PrimalComboPoints](https://github.com/Primal-UI/PrimalComboPoints): Combo Point monitor
 *   [Primal-UI/PrimalGcd](https://github.com/Primal-UI/PrimalGcd): Global cooldown monitor
 *   [lithammer/NeavUI](https://github.com/lithammer/NeavUI): Development branch of Neav UI
