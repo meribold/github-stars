@@ -600,6 +600,7 @@
 
 ## Vim script
 
+*   [AndrewRadev/splitjoin.vim](https://github.com/AndrewRadev/splitjoin.vim): Switch between single-line and multiline forms of code
 *   [zaid/vim-rec](https://github.com/zaid/vim-rec): GNU Recutils syntax highlighting support for Vim
 *   [wellle/context.vim](https://github.com/wellle/context.vim): Vim plugin that shows the context of the currently visible buffer contents
 *   [meribold/jellyjam.vim](https://github.com/meribold/jellyjam.vim): Fork of https://github.com/nanotech/jellybeans.vim
