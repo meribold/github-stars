@@ -348,6 +348,7 @@
 
 ## Miscellaneous
 
+*   [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix): A collection of modern/faster/saner alternatives to common unix commands.
 *   [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars): My Awesome List
 *   [ninsky/recovermyvideotracker](https://github.com/ninsky/recovermyvideotracker): RecoverMy.Video issue tracker
 *   [neomutt/corpus-address](https://github.com/neomutt/corpus-address): :books: Test data for fuzzing
