@@ -751,6 +751,7 @@
 
 ## VimL
 
+*   [vim-scripts/python_match.vim](https://github.com/vim-scripts/python_match.vim): Extend the % motion and define g%, [%, and ]% motions for Python files
 *   [sjl/dotfiles](https://github.com/sjl/dotfiles): A git mirror of my dotfiles (.vimrc, .zshrc, .hgrc, etc).  Note: this won't work on its own because the real repo uses Mercurial's subrepos.  Look at .hgsub and .hgsubstate for what you'll need to get.
 *   [vim-utils/vim-most-minimal-folds](https://github.com/vim-utils/vim-most-minimal-folds): strips out all the noise from vim's fold line
 *   [unrelentingtech/intero.nvim](https://github.com/unrelentingtech/intero.nvim): Haskell+Neovim lightning fast autocompletion and other IDE functionality
