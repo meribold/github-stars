@@ -519,7 +519,7 @@
 *   [archlinux/svntogit-packages](https://github.com/archlinux/svntogit-packages): Automatic import of svn 'packages' repo (read-only mirror)
 *   [archlinux/svntogit-community](https://github.com/archlinux/svntogit-community): Automatic import of svn 'community' repo (read-only mirror)
 *   [icy/pacapt](https://github.com/icy/pacapt): An ArchLinux's pacman-like shell wrapper for many package managers. 56KB and run anywhere.
-*   [meribold/git-snap](https://github.com/meribold/git-snap): Easily create snapshot commits on a not checked-out branch to share or back up unfinished work
+*   [meribold/git-snap](https://github.com/meribold/git-snap): Create snapshot commits on a not checked-out branch to share or back up unfinished work
 *   [LukeSmithxyz/voidrice](https://github.com/LukeSmithxyz/voidrice): My dotfiles (deployed by LARBS)
 *   [endaaman/dotfiles](https://github.com/endaaman/dotfiles): NeoVim Zsh tmux fonts.conf etc..
 *   [googlefonts/noto-cjk](https://github.com/googlefonts/noto-cjk): Noto CJK fonts
