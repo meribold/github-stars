@@ -418,7 +418,7 @@
 *   [ActiveState/appdirs](https://github.com/ActiveState/appdirs): A small Python module for determining appropriate platform-specific dirs, e.g. a "user data dir".
 *   [wxWidgets/Phoenix](https://github.com/wxWidgets/Phoenix): wxPython's Project Phoenix.  A new implementation of wxPython, better, stronger, faster than he was before.
 *   [googlefonts/noto-emoji](https://github.com/googlefonts/noto-emoji): Noto Emoji fonts
-*   [googlefonts/noto-fonts](https://github.com/googlefonts/noto-fonts): Noto fonts, except for CJK and emoji
+*   [notofonts/noto-fonts](https://github.com/notofonts/noto-fonts): Noto fonts, except for CJK and emoji
 *   [python-pillow/Pillow](https://github.com/python-pillow/Pillow): The friendly PIL fork (Python Imaging Library)
 *   [xdanaux/fontawesome-latex](https://github.com/xdanaux/fontawesome-latex): LaTeX mappings for Font Awesome, the icons font
 *   [KJoke70/i3-tools](https://github.com/KJoke70/i3-tools): Scripts for i3wm
