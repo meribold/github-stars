@@ -405,7 +405,6 @@
 *   [wavexx/screenkey](https://github.com/wavexx/screenkey): A screencast tool to display your keys inspired by Screenflick
 *   [mooz/xkeysnail](https://github.com/mooz/xkeysnail): Yet another keyboard remapping tool for X environment
 *   [lucc/khard](https://github.com/lucc/khard): Console vcard client
-*   [ankitects/anki](https://github.com/ankitects/anki): Anki for desktop computers
 *   [luoliyan/chinese-support-redux](https://github.com/luoliyan/chinese-support-redux): Anki add-on providing support for Chinese study
 *   [beetbox/beets](https://github.com/beetbox/beets): music library manager and MusicBrainz tagger
 *   [pimutils/vdirsyncer](https://github.com/pimutils/vdirsyncer): 📇 Synchronize calendars and contacts.
@@ -495,6 +494,7 @@
 
 ## Rust
 
+*   [ankitects/anki](https://github.com/ankitects/anki): Anki for desktop computers
 *   [rust-lang/rust](https://github.com/rust-lang/rust): Empowering everyone to build reliable and efficient software.
 *   [benfred/py-spy](https://github.com/benfred/py-spy): Sampling profiler for Python programs
 *   [rust-lang/book](https://github.com/rust-lang/book): The Rust Programming Language
