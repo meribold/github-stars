@@ -494,6 +494,7 @@
 
 ## Rust
 
+*   [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei): Count your code, quickly.
 *   [ankitects/anki](https://github.com/ankitects/anki): Anki for desktop computers
 *   [rust-lang/rust](https://github.com/rust-lang/rust): Empowering everyone to build reliable and efficient software.
 *   [benfred/py-spy](https://github.com/benfred/py-spy): Sampling profiler for Python programs
