@@ -594,7 +594,7 @@
 *   [cs01/gdbgui](https://github.com/cs01/gdbgui): Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser.
 *   [onivim/oni](https://github.com/onivim/oni): Oni: Modern Modal Editing - powered by Neovim
 *   [rhysd/NyaoVim](https://github.com/rhysd/NyaoVim): Web-enhanced Extensible Neovim Frontend
-*   [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop): Signal — Private Messenger for Windows, Mac, and Linux
+*   [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop): A private messenger for Windows, macOS, and Linux.
 
 ## Vim Snippet
 
