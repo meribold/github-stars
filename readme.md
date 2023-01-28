@@ -25,6 +25,7 @@
 *   [Perl](#perl)
 *   [Python](#python)
 *   [QML](#qml)
+*   [Roff](#roff)
 *   [Ruby](#ruby)
 *   [Rust](#rust)
 *   [SCSS](#scss)
@@ -33,8 +34,9 @@
 *   [Swift](#swift)
 *   [TeX](#tex)
 *   [TypeScript](#typescript)
+*   [Vim Script](#vim-script)
 *   [Vim Snippet](#vim-snippet)
-*   [Vim script](#vim-script)
+*   [Vim script](#vim-script-1)
 *   [VimL](#viml)
 
 ## Assembly
@@ -48,6 +50,8 @@
 
 ## C
 
+*   [jasonwryan/monsterwm](https://github.com/jasonwryan/monsterwm): minimal and dynamic tiling window manager
+*   [Matthias-Wandel/jhead](https://github.com/Matthias-Wandel/jhead): Command line program to display and manipupate Exif headers of jpeg files, written in C
 *   [Conservatory/wmctrl](https://github.com/Conservatory/wmctrl): Unix command-line tool to interact with an EWMH/NetWM-compatible X Window Manager.  See home site for upstream information.
 *   [gwsw/less](https://github.com/gwsw/less): Less - text pager
 *   [mwh/dragon](https://github.com/mwh/dragon): Drag and drop source/target for X
@@ -87,7 +91,7 @@
 *   [id-Software/Quake-III-Arena](https://github.com/id-Software/Quake-III-Arena): Quake III Arena GPL Source Release
 *   [nelhage/reptyr](https://github.com/nelhage/reptyr): Reparent a running program to a new terminal
 *   [Airblader/xtrlock](https://github.com/Airblader/xtrlock): Fork of xtrlock that uses a normal pointer
-*   [Arkq/alock](https://github.com/Arkq/alock): Simple screen lock application for X server
+*   [arkq/alock](https://github.com/arkq/alock): Simple screen lock application for X server
 *   [mcuelenaere/fsv](https://github.com/mcuelenaere/fsv): fsv is a file system visualizer in cyberspace. It lays out files and directories in three dimensions, geometrically representing the file system hierarchy to allow visual overview and analysis.
 *   [editorconfig/editorconfig-core-c](https://github.com/editorconfig/editorconfig-core-c): EditorConfig core library written in C (for use by plugins supporting EditorConfig parsing)
 *   [jhallen/joes-sandbox](https://github.com/jhallen/joes-sandbox)
@@ -95,11 +99,11 @@
 *   [fcitx/fcitx](https://github.com/fcitx/fcitx): A Flexible Input Method Framework
 *   [fogleman/Craft](https://github.com/fogleman/Craft): A simple Minecraft clone written in C using modern OpenGL (shaders).
 *   [crigler/dtach](https://github.com/crigler/dtach): A simple program that emulates the detach feature of screen
-*   [neomutt/neomutt](https://github.com/neomutt/neomutt): :envelope: Teaching an Old Dog New Tricks -- IRC: #neomutt on irc.libera.chat
+*   [neomutt/neomutt](https://github.com/neomutt/neomutt): ✉️ Teaching an Old Dog New Tricks -- IRC: #neomutt on irc.libera.chat
 *   [universal-ctags/ctags](https://github.com/universal-ctags/ctags): A maintained ctags implementation
 *   [coolwanglu/vim.js](https://github.com/coolwanglu/vim.js): JavaScript port of Vim
 *   [altdesktop/i3ipc-glib](https://github.com/altdesktop/i3ipc-glib): A C interface library to i3wm
-*   [karlstav/cava](https://github.com/karlstav/cava): Console-based Audio Visualizer for Alsa
+*   [karlstav/cava](https://github.com/karlstav/cava): Cross-platform Audio Visualizer
 *   [pwmt/zathura](https://github.com/pwmt/zathura): a document viewer
 *   [dunst-project/dunst](https://github.com/dunst-project/dunst): Lightweight and customizable notification daemon
 *   [git/git](https://github.com/git/git): Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.
@@ -112,8 +116,8 @@
 *   [davatorium/rofi](https://github.com/davatorium/rofi): Rofi: A window switcher, application launcher and dmenu replacement
 *   [uzbl/uzbl](https://github.com/uzbl/uzbl): A web browser that adheres to the unix philosophy.
 *   [axxapy/Adwaita-dark-gtk2](https://github.com/axxapy/Adwaita-dark-gtk2): clone of gnome3 Adwaita theme for gtk2
-*   [i3/i3](https://github.com/i3/i3): A tiling window manager
-*   [Airblader/i3](https://github.com/Airblader/i3): A fork of the i3 window manager with gaps and some other features
+*   [i3/i3](https://github.com/i3/i3): A tiling window manager for X11
+*   [Airblader/i3](https://github.com/Airblader/i3): A fork of the i3 window manager with gaps and some other features. :warning: i3-gaps has been merged into i3.
 *   [ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher): A code-searching tool similar to ack, but faster.
 *   [irssi/irssi](https://github.com/irssi/irssi): The client of the future
 *   [raboof/notion](https://github.com/raboof/notion): Tiling tabbed window manager
@@ -125,6 +129,7 @@
 
 ## C++
 
+*   [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop): Telegram Desktop messaging app
 *   [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot): Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 *   [electronicarts/CnC_Remastered_Collection](https://github.com/electronicarts/CnC_Remastered_Collection)
 *   [SerenityOS/serenity](https://github.com/SerenityOS/serenity): The Serenity Operating System 🐞
@@ -157,7 +162,7 @@
 *   [dhewm/dhewm3](https://github.com/dhewm/dhewm3): dhewm 3 main repository
 *   [boostorg/thread](https://github.com/boostorg/thread): Boost.org thread module
 *   [doxygen/doxygen](https://github.com/doxygen/doxygen): Official doxygen git repository
-*   [brndnmtthws/conky](https://github.com/brndnmtthws/conky): Light-weight system monitor for X.
+*   [brndnmtthws/conky](https://github.com/brndnmtthws/conky): Light-weight system monitor for X (and other things, too)
 *   [meribold/nutshell_dynamics](https://github.com/meribold/nutshell_dynamics): Collision detection and resolution of rigid bodies in 3D space
 *   [ladislav-zezula/CascLib](https://github.com/ladislav-zezula/CascLib): An open-source implementation of library for reading CASC storages from Blizzard games since 2014
 *   [wxWidgets/wxWidgets](https://github.com/wxWidgets/wxWidgets): Cross-Platform C++ GUI Library
@@ -165,6 +170,7 @@
 
 ## CSS
 
+*   [lemonmade/bigfoot](https://github.com/lemonmade/bigfoot): A jQuery plugin for creating exceptional footnotes.
 *   [LukeSmithxyz/based.cooking](https://github.com/LukeSmithxyz/based.cooking): A simple culinary website.
 *   [meribold/meribold.org](https://github.com/meribold/meribold.org)
 *   [progit/progit2](https://github.com/progit/progit2): Pro Git 2nd Edition
@@ -208,10 +214,9 @@
 *   [cofi/evil-leader](https://github.com/cofi/evil-leader): &lt;leader&gt; key for evil
 *   [edwtjo/evil-org-mode](https://github.com/edwtjo/evil-org-mode): Supplemental evil-mode keybindings to emacs org-mode
 *   [yjwen/org-reveal](https://github.com/yjwen/org-reveal): Exports Org-mode contents to Reveal.js HTML presentation.
-*   [magit/magit](https://github.com/magit/magit): It's Magit! A Git porcelain inside Emacs.
+*   [magit/magit](https://github.com/magit/magit): It's Magit! A Git Porcelain inside Emacs.
 *   [emacs-helm/helm](https://github.com/emacs-helm/helm): Emacs incremental completion and selection narrowing framework
 *   [syl20bnr/spacemacs](https://github.com/syl20bnr/spacemacs): A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!
-*   [technomancy/better-defaults](https://github.com/technomancy/better-defaults): A small number of better defaults for Emacs
 *   [johanvts/emacs-fireplace](https://github.com/johanvts/emacs-fireplace): A cozy fireplace for emacs.
 *   [alloy-d/color-theme-molokai](https://github.com/alloy-d/color-theme-molokai): An Emacs port of the Vim port of the Monokai color scheme for TextMate.
 *   [redguardtoo/evil-matchit](https://github.com/redguardtoo/evil-matchit): Vim matchit ported into Emacs
@@ -236,6 +241,7 @@
 
 ## HTML
 
+*   [Minoru/blog.debiania.in.ua](https://github.com/Minoru/blog.debiania.in.ua): Source code for my blog
 *   [kevquirk/512kb.club](https://github.com/kevquirk/512kb.club): Website for the 512 KB Club
 *   [standardebooks/oscar-wilde_the-picture-of-dorian-gray](https://github.com/standardebooks/oscar-wilde_the-picture-of-dorian-gray): Epub source for the Standard Ebooks edition of The Picture of Dorian Gray, by Oscar Wilde
 *   [standardebooks/jules-verne_journey-to-the-center-of-the-earth_f-a-malleson](https://github.com/standardebooks/jules-verne_journey-to-the-center-of-the-earth_f-a-malleson): Epub source for the Standard Ebooks edition of Journey to the Center of the Earth, by Jules Verne
@@ -249,7 +255,6 @@
 *   [vimcasts/vimcasts.org](https://github.com/vimcasts/vimcasts.org): Source code for vimcasts.org
 *   [ericminikel/cureffi](https://github.com/ericminikel/cureffi): CureFFI.org
 *   [KeenRivals/bestmotherfucking.website](https://github.com/KeenRivals/bestmotherfucking.website): The Best Motherfucking Website
-*   [base16-templates/base16-xresources](https://github.com/base16-templates/base16-xresources): Base16 for Xresources
 *   [KevinParnell/my-homepage](https://github.com/KevinParnell/my-homepage): My old homepage
 *   [startpages/startpages.github.io](https://github.com/startpages/startpages.github.io): A curated list of startpages for your browser.
 *   [lhunath/guide.bash.academy](https://github.com/lhunath/guide.bash.academy): Bash Academy - The Bash Guide
@@ -261,7 +266,6 @@
 
 *   [SimulaVR/Simula](https://github.com/SimulaVR/Simula): Linux VR Desktop
 *   [xmonad/xmonad-contrib](https://github.com/xmonad/xmonad-contrib): Contributed modules for xmonad
-*   [altercation/dotfiles-tilingwm](https://github.com/altercation/dotfiles-tilingwm): Tiling window manager related files (XMonad / i3) including configuration for components that create a good, minimal desktop-environment replacement.
 *   [xmonad/xmonad](https://github.com/xmonad/xmonad): The core of xmonad, a small but functional ICCCM-compliant tiling window manager
 *   [vimus/vimus](https://github.com/vimus/vimus): An MPD client with vim-like key bindings, written in Haskell
 *   [freedict/tools](https://github.com/freedict/tools): This repository contains all the tools of the FreeDict project. This includes the Make build system, various importer scripts, XSL conversion style sheets and more.
@@ -285,7 +289,6 @@
 *   [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike): Chrome extension to return youtube dislikes
 *   [jzlai/whereistaipei.com](https://github.com/jzlai/whereistaipei.com): 🇹🇼
 *   [mozilla/multi-account-containers](https://github.com/mozilla/multi-account-containers): Firefox Multi-Account Containers lets you keep parts of your online life separated into color-coded tabs that preserve your privacy. Cookies are separated by container, allowing you to use the web with multiple identities or accounts simultaneously.
-*   [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer): Run compilers interactively from your web browser and interact with the assembly
 *   [mozilla/FirefoxColor](https://github.com/mozilla/FirefoxColor): Theming demo for Firefox Quantum and beyond
 *   [openstyles/stylus](https://github.com/openstyles/stylus): Stylus - Userstyles Manager
 *   [carljm/pipvirtualenv-preso](https://github.com/carljm/pipvirtualenv-preso): presentation on pip and virtualenv for PyCon 2011
@@ -324,6 +327,7 @@
 *   [Primal-UI/PrimalGcd](https://github.com/Primal-UI/PrimalGcd): Global cooldown monitor
 *   [lithammer/NeavUI](https://github.com/lithammer/NeavUI): Development branch of Neav UI
 *   [sakhnik/nvim-gdb](https://github.com/sakhnik/nvim-gdb): Neovim thin wrapper for GDB, LLDB, PDB/PDB++ and BashDB
+*   [bruxisma/dotfiles](https://github.com/bruxisma/dotfiles): Izzy Muerte's Dotfiles
 *   [hkupty/nvimux](https://github.com/hkupty/nvimux): Neovim as a TMUX replacement
 *   [WeakAuras/WeakAuras2](https://github.com/WeakAuras/WeakAuras2): World of Warcraft addon that provides a powerful framework to display customizable graphics on your screen.
 *   [RealUI/RealUI](https://github.com/RealUI/RealUI): A minimalistic UI for World of Warcraft designed to be functional, yet also efficient and elegant.
@@ -348,10 +352,11 @@
 
 ## Miscellaneous
 
+*   [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line): Master the command line, in one page
 *   [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix): A collection of modern/faster/saner alternatives to common unix commands.
 *   [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars): My Awesome List
 *   [ninsky/recovermyvideotracker](https://github.com/ninsky/recovermyvideotracker): RecoverMy.Video issue tracker
-*   [neomutt/corpus-address](https://github.com/neomutt/corpus-address): :books: Test data for fuzzing
+*   [neomutt/corpus-address](https://github.com/neomutt/corpus-address): 📚 Test data for fuzzing
 *   [DFgraphics/Ironhand](https://github.com/DFgraphics/Ironhand): [18x18] Ironhand 40.x - by Goldenshadow
 *   [mozilla/gecko-dev](https://github.com/mozilla/gecko-dev): Read-only Git mirror of the Mercurial gecko repositories at https://hg.mozilla.org. How to contribute: https://firefox-source-docs.mozilla.org/contributing/contribution_quickref.html
 *   [arasatasaygin/openlogos](https://github.com/arasatasaygin/openlogos): Free logos for open source projects
@@ -363,13 +368,11 @@
 *   [octol/vombatidae-mutt](https://github.com/octol/vombatidae-mutt): Colorscheme for the Mutt email reader.
 *   [servo/servo](https://github.com/servo/servo): The Servo Browser Engine
 *   [solarized/xresources](https://github.com/solarized/xresources): Solarized for X Windows
-*   [chriskempson/base16](https://github.com/chriskempson/base16): An architecture for building themes
 *   [hparadiz/chromium-disable-profile-button-patch](https://github.com/hparadiz/chromium-disable-profile-button-patch): Patch to disable user profile avatar button in open source Chromium builds
 *   [iridium-browser/tracker](https://github.com/iridium-browser/tracker): Iridium Browser tracker and wiki.
 *   [dctrwatson/mutt-gmail-patch](https://github.com/dctrwatson/mutt-gmail-patch)
 *   [cdown/passmenu](https://github.com/cdown/passmenu): dmenu interface to the pass password manager
 *   [huyz/irssi-colors-solarized](https://github.com/huyz/irssi-colors-solarized): A color theme for irssi using Ethan Schoonover’s Solarized color scheme
-*   [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line): Master the command line, in one page
 *   [Gethe/wow-ui-textures](https://github.com/Gethe/wow-ui-textures): git mirror of the user interface textures for World of Warcraft
 
 ## OCaml
@@ -395,6 +398,7 @@
 
 ## Python
 
+*   [scour-project/scour](https://github.com/scour-project/scour): Scour - An SVG Optimizer / Cleaner
 *   [meribold/github-stars](https://github.com/meribold/github-stars): A list of the repositories I starred on GitHub that updates itself using GitHub Actions
 *   [sigmavirus24/github3.py](https://github.com/sigmavirus24/github3.py): Hi, I'm a library for interacting with GItHub's REST API in a convenient and ergonomic way. I work on Python 3.6+.
 *   [maguowei/starred](https://github.com/maguowei/starred): creating your own Awesome List by GitHub stars!
@@ -416,9 +420,10 @@
 *   [meribold/timethis](https://github.com/meribold/timethis): Context manager for measuring execution times
 *   [ActiveState/appdirs](https://github.com/ActiveState/appdirs): A small Python module for determining appropriate platform-specific dirs, e.g. a "user data dir".
 *   [wxWidgets/Phoenix](https://github.com/wxWidgets/Phoenix): wxPython's Project Phoenix.  A new implementation of wxPython, better, stronger, faster than he was before.
+*   [endaaman/dotfiles](https://github.com/endaaman/dotfiles): NeoVim Zsh tmux fonts.conf etc..
 *   [googlefonts/noto-emoji](https://github.com/googlefonts/noto-emoji): Noto Emoji fonts
 *   [notofonts/noto-fonts](https://github.com/notofonts/noto-fonts): Noto fonts, except for CJK and emoji
-*   [python-pillow/Pillow](https://github.com/python-pillow/Pillow): The friendly PIL fork (Python Imaging Library)
+*   [python-pillow/Pillow](https://github.com/python-pillow/Pillow): Python Imaging Library (Fork)
 *   [xdanaux/fontawesome-latex](https://github.com/xdanaux/fontawesome-latex): LaTeX mappings for Font Awesome, the icons font
 *   [KJoke70/i3-tools](https://github.com/KJoke70/i3-tools): Scripts for i3wm
 *   [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn): scikit-learn: machine learning in Python
@@ -450,7 +455,7 @@
 *   [sivel/speedtest-cli](https://github.com/sivel/speedtest-cli): Command line interface for testing internet bandwidth using speedtest.net
 *   [mphe/grayout.vim](https://github.com/mphe/grayout.vim): A Vim/Neovim plugin that grays out inactive C/C++/Obj-C preprocessor regions.
 *   [andreafrancia/trash-cli](https://github.com/andreafrancia/trash-cli): Command line interface to the freedesktop.org trashcan.
-*   [qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser): A keyboard-driven, vim-like browser based on PyQt5.
+*   [qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser): A keyboard-driven, vim-like browser based on Python and Qt.
 *   [skorokithakis/bakeit](https://github.com/skorokithakis/bakeit): A command-line utility for pastery, the best pastebin in the world.
 *   [nvbn/thefuck](https://github.com/nvbn/thefuck): Magnificent app which corrects your previous console command.
 *   [tweekmonster/tmux2html](https://github.com/tweekmonster/tmux2html): :cat2: Render full tmux windows or individual panes as HTML
@@ -474,8 +479,13 @@
 
 *   [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term): A good looking terminal emulator which mimics the old cathode display...
 
+## Roff
+
+*   [Earnestly/sx](https://github.com/Earnestly/sx): Start an xorg server
+
 ## Ruby
 
+*   [gjtorikian/jekyll-last-modified-at](https://github.com/gjtorikian/jekyll-last-modified-at): A Jekyll plugin to show the last_modified_at time of a post.
 *   [bjoernalbers/gollum-auth](https://github.com/bjoernalbers/gollum-auth): Authentication Middleware for Gollum Wiki
 *   [gollum/gollum](https://github.com/gollum/gollum): A simple, Git-powered wiki with a sweet API and local frontend.
 *   [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs): API Documentation Browser
@@ -494,6 +504,8 @@
 
 ## Rust
 
+*   [aaronjanse/dns-over-wikipedia](https://github.com/aaronjanse/dns-over-wikipedia): Redirect `.idk` domains using Wikipedia
+*   [shssoichiro/oxipng](https://github.com/shssoichiro/oxipng): Multithreaded PNG optimizer written in Rust
 *   [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei): Count your code, quickly.
 *   [ankitects/anki](https://github.com/ankitects/anki): Anki for desktop computers
 *   [rust-lang/rust](https://github.com/rust-lang/rust): Empowering everyone to build reliable and efficient software.
@@ -516,13 +528,12 @@
 
 ## Shell
 
-*   [reportaman/arttime](https://github.com/reportaman/arttime): 🧜🏼‍♀️ beauty of text art meets functionality of clock / timer / pattern-based time manager ⏰
+*   [poetaman/arttime](https://github.com/poetaman/arttime): arttime is a terminal application that blends beauty of text-art with functionality of clock / timer / pattern-based time manager ⏰
 *   [archlinux/svntogit-packages](https://github.com/archlinux/svntogit-packages): Automatic import of svn 'packages' repo (read-only mirror)
 *   [archlinux/svntogit-community](https://github.com/archlinux/svntogit-community): Automatic import of svn 'community' repo (read-only mirror)
 *   [icy/pacapt](https://github.com/icy/pacapt): An ArchLinux's pacman-like shell wrapper for many package managers. 56KB and run anywhere.
 *   [meribold/git-snap](https://github.com/meribold/git-snap): Create snapshot commits on a not checked-out branch without touching the working tree or losing staged changes
 *   [LukeSmithxyz/voidrice](https://github.com/LukeSmithxyz/voidrice): My dotfiles (deployed by LARBS)
-*   [endaaman/dotfiles](https://github.com/endaaman/dotfiles): NeoVim Zsh tmux fonts.conf etc..
 *   [googlefonts/noto-cjk](https://github.com/googlefonts/noto-cjk): Noto CJK fonts
 *   [meribold/muccadoro](https://github.com/meribold/muccadoro): 🍅 Pomodoro timer using figlet, cowsay, and optionally lolcat 🐮
 *   [kathamer/DebianKindle](https://github.com/kathamer/DebianKindle): Scripts to install Debian on your Kindle
@@ -592,9 +603,71 @@
 ## TypeScript
 
 *   [cs01/gdbgui](https://github.com/cs01/gdbgui): Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser.
+*   [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer): Run compilers interactively from your web browser and interact with the assembly
 *   [onivim/oni](https://github.com/onivim/oni): Oni: Modern Modal Editing - powered by Neovim
 *   [rhysd/NyaoVim](https://github.com/rhysd/NyaoVim): Web-enhanced Extensible Neovim Frontend
 *   [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop): A private messenger for Windows, macOS, and Linux.
+
+## Vim Script
+
+*   [AndrewRadev/splitjoin.vim](https://github.com/AndrewRadev/splitjoin.vim): Switch between single-line and multiline forms of code
+*   [zaid/vim-rec](https://github.com/zaid/vim-rec): GNU Recutils syntax highlighting support for Vim
+*   [rhysd/git-messenger.vim](https://github.com/rhysd/git-messenger.vim): Vim and Neovim plugin to reveal the commit messages under the cursor
+*   [udalov/kotlin-vim](https://github.com/udalov/kotlin-vim): Kotlin plugin for Vim. Featuring: syntax highlighting, basic indentation, Syntastic support
+*   [dixonary/vimty](https://github.com/dixonary/vimty): A vim typewriter
+*   [andymass/vim-matchup](https://github.com/andymass/vim-matchup): vim match-up: even better % :facepunch: navigate and highlight matching words :facepunch: modern matchit and matchparen.  Supports both vim and neovim + tree-sitter.
+*   [airblade/vim-rooter](https://github.com/airblade/vim-rooter): Changes Vim working directory to project root.
+*   [mrzool/dotfiles](https://github.com/mrzool/dotfiles): Config files for my *nix systems
+*   [dhruvasagar/vim-prosession](https://github.com/dhruvasagar/vim-prosession): Handle vim sessions like a pro
+*   [tpope/vim-markdown](https://github.com/tpope/vim-markdown): Vim Markdown runtime files
+*   [skywind3000/asyncrun.vim](https://github.com/skywind3000/asyncrun.vim): :rocket: Run Async Shell Commands in Vim 8.0 / NeoVim and Output to the Quickfix Window !!
+*   [itchyny/calendar.vim](https://github.com/itchyny/calendar.vim): A calendar application for Vim
+*   [vim-utils/vim-troll-stopper](https://github.com/vim-utils/vim-troll-stopper): Stop Unicode trolls from messing with your code.
+*   [editorconfig/editorconfig-vim](https://github.com/editorconfig/editorconfig-vim): EditorConfig plugin for Vim
+*   [tpope/vim-pathogen](https://github.com/tpope/vim-pathogen): pathogen.vim: manage your runtimepath
+*   [ludovicchabant/vim-gutentags](https://github.com/ludovicchabant/vim-gutentags): A Vim plugin that manages your tag files
+*   [jpalardy/vim-slime](https://github.com/jpalardy/vim-slime): A vim plugin to give you some slime. (Emacs)
+*   [wincent/wincent](https://github.com/wincent/wincent): 💾 Dot-files
+*   [embear/vim-localvimrc](https://github.com/embear/vim-localvimrc): Search local vimrc files (".lvimrc") in the tree (root dir up to current dir) and load them.
+*   [machakann/vim-sandwich](https://github.com/machakann/vim-sandwich): Set of operators and textobjects to search/select/edit sandwiched texts.
+*   [tpope/vim-sexp-mappings-for-regular-people](https://github.com/tpope/vim-sexp-mappings-for-regular-people): vim-sexp mappings for regular people
+*   [tpope/vim-projectionist](https://github.com/tpope/vim-projectionist): projectionist.vim: Granular project configuration
+*   [junegunn/gv.vim](https://github.com/junegunn/gv.vim): A git commit browser in Vim
+*   [tpope/vim-abolish](https://github.com/tpope/vim-abolish): abolish.vim: easily search for, substitute, and abbreviate multiple variants of a word
+*   [Shougo/dein.vim](https://github.com/Shougo/dein.vim): :zap: Dark powered Vim/Neovim plugin manager
+*   [python-mode/python-mode](https://github.com/python-mode/python-mode): Vim python-mode. PyLint, Rope, Pydoc, breakpoints from box.
+*   [vim/vim](https://github.com/vim/vim): The official Vim repository
+*   [vim-autoformat/vim-autoformat](https://github.com/vim-autoformat/vim-autoformat): Provide easy code formatting in Vim by integrating existing code formatters.
+*   [Konfekt/FastFold](https://github.com/Konfekt/FastFold): Speed up Vim by updating folds only when called-for.
+*   [mattn/vim-gist](https://github.com/mattn/vim-gist): Vim plugin for Gist
+*   [rhysd/clever-f.vim](https://github.com/rhysd/clever-f.vim): Extended f, F, t and T key mappings for Vim.
+*   [junegunn/fzf.vim](https://github.com/junegunn/fzf.vim): fzf :heart: vim
+*   [junegunn/goyo.vim](https://github.com/junegunn/goyo.vim): :tulip: Distraction-free writing in Vim
+*   [justinmk/vim-dirvish](https://github.com/justinmk/vim-dirvish): Directory viewer for Vim :zap:
+*   [dhruvasagar/vim-table-mode](https://github.com/dhruvasagar/vim-table-mode): VIM Table Mode for instant table creation.
+*   [rkitover/vimpager](https://github.com/rkitover/vimpager): Use Vim as PAGER
+*   [preservim/vim-markdown](https://github.com/preservim/vim-markdown): Markdown Vim Mode
+*   [junegunn/vim-plug](https://github.com/junegunn/vim-plug): :hibiscus: Minimalist Vim Plugin Manager
+*   [tyru/open-browser.vim](https://github.com/tyru/open-browser.vim): Open URI with your favorite browser from your most favorite editor
+*   [tpope/vim-unimpaired](https://github.com/tpope/vim-unimpaired): unimpaired.vim: Pairs of handy bracket mappings
+*   [tpope/vim-speeddating](https://github.com/tpope/vim-speeddating): speeddating.vim: use CTRL-A/CTRL-X to increment dates, times, and more
+*   [tpope/vim-eunuch](https://github.com/tpope/vim-eunuch): eunuch.vim: Helpers for UNIX
+*   [tpope/vim-sleuth](https://github.com/tpope/vim-sleuth): sleuth.vim: Heuristically set buffer options
+*   [tpope/vim-obsession](https://github.com/tpope/vim-obsession): obsession.vim: continuously updated session files
+*   [vim-ctrlspace/vim-ctrlspace](https://github.com/vim-ctrlspace/vim-ctrlspace): Vim Space Controller
+*   [Shougo/vimproc.vim](https://github.com/Shougo/vimproc.vim): Interactive command execution in Vim.
+*   [tpope/vim-commentary](https://github.com/tpope/vim-commentary): commentary.vim: comment stuff out
+*   [drmingdrmer/xptemplate](https://github.com/drmingdrmer/xptemplate): Code snippets engine for Vim, with snippets library.  XPTemplate let you write codes in a smooth, quick and comfortable way.
+*   [Shougo/neosnippet.vim](https://github.com/Shougo/neosnippet.vim): neo-snippet plugin
+*   [airblade/vim-gitgutter](https://github.com/airblade/vim-gitgutter): A Vim plugin which shows git diff markers in the sign column and stages/previews/undoes hunks and partial hunks.
+*   [preservim/nerdcommenter](https://github.com/preservim/nerdcommenter): Vim plugin for intensely nerdy commenting powers
+*   [preservim/tagbar](https://github.com/preservim/tagbar): Vim plugin that displays tags in a window, ordered by scope
+*   [tpope/vim-surround](https://github.com/tpope/vim-surround): surround.vim: Delete/change/add parentheses/quotes/XML-tags/much more with ease
+*   [tpope/vim-fugitive](https://github.com/tpope/vim-fugitive): fugitive.vim: A Git wrapper so awesome, it should be illegal
+*   [neovim/neovim](https://github.com/neovim/neovim): Vim-fork focused on extensibility and usability
+*   [itchyny/lightline.vim](https://github.com/itchyny/lightline.vim): A light and configurable statusline/tabline plugin for Vim
+*   [vim-airline/vim-airline](https://github.com/vim-airline/vim-airline): lean & mean status/tabline for vim that's light as air
+*   [tpope/vim-sensible](https://github.com/tpope/vim-sensible): sensible.vim: Defaults everyone can agree on
 
 ## Vim Snippet
 
@@ -602,88 +675,51 @@
 
 ## Vim script
 
-*   [AndrewRadev/splitjoin.vim](https://github.com/AndrewRadev/splitjoin.vim): Switch between single-line and multiline forms of code
-*   [zaid/vim-rec](https://github.com/zaid/vim-rec): GNU Recutils syntax highlighting support for Vim
 *   [wellle/context.vim](https://github.com/wellle/context.vim): Vim plugin that shows the context of the currently visible buffer contents
 *   [meribold/jellyjam.vim](https://github.com/meribold/jellyjam.vim): Fork of https://github.com/nanotech/jellybeans.vim
 *   [whiteinge/diffconflicts](https://github.com/whiteinge/diffconflicts): A better Vimdiff Git mergetool
-*   [rhysd/git-messenger.vim](https://github.com/rhysd/git-messenger.vim): Vim and Neovim plugin to reveal the commit messages under the cursor
-*   [udalov/kotlin-vim](https://github.com/udalov/kotlin-vim): Kotlin plugin for Vim. Featuring: syntax highlighting, basic indentation, Syntastic support
-*   [dixonary/vimty](https://github.com/dixonary/vimty): A vim typewriter
-*   [andymass/vim-matchup](https://github.com/andymass/vim-matchup): vim match-up: even better % :facepunch: navigate and highlight matching words :facepunch: modern matchit and matchparen
 *   [idbrii/vim-online-thesaurus](https://github.com/idbrii/vim-online-thesaurus): Alternative windows port fork: A Vim plugin for looking up words in an online thesaurus
-*   [airblade/vim-rooter](https://github.com/airblade/vim-rooter): Changes Vim working directory to project root.
-*   [mrzool/dotfiles](https://github.com/mrzool/dotfiles): Config files for my *nix systems
-*   [bruxisma/dotfiles](https://github.com/bruxisma/dotfiles): Izzy Muerte's Dotfiles
 *   [rhysd/devdocs.vim](https://github.com/rhysd/devdocs.vim): Open devdocs.io from Vim
 *   [Airblader/dotfiles-manjaro](https://github.com/Airblader/dotfiles-manjaro): My personal dotfiles (how do these have so many stars?)
 *   [thalesmello/webcomplete.vim](https://github.com/thalesmello/webcomplete.vim): A plugin for Vim that completes words from your browser
-*   [dhruvasagar/vim-prosession](https://github.com/dhruvasagar/vim-prosession): Handle vim sessions like a pro
 *   [nkantar/SPI.vim](https://github.com/nkantar/SPI.vim): Sort Python Imports — Sort Python imports by module/package name
-*   [tpope/vim-markdown](https://github.com/tpope/vim-markdown): Vim Markdown runtime files
 *   [sunaku/vim-shortcut](https://github.com/sunaku/vim-shortcut): 💇 Discoverable & searchable shortcuts for (Neo)Vim
 *   [yuttie/comfortable-motion.vim](https://github.com/yuttie/comfortable-motion.vim): Brings physics-based smooth scrolling to the Vim world!
 *   [donRaphaco/neotex](https://github.com/donRaphaco/neotex): latex live preview - plugin for neovim and vim 8
-*   [skywind3000/asyncrun.vim](https://github.com/skywind3000/asyncrun.vim): :rocket: Run Async Shell Commands in Vim 8.0 / NeoVim and Output to the Quickfix Window !!
-*   [itchyny/calendar.vim](https://github.com/itchyny/calendar.vim): A calendar application for Vim
 *   [kopischke/unite-spell-suggest](https://github.com/kopischke/unite-spell-suggest): A unite.vim source of spell checking suggestions.
 *   [LucHermitte/vim-refactor](https://github.com/LucHermitte/vim-refactor): Generic Refactoring Plugin for Vim
-*   [vim-utils/vim-troll-stopper](https://github.com/vim-utils/vim-troll-stopper): Stop Unicode trolls from messing with your code.
 *   [saaguero/vim-textobj-pastedtext](https://github.com/saaguero/vim-textobj-pastedtext): A convenient text object for last pasted text
-*   [editorconfig/editorconfig-vim](https://github.com/editorconfig/editorconfig-vim): EditorConfig plugin for Vim
-*   [tpope/vim-pathogen](https://github.com/tpope/vim-pathogen): pathogen.vim: manage your runtimepath
 *   [coot/EnchantedVim](https://github.com/coot/EnchantedVim): Persistent Very Magic Patterns in Vim Commands.
 *   [thoughtstream/Damian-Conway-s-Vim-Setup](https://github.com/thoughtstream/Damian-Conway-s-Vim-Setup): Snapshots of my Vim setup. Open source, but utterly unsupported...and probably dangerous.
-*   [ludovicchabant/vim-gutentags](https://github.com/ludovicchabant/vim-gutentags): A Vim plugin that manages your tag files
 *   [sickill/vim-pasta](https://github.com/sickill/vim-pasta): Pasting in Vim with indentation adjusted to destination context
-*   [jpalardy/vim-slime](https://github.com/jpalardy/vim-slime): A vim plugin to give you some slime. (Emacs)
 *   [tommcdo/vim-lion](https://github.com/tommcdo/vim-lion): A simple alignment operator for Vim text editor
 *   [kana/vim-textobj-entire](https://github.com/kana/vim-textobj-entire): Vim plugin: Text objects for entire buffer
 *   [christoomey/vim-sort-motion](https://github.com/christoomey/vim-sort-motion): Vim mapping for sorting a range of text
 *   [PotatoesMaster/i3-vim-syntax](https://github.com/PotatoesMaster/i3-vim-syntax): Vim syntax for i3 window manager config
 *   [falconindy/dotfiles](https://github.com/falconindy/dotfiles): Config files from $HOME
-*   [wincent/wincent](https://github.com/wincent/wincent): 💾 Dot-files
 *   [skorokithakis/pastery.vim](https://github.com/skorokithakis/pastery.vim): A Vim plugin for the sweetest pastebin in the world, pastery.net.
-*   [embear/vim-localvimrc](https://github.com/embear/vim-localvimrc): Search local vimrc files (".lvimrc") in the tree (root dir up to current dir) and load them.
-*   [machakann/vim-sandwich](https://github.com/machakann/vim-sandwich): Set of operators and textobjects to search/select/edit sandwiched texts.
-*   [tpope/vim-sexp-mappings-for-regular-people](https://github.com/tpope/vim-sexp-mappings-for-regular-people): vim-sexp mappings for regular people
-*   [tpope/vim-projectionist](https://github.com/tpope/vim-projectionist): projectionist.vim: Granular project configuration
 *   [tpope/vim-scriptease](https://github.com/tpope/vim-scriptease): scriptease.vim: A Vim plugin for Vim plugins
 *   [kana/vim-textobj-fold](https://github.com/kana/vim-textobj-fold): Vim plugin: Text objects for foldings
 *   [Shougo/neocomplete.vim](https://github.com/Shougo/neocomplete.vim): Next generation completion framework after neocomplcache
 *   [jamessan/vim-gnupg](https://github.com/jamessan/vim-gnupg): This script implements transparent editing of gpg encrypted files.
 *   [mhinz/vim-galore](https://github.com/mhinz/vim-galore): :mortar_board: All things Vim!
 *   [junegunn/vim-after-object](https://github.com/junegunn/vim-after-object): :point_right: Target text *after* the designated characters
-*   [junegunn/gv.vim](https://github.com/junegunn/gv.vim): A git commit browser in Vim
 *   [junegunn/vim-journal](https://github.com/junegunn/vim-journal): :memo:
-*   [tpope/vim-abolish](https://github.com/tpope/vim-abolish): abolish.vim: easily search for, substitute, and abbreviate multiple variants of a word
 *   [jeetsukumaran/vim-filebeagle](https://github.com/jeetsukumaran/vim-filebeagle): A VINE-spired (Vim Is Not Emacs) file system explorer.
 *   [altercation/solarized](https://github.com/altercation/solarized): precision color scheme for multiple applications (terminal, vim, etc.) with both dark/light modes
 *   [wellle/dotfiles](https://github.com/wellle/dotfiles): vim, zsh, tmux etc.
-*   [Shougo/dein.vim](https://github.com/Shougo/dein.vim): :zap: Dark powered Vim/Neovim plugin manager
 *   [wellle/visual-split.vim](https://github.com/wellle/visual-split.vim): Vim plugin to control splits with visual selections or text objects
 *   [kassio/neoterm](https://github.com/kassio/neoterm): Wrapper of some vim/neovim's :terminal functions.
-*   [python-mode/python-mode](https://github.com/python-mode/python-mode): Vim python-mode. PyLint, Rope, Pydoc, breakpoints from box.
-*   [vim/vim](https://github.com/vim/vim): The official Vim repository
 *   [r00k/dotfiles](https://github.com/r00k/dotfiles): config files for zsh, bash, completions, gem, git, irb, rails, vim
-*   [vim-autoformat/vim-autoformat](https://github.com/vim-autoformat/vim-autoformat): Provide easy code formatting in Vim by integrating existing code formatters.
 *   [AlessandroYorba/Alduin](https://github.com/AlessandroYorba/Alduin): A Vim Colorscheme
 *   [wellle/targets.vim](https://github.com/wellle/targets.vim): Vim plugin that provides additional text objects
-*   [Konfekt/FastFold](https://github.com/Konfekt/FastFold): Speed up Vim by updating folds only when called-for.
-*   [mattn/vim-gist](https://github.com/mattn/vim-gist): Vim plugin for Gist
-*   [junegunn/dotfiles](https://github.com/junegunn/dotfiles): :house_with_garden: It's personal
 *   [fboender/bexec](https://github.com/fboender/bexec): A vim plugin that allows the user to execute the current buffer
-*   [rhysd/clever-f.vim](https://github.com/rhysd/clever-f.vim): Extended f, F, t and T key mappings for Vim.
-*   [junegunn/fzf.vim](https://github.com/junegunn/fzf.vim): fzf :heart: vim
 *   [vim-utils/vim-alt-mappings](https://github.com/vim-utils/vim-alt-mappings): (experimental!) Enables ALT key mappings in terminal vim
 *   [pgilad/vim-skeletons](https://github.com/pgilad/vim-skeletons): Quickly scaffold template files in your favorite editor using UltiSnips templates
 *   [noahfrederick/vim-skeleton](https://github.com/noahfrederick/vim-skeleton): Initialize new Vim buffers with file-type-specific templates
 *   [kana/vim-textobj-user](https://github.com/kana/vim-textobj-user): Vim plugin: Create your own text objects
-*   [junegunn/goyo.vim](https://github.com/junegunn/goyo.vim): :tulip: Distraction-free writing in Vim
 *   [preservim/vim-pencil](https://github.com/preservim/vim-pencil): Rethinking Vim as a tool for writing
 *   [neomake/neomake](https://github.com/neomake/neomake): Asynchronous linting and make framework for Neovim/Vim
-*   [justinmk/vim-dirvish](https://github.com/justinmk/vim-dirvish): Directory viewer for Vim :zap:
-*   [dhruvasagar/vim-table-mode](https://github.com/dhruvasagar/vim-table-mode): VIM Table Mode for instant table creation.
 *   [osyo-manga/vim-over](https://github.com/osyo-manga/vim-over): :substitute preview
 *   [Shougo/unite.vim](https://github.com/Shougo/unite.vim): :dragon: Unite and create user interfaces
 *   [junegunn/vim-easy-align](https://github.com/junegunn/vim-easy-align): :sunflower: A Vim alignment plugin
@@ -694,18 +730,11 @@
 *   [nathanaelkane/vim-indent-guides](https://github.com/nathanaelkane/vim-indent-guides): A Vim plugin for visually displaying indent levels in code
 *   [jez/vim-superman](https://github.com/jez/vim-superman): Read Unix man pages faster than a speeding bullet!
 *   [keith/investigate.vim](https://github.com/keith/investigate.vim): A Vim plugin for looking up documentation
-*   [rkitover/vimpager](https://github.com/rkitover/vimpager): Use Vim as PAGER
-*   [preservim/vim-markdown](https://github.com/preservim/vim-markdown): Markdown Vim Mode
 *   [kshenoy/vim-signature](https://github.com/kshenoy/vim-signature): Plugin to toggle, display and navigate marks
-*   [junegunn/vim-plug](https://github.com/junegunn/vim-plug): :hibiscus: Minimalist Vim Plugin Manager
-*   [tyru/open-browser.vim](https://github.com/tyru/open-browser.vim): Open URI with your favorite browser from your most favorite editor
-*   [tpope/vim-unimpaired](https://github.com/tpope/vim-unimpaired): unimpaired.vim: Pairs of handy bracket mappings
 *   [guns/vim-sexp](https://github.com/guns/vim-sexp): Precision Editing for S-expressions
 *   [MarcWeber/vim-addon-manager](https://github.com/MarcWeber/vim-addon-manager): manage and install vim plugins (including their dependencies) in a sane way. If you have any trouble contact me. Usually I reply within 24 hours
 *   [preservim/nerdtree](https://github.com/preservim/nerdtree): A tree explorer plugin for vim.
-*   [tpope/vim-speeddating](https://github.com/tpope/vim-speeddating): speeddating.vim: use CTRL-A/CTRL-X to increment dates, times, and more
 *   [tpope/vim-endwise](https://github.com/tpope/vim-endwise): endwise.vim: Wisely add
-*   [tpope/vim-eunuch](https://github.com/tpope/vim-eunuch): eunuch.vim: Helpers for UNIX
 *   [tpope/vim-vinegar](https://github.com/tpope/vim-vinegar): vinegar.vim: Combine with netrw to create a delicious salad dressing
 *   [mtth/scratch.vim](https://github.com/mtth/scratch.vim): Unobtrusive scratch window
 *   [vim-utils/vim-man](https://github.com/vim-utils/vim-man): View and grep man pages in vim
@@ -714,9 +743,7 @@
 *   [preservim/vim-lexical](https://github.com/preservim/vim-lexical): Build on Vim’s spell/thes/dict completion
 *   [moll/vim-bbye](https://github.com/moll/vim-bbye): Delete buffers and close files in Vim without closing your windows or messing up your layout. Like Bclose.vim, but rewritten and well maintained.
 *   [qpkorr/vim-bufkill](https://github.com/qpkorr/vim-bufkill): Git repo for http://www.vim.org/scripts/script.php?script_id=1147
-*   [tpope/vim-sleuth](https://github.com/tpope/vim-sleuth): sleuth.vim: Heuristically set buffer options
 *   [felipec/notmuch-vim](https://github.com/felipec/notmuch-vim): Text-based mail user agent in vim using notmuch.
-*   [tpope/vim-obsession](https://github.com/tpope/vim-obsession): obsession.vim: continuously updated session files
 *   [terryma/vim-multiple-cursors](https://github.com/terryma/vim-multiple-cursors): True Sublime Text style multiple selections for Vim
 *   [nanotech/jellybeans.vim](https://github.com/nanotech/jellybeans.vim): A colorful, dark color scheme for Vim.
 *   [jonathanfilip/vim-lucius](https://github.com/jonathanfilip/vim-lucius): Lucius color scheme for vim
@@ -724,38 +751,24 @@
 *   [lambdalisue/vim-manpager](https://github.com/lambdalisue/vim-manpager): Use Vim as a MANPAGER program
 *   [itchyny/landscape.vim](https://github.com/itchyny/landscape.vim): A colorscheme for Vim
 *   [derekwyatt/vim-fswitch](https://github.com/derekwyatt/vim-fswitch): Vim plug for switching between companion source files (e.g. ".h" and ".cpp")
-*   [vim-ctrlspace/vim-ctrlspace](https://github.com/vim-ctrlspace/vim-ctrlspace): Vim Space Controller
 *   [LucHermitte/lh-cpp](https://github.com/LucHermitte/lh-cpp): C&C++ ftplugins suite for Vim
 *   [octol/vim-cpp-enhanced-highlight](https://github.com/octol/vim-cpp-enhanced-highlight): Additional Vim syntax highlighting for C++ (including C++11/14/17)
 *   [tpope/dotfiles](https://github.com/tpope/dotfiles): tpope's dotfiles. DON'T USE unless you're tpope
 *   [Raimondi/delimitMate](https://github.com/Raimondi/delimitMate): Vim plugin, provides insert mode auto-completion for quotes, parens, brackets, etc.
 *   [svermeulen/vim-easyclip](https://github.com/svermeulen/vim-easyclip): Simplified clipboard functionality for Vim
 *   [tpope/vim-repeat](https://github.com/tpope/vim-repeat): repeat.vim: enable repeating supported plugin maps with "."
-*   [Shougo/vimproc.vim](https://github.com/Shougo/vimproc.vim): Interactive command execution in Vim.
 *   [sjl/gundo.vim](https://github.com/sjl/gundo.vim): A git mirror of gundo.vim
-*   [tpope/vim-commentary](https://github.com/tpope/vim-commentary): commentary.vim: comment stuff out
-*   [drmingdrmer/xptemplate](https://github.com/drmingdrmer/xptemplate): Code snippets engine for Vim, with snippets library.  XPTemplate let you write codes in a smooth, quick and comfortable way.
-*   [Shougo/neosnippet.vim](https://github.com/Shougo/neosnippet.vim): neo-snippet plugin
 *   [garbas/vim-snipmate](https://github.com/garbas/vim-snipmate): snipMate.vim aims to be a concise vim script that implements some of TextMate's snippets features in Vim.
-*   [airblade/vim-gitgutter](https://github.com/airblade/vim-gitgutter): A Vim plugin which shows git diff markers in the sign column and stages/previews/undoes hunks and partial hunks.
 *   [Shougo/vimfiler.vim](https://github.com/Shougo/vimfiler.vim): :file_folder: Powerful file explorer implemented by Vim script
-*   [preservim/nerdcommenter](https://github.com/preservim/nerdcommenter): Vim plugin for intensely nerdy commenting powers
-*   [preservim/tagbar](https://github.com/preservim/tagbar): Vim plugin that displays tags in a window, ordered by scope
-*   [tpope/vim-surround](https://github.com/tpope/vim-surround): surround.vim: Delete/change/add parentheses/quotes/XML-tags/much more with ease
 *   [vim-syntastic/syntastic](https://github.com/vim-syntastic/syntastic): Syntax checking hacks for vim
-*   [tpope/vim-fugitive](https://github.com/tpope/vim-fugitive): fugitive.vim: A Git wrapper so awesome, it should be illegal
 *   [Shougo/vimshell.vim](https://github.com/Shougo/vimshell.vim): :shell: Powerful shell implemented by vim.
-*   [neovim/neovim](https://github.com/neovim/neovim): Vim-fork focused on extensibility and usability
-*   [itchyny/lightline.vim](https://github.com/itchyny/lightline.vim): A light and configurable statusline/tabline plugin for Vim
-*   [vim-airline/vim-airline](https://github.com/vim-airline/vim-airline): lean & mean status/tabline for vim that's light as air
-*   [tpope/vim-sensible](https://github.com/tpope/vim-sensible): sensible.vim: Defaults everyone can agree on
 
 ## VimL
 
 *   [vim-scripts/python_match.vim](https://github.com/vim-scripts/python_match.vim): Extend the % motion and define g%, [%, and ]% motions for Python files
 *   [sjl/dotfiles](https://github.com/sjl/dotfiles): A git mirror of my dotfiles (.vimrc, .zshrc, .hgrc, etc).  Note: this won't work on its own because the real repo uses Mercurial's subrepos.  Look at .hgsub and .hgsubstate for what you'll need to get.
 *   [vim-utils/vim-most-minimal-folds](https://github.com/vim-utils/vim-most-minimal-folds): strips out all the noise from vim's fold line
-*   [unrelentingtech/intero.nvim](https://github.com/unrelentingtech/intero.nvim): Haskell+Neovim lightning fast autocompletion and other IDE functionality
+*   [valpackett/intero.nvim](https://github.com/valpackett/intero.nvim): Haskell+Neovim lightning fast autocompletion and other IDE functionality
 *   [glts/vim-textobj-comment](https://github.com/glts/vim-textobj-comment): Vim text objects for comments
 *   [spolu/dwm.vim](https://github.com/spolu/dwm.vim): Tiled Window Management for Vim
 *   [gilligan/textobj-gitgutter](https://github.com/gilligan/textobj-gitgutter)
