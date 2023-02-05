@@ -654,6 +654,7 @@
 *   [tpope/vim-speeddating](https://github.com/tpope/vim-speeddating): speeddating.vim: use CTRL-A/CTRL-X to increment dates, times, and more
 *   [tpope/vim-endwise](https://github.com/tpope/vim-endwise): endwise.vim: Wisely add
 *   [tpope/vim-eunuch](https://github.com/tpope/vim-eunuch): eunuch.vim: Helpers for UNIX
+*   [tpope/vim-dispatch](https://github.com/tpope/vim-dispatch): dispatch.vim: Asynchronous build and test dispatcher
 *   [tpope/vim-sleuth](https://github.com/tpope/vim-sleuth): sleuth.vim: Heuristically set buffer options
 *   [tpope/vim-obsession](https://github.com/tpope/vim-obsession): obsession.vim: continuously updated session files
 *   [vim-ctrlspace/vim-ctrlspace](https://github.com/vim-ctrlspace/vim-ctrlspace): Vim Space Controller
@@ -740,7 +741,6 @@
 *   [mtth/scratch.vim](https://github.com/mtth/scratch.vim): Unobtrusive scratch window
 *   [vim-utils/vim-man](https://github.com/vim-utils/vim-man): View and grep man pages in vim
 *   [michaeljsmith/vim-indent-object](https://github.com/michaeljsmith/vim-indent-object): Vim plugin that defines a new text object representing lines of code at the same indent level. Useful for python/vim scripts, etc.
-*   [tpope/vim-dispatch](https://github.com/tpope/vim-dispatch): dispatch.vim: Asynchronous build and test dispatcher
 *   [preservim/vim-lexical](https://github.com/preservim/vim-lexical): Build on Vim’s spell/thes/dict completion
 *   [moll/vim-bbye](https://github.com/moll/vim-bbye): Delete buffers and close files in Vim without closing your windows or messing up your layout. Like Bclose.vim, but rewritten and well maintained.
 *   [qpkorr/vim-bufkill](https://github.com/qpkorr/vim-bufkill): Git repo for http://www.vim.org/scripts/script.php?script_id=1147
