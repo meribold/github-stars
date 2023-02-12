@@ -652,6 +652,7 @@
 *   [junegunn/vim-plug](https://github.com/junegunn/vim-plug): :hibiscus: Minimalist Vim Plugin Manager
 *   [tyru/open-browser.vim](https://github.com/tyru/open-browser.vim): Open URI with your favorite browser from your most favorite editor
 *   [tpope/vim-unimpaired](https://github.com/tpope/vim-unimpaired): unimpaired.vim: Pairs of handy bracket mappings
+*   [MarcWeber/vim-addon-manager](https://github.com/MarcWeber/vim-addon-manager): manage and install vim plugins (including their dependencies) in a sane way. If you have any trouble contact me. Usually I reply within 24 hours
 *   [tpope/vim-speeddating](https://github.com/tpope/vim-speeddating): speeddating.vim: use CTRL-A/CTRL-X to increment dates, times, and more
 *   [tpope/vim-endwise](https://github.com/tpope/vim-endwise): endwise.vim: Wisely add
 *   [tpope/vim-eunuch](https://github.com/tpope/vim-eunuch): eunuch.vim: Helpers for UNIX
@@ -736,7 +737,6 @@
 *   [keith/investigate.vim](https://github.com/keith/investigate.vim): A Vim plugin for looking up documentation
 *   [kshenoy/vim-signature](https://github.com/kshenoy/vim-signature): Plugin to toggle, display and navigate marks
 *   [guns/vim-sexp](https://github.com/guns/vim-sexp): Precision Editing for S-expressions
-*   [MarcWeber/vim-addon-manager](https://github.com/MarcWeber/vim-addon-manager): manage and install vim plugins (including their dependencies) in a sane way. If you have any trouble contact me. Usually I reply within 24 hours
 *   [preservim/nerdtree](https://github.com/preservim/nerdtree): A tree explorer plugin for vim.
 *   [tpope/vim-vinegar](https://github.com/tpope/vim-vinegar): vinegar.vim: Combine with netrw to create a delicious salad dressing
 *   [mtth/scratch.vim](https://github.com/mtth/scratch.vim): Unobtrusive scratch window
