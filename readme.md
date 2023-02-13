@@ -536,7 +536,7 @@
 *   [icy/pacapt](https://github.com/icy/pacapt): An ArchLinux's pacman-like shell wrapper for many package managers. 56KB and run anywhere.
 *   [meribold/git-snap](https://github.com/meribold/git-snap): Create snapshot commits on a not checked-out branch without touching the working tree or losing staged changes
 *   [LukeSmithxyz/voidrice](https://github.com/LukeSmithxyz/voidrice): My dotfiles (deployed by LARBS)
-*   [googlefonts/noto-cjk](https://github.com/googlefonts/noto-cjk): Noto CJK fonts
+*   [notofonts/noto-cjk](https://github.com/notofonts/noto-cjk): Noto CJK fonts
 *   [meribold/muccadoro](https://github.com/meribold/muccadoro): 🍅 Pomodoro timer using figlet, cowsay, and optionally lolcat 🐮
 *   [kathamer/DebianKindle](https://github.com/kathamer/DebianKindle): Scripts to install Debian on your Kindle
 *   [qw3rtman/git-fire](https://github.com/qw3rtman/git-fire): :fire: Save Your Code in an Emergency
