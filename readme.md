@@ -645,6 +645,7 @@
 *   [rhysd/clever-f.vim](https://github.com/rhysd/clever-f.vim): Extended f, F, t and T key mappings for Vim.
 *   [junegunn/fzf.vim](https://github.com/junegunn/fzf.vim): fzf :heart: vim
 *   [junegunn/goyo.vim](https://github.com/junegunn/goyo.vim): :tulip: Distraction-free writing in Vim
+*   [neomake/neomake](https://github.com/neomake/neomake): Asynchronous linting and make framework for Neovim/Vim
 *   [justinmk/vim-dirvish](https://github.com/justinmk/vim-dirvish): Directory viewer for Vim :zap:
 *   [dhruvasagar/vim-table-mode](https://github.com/dhruvasagar/vim-table-mode): VIM Table Mode for instant table creation.
 *   [rkitover/vimpager](https://github.com/rkitover/vimpager): Use Vim as PAGER
@@ -724,7 +725,6 @@
 *   [noahfrederick/vim-skeleton](https://github.com/noahfrederick/vim-skeleton): Initialize new Vim buffers with file-type-specific templates
 *   [kana/vim-textobj-user](https://github.com/kana/vim-textobj-user): Vim plugin: Create your own text objects
 *   [preservim/vim-pencil](https://github.com/preservim/vim-pencil): Rethinking Vim as a tool for writing
-*   [neomake/neomake](https://github.com/neomake/neomake): Asynchronous linting and make framework for Neovim/Vim
 *   [osyo-manga/vim-over](https://github.com/osyo-manga/vim-over): :substitute preview
 *   [Shougo/unite.vim](https://github.com/Shougo/unite.vim): :dragon: Unite and create user interfaces
 *   [junegunn/vim-easy-align](https://github.com/junegunn/vim-easy-align): :sunflower: A Vim alignment plugin
