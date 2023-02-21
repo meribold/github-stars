@@ -732,7 +732,7 @@
 *   [tommcdo/vim-exchange](https://github.com/tommcdo/vim-exchange): Easy text exchange operator for Vim
 *   [bronson/vim-visual-star-search](https://github.com/bronson/vim-visual-star-search): Start a * or # search from a visual block
 *   [ntpeters/vim-better-whitespace](https://github.com/ntpeters/vim-better-whitespace): Better whitespace highlighting for Vim
-*   [nathanaelkane/vim-indent-guides](https://github.com/nathanaelkane/vim-indent-guides): A Vim plugin for visually displaying indent levels in code
+*   [preservim/vim-indent-guides](https://github.com/preservim/vim-indent-guides): A Vim plugin for visually displaying indent levels in code
 *   [jez/vim-superman](https://github.com/jez/vim-superman): Read Unix man pages faster than a speeding bullet!
 *   [keith/investigate.vim](https://github.com/keith/investigate.vim): A Vim plugin for looking up documentation
 *   [kshenoy/vim-signature](https://github.com/kshenoy/vim-signature): Plugin to toggle, display and navigate marks
