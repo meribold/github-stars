@@ -640,6 +640,7 @@
 *   [python-mode/python-mode](https://github.com/python-mode/python-mode): Vim python-mode. PyLint, Rope, Pydoc, breakpoints from box.
 *   [vim/vim](https://github.com/vim/vim): The official Vim repository
 *   [vim-autoformat/vim-autoformat](https://github.com/vim-autoformat/vim-autoformat): Provide easy code formatting in Vim by integrating existing code formatters.
+*   [wellle/targets.vim](https://github.com/wellle/targets.vim): Vim plugin that provides additional text objects
 *   [Konfekt/FastFold](https://github.com/Konfekt/FastFold): Speed up Vim by updating folds only when called-for.
 *   [mattn/vim-gist](https://github.com/mattn/vim-gist): Vim plugin for Gist
 *   [rhysd/clever-f.vim](https://github.com/rhysd/clever-f.vim): Extended f, F, t and T key mappings for Vim.
@@ -719,7 +720,6 @@
 *   [kassio/neoterm](https://github.com/kassio/neoterm): Wrapper of some vim/neovim's :terminal functions.
 *   [r00k/dotfiles](https://github.com/r00k/dotfiles): config files for zsh, bash, completions, gem, git, irb, rails, vim
 *   [AlessandroYorba/Alduin](https://github.com/AlessandroYorba/Alduin): A Vim Colorscheme
-*   [wellle/targets.vim](https://github.com/wellle/targets.vim): Vim plugin that provides additional text objects
 *   [fboender/bexec](https://github.com/fboender/bexec): A vim plugin that allows the user to execute the current buffer
 *   [vim-utils/vim-alt-mappings](https://github.com/vim-utils/vim-alt-mappings): (experimental!) Enables ALT key mappings in terminal vim
 *   [pgilad/vim-skeletons](https://github.com/pgilad/vim-skeletons): Quickly scaffold template files in your favorite editor using UltiSnips templates
