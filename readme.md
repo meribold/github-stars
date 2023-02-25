@@ -635,7 +635,7 @@
 *   [tpope/vim-sexp-mappings-for-regular-people](https://github.com/tpope/vim-sexp-mappings-for-regular-people): vim-sexp mappings for regular people
 *   [tpope/vim-projectionist](https://github.com/tpope/vim-projectionist): projectionist.vim: Granular project configuration
 *   [junegunn/gv.vim](https://github.com/junegunn/gv.vim): A git commit browser in Vim
-*   [tpope/vim-abolish](https://github.com/tpope/vim-abolish): abolish.vim: easily search for, substitute, and abbreviate multiple variants of a word
+*   [tpope/vim-abolish](https://github.com/tpope/vim-abolish): abolish.vim: Work with several variants of a word at once
 *   [Shougo/dein.vim](https://github.com/Shougo/dein.vim): :zap: Dark powered Vim/Neovim plugin manager
 *   [python-mode/python-mode](https://github.com/python-mode/python-mode): Vim python-mode. PyLint, Rope, Pydoc, breakpoints from box.
 *   [vim/vim](https://github.com/vim/vim): The official Vim repository
@@ -663,6 +663,7 @@
 *   [tpope/vim-sleuth](https://github.com/tpope/vim-sleuth): sleuth.vim: Heuristically set buffer options
 *   [tpope/vim-obsession](https://github.com/tpope/vim-obsession): obsession.vim: continuously updated session files
 *   [vim-ctrlspace/vim-ctrlspace](https://github.com/vim-ctrlspace/vim-ctrlspace): Vim Space Controller
+*   [tpope/dotfiles](https://github.com/tpope/dotfiles): tpope's dotfiles. DON'T USE unless you're tpope
 *   [Shougo/vimproc.vim](https://github.com/Shougo/vimproc.vim): Interactive command execution in Vim.
 *   [tpope/vim-commentary](https://github.com/tpope/vim-commentary): commentary.vim: comment stuff out
 *   [drmingdrmer/xptemplate](https://github.com/drmingdrmer/xptemplate): Code snippets engine for Vim, with snippets library.  XPTemplate let you write codes in a smooth, quick and comfortable way.
@@ -755,7 +756,6 @@
 *   [derekwyatt/vim-fswitch](https://github.com/derekwyatt/vim-fswitch): Vim plug for switching between companion source files (e.g. ".h" and ".cpp")
 *   [LucHermitte/lh-cpp](https://github.com/LucHermitte/lh-cpp): C&C++ ftplugins suite for Vim
 *   [octol/vim-cpp-enhanced-highlight](https://github.com/octol/vim-cpp-enhanced-highlight): Additional Vim syntax highlighting for C++ (including C++11/14/17)
-*   [tpope/dotfiles](https://github.com/tpope/dotfiles): tpope's dotfiles. DON'T USE unless you're tpope
 *   [Raimondi/delimitMate](https://github.com/Raimondi/delimitMate): Vim plugin, provides insert mode auto-completion for quotes, parens, brackets, etc.
 *   [svermeulen/vim-easyclip](https://github.com/svermeulen/vim-easyclip): Simplified clipboard functionality for Vim
 *   [tpope/vim-repeat](https://github.com/tpope/vim-repeat): repeat.vim: enable repeating supported plugin maps with "."
