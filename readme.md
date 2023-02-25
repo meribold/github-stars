@@ -163,7 +163,7 @@
 *   [dhewm/dhewm3](https://github.com/dhewm/dhewm3): dhewm 3 main repository
 *   [boostorg/thread](https://github.com/boostorg/thread): Boost.org thread module
 *   [doxygen/doxygen](https://github.com/doxygen/doxygen): Official doxygen git repository
-*   [brndnmtthws/conky](https://github.com/brndnmtthws/conky): Light-weight system monitor for X (and other things, too)
+*   [brndnmtthws/conky](https://github.com/brndnmtthws/conky): Light-weight system monitor for X, Wayland, and other things, too
 *   [meribold/nutshell_dynamics](https://github.com/meribold/nutshell_dynamics): Collision detection and resolution of rigid bodies in 3D space
 *   [ladislav-zezula/CascLib](https://github.com/ladislav-zezula/CascLib): An open-source implementation of library for reading CASC storages from Blizzard games since 2014
 *   [wxWidgets/wxWidgets](https://github.com/wxWidgets/wxWidgets): Cross-Platform C++ GUI Library
