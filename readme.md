@@ -631,6 +631,7 @@
 *   [jpalardy/vim-slime](https://github.com/jpalardy/vim-slime): A vim plugin to give you some slime. (Emacs)
 *   [wincent/wincent](https://github.com/wincent/wincent): 💾 Dot-files
 *   [embear/vim-localvimrc](https://github.com/embear/vim-localvimrc): Search local vimrc files (".lvimrc") in the tree (root dir up to current dir) and load them.
+*   [MarcWeber/vim-addon-local-vimrc](https://github.com/MarcWeber/vim-addon-local-vimrc): kiss local vimrc with hash protection
 *   [machakann/vim-sandwich](https://github.com/machakann/vim-sandwich): Set of operators and textobjects to search/select/edit sandwiched texts.
 *   [tpope/vim-sexp-mappings-for-regular-people](https://github.com/tpope/vim-sexp-mappings-for-regular-people): vim-sexp mappings for regular people
 *   [tpope/vim-projectionist](https://github.com/tpope/vim-projectionist): projectionist.vim: Granular project configuration
@@ -786,7 +787,6 @@
 *   [thinca/vim-visualstar](https://github.com/thinca/vim-visualstar): star for Visual-mode.
 *   [vim-scripts/repeatable-motions.vim](https://github.com/vim-scripts/repeatable-motions.vim): Make most motions repeatable
 *   [sorin-ionescu/vim-htmlvalidator](https://github.com/sorin-ionescu/vim-htmlvalidator): This is a Vim HTML compiler for validating against http://validator.nu.
-*   [MarcWeber/vim-addon-local-vimrc](https://github.com/MarcWeber/vim-addon-local-vimrc): kiss local vimrc with hash protection
 *   [xolox/vim-lua-ftplugin](https://github.com/xolox/vim-lua-ftplugin): Lua file type plug-in for the Vim text editor
 *   [mikewadsten/vim-gitwildignore](https://github.com/mikewadsten/vim-gitwildignore): Append files listed in .gitignore into wildignore.
 *   [goldfeld/vim-seek](https://github.com/goldfeld/vim-seek): Seek makes navigating long lines effortless, acting like f but taking two characters.
