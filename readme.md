@@ -640,6 +640,7 @@
 *   [Shougo/dein.vim](https://github.com/Shougo/dein.vim): :zap: Dark powered Vim/Neovim plugin manager
 *   [python-mode/python-mode](https://github.com/python-mode/python-mode): Vim python-mode. PyLint, Rope, Pydoc, breakpoints from box.
 *   [vim/vim](https://github.com/vim/vim): The official Vim repository
+*   [r00k/dotfiles](https://github.com/r00k/dotfiles): config files for zsh, bash, completions, gem, git, irb, rails, vim
 *   [vim-autoformat/vim-autoformat](https://github.com/vim-autoformat/vim-autoformat): Provide easy code formatting in Vim by integrating existing code formatters.
 *   [wellle/targets.vim](https://github.com/wellle/targets.vim): Vim plugin that provides additional text objects
 *   [Konfekt/FastFold](https://github.com/Konfekt/FastFold): Speed up Vim by updating folds only when called-for.
@@ -720,7 +721,6 @@
 *   [wellle/dotfiles](https://github.com/wellle/dotfiles): vim, zsh, tmux etc.
 *   [wellle/visual-split.vim](https://github.com/wellle/visual-split.vim): Vim plugin to control splits with visual selections or text objects
 *   [kassio/neoterm](https://github.com/kassio/neoterm): Wrapper of some vim/neovim's :terminal functions.
-*   [r00k/dotfiles](https://github.com/r00k/dotfiles): config files for zsh, bash, completions, gem, git, irb, rails, vim
 *   [AlessandroYorba/Alduin](https://github.com/AlessandroYorba/Alduin): A Vim Colorscheme
 *   [fboender/bexec](https://github.com/fboender/bexec): A vim plugin that allows the user to execute the current buffer
 *   [vim-utils/vim-alt-mappings](https://github.com/vim-utils/vim-alt-mappings): (experimental!) Enables ALT key mappings in terminal vim
