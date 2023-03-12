@@ -671,6 +671,7 @@
 *   [tpope/vim-commentary](https://github.com/tpope/vim-commentary): commentary.vim: comment stuff out
 *   [drmingdrmer/xptemplate](https://github.com/drmingdrmer/xptemplate): Code snippets engine for Vim, with snippets library.  XPTemplate let you write codes in a smooth, quick and comfortable way.
 *   [Shougo/neosnippet.vim](https://github.com/Shougo/neosnippet.vim): neo-snippet plugin
+*   [garbas/vim-snipmate](https://github.com/garbas/vim-snipmate): snipMate.vim aims to be a concise vim script that implements some of TextMate's snippets features in Vim.
 *   [airblade/vim-gitgutter](https://github.com/airblade/vim-gitgutter): A Vim plugin which shows git diff markers in the sign column and stages/previews/undoes hunks and partial hunks.
 *   [preservim/nerdcommenter](https://github.com/preservim/nerdcommenter): Vim plugin for intensely nerdy commenting powers
 *   [preservim/tagbar](https://github.com/preservim/tagbar): Vim plugin that displays tags in a window, ordered by scope
@@ -761,7 +762,6 @@
 *   [svermeulen/vim-easyclip](https://github.com/svermeulen/vim-easyclip): Simplified clipboard functionality for Vim
 *   [tpope/vim-repeat](https://github.com/tpope/vim-repeat): repeat.vim: enable repeating supported plugin maps with "."
 *   [sjl/gundo.vim](https://github.com/sjl/gundo.vim): A git mirror of gundo.vim
-*   [garbas/vim-snipmate](https://github.com/garbas/vim-snipmate): snipMate.vim aims to be a concise vim script that implements some of TextMate's snippets features in Vim.
 *   [Shougo/vimfiler.vim](https://github.com/Shougo/vimfiler.vim): :file_folder: Powerful file explorer implemented by Vim script
 *   [vim-syntastic/syntastic](https://github.com/vim-syntastic/syntastic): Syntax checking hacks for vim
 *   [Shougo/vimshell.vim](https://github.com/Shougo/vimshell.vim): :shell: Powerful shell implemented by vim.
