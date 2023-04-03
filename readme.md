@@ -129,6 +129,7 @@
 
 ## C++
 
+*   [OpenRCT2/OpenRCT2](https://github.com/OpenRCT2/OpenRCT2): An open source re-implementation of RollerCoaster Tycoon 2 🎢
 *   [ganaware/pcf2bdf](https://github.com/ganaware/pcf2bdf)
 *   [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop): Telegram Desktop messaging app
 *   [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot): Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
