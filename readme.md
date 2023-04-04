@@ -283,7 +283,7 @@
 *   [zhanghai/MaterialProgressBar](https://github.com/zhanghai/MaterialProgressBar): Material Design ProgressBar with consistent appearance
 *   [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android): A private messenger for Android.
 *   [signalapp/libsignal-service-java](https://github.com/signalapp/libsignal-service-java): A Java/Android library for communicating with the Signal messaging service.
-*   [AsamK/signal-cli](https://github.com/AsamK/signal-cli): signal-cli provides an unofficial commandline and dbus interface for signalapp/libsignal-service-java
+*   [AsamK/signal-cli](https://github.com/AsamK/signal-cli): signal-cli provides an unofficial commandline, dbus and JSON-RPC interface for the Signal messenger.
 *   [jatwigg/cmus-android-remote](https://github.com/jatwigg/cmus-android-remote): An android application for remotely controlling cmus music player.
 *   [MovingBlocks/Terasology](https://github.com/MovingBlocks/Terasology): Terasology - open source voxel world
 
