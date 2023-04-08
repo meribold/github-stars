@@ -605,6 +605,7 @@
 
 ## TypeScript
 
+*   [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock): Skip YouTube video sponsors (browser extension)
 *   [cs01/gdbgui](https://github.com/cs01/gdbgui): Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser.
 *   [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer): Run compilers interactively from your web browser and interact with the assembly
 *   [onivim/oni](https://github.com/onivim/oni): Oni: Modern Modal Editing - powered by Neovim
