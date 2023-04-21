@@ -401,6 +401,7 @@
 
 ## Python
 
+*   [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code): This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
 *   [scour-project/scour](https://github.com/scour-project/scour): Scour - An SVG Optimizer / Cleaner
 *   [meribold/github-stars](https://github.com/meribold/github-stars): A list of the repositories I starred on GitHub that updates itself using GitHub Actions
 *   [sigmavirus24/github3.py](https://github.com/sigmavirus24/github3.py): Hi, I'm a library for interacting with GItHub's REST API in a convenient and ergonomic way. I work on Python 3.6+.
