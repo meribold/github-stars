@@ -638,6 +638,7 @@
 *   [machakann/vim-sandwich](https://github.com/machakann/vim-sandwich): Set of operators and textobjects to search/select/edit sandwiched texts.
 *   [tpope/vim-sexp-mappings-for-regular-people](https://github.com/tpope/vim-sexp-mappings-for-regular-people): vim-sexp mappings for regular people
 *   [tpope/vim-projectionist](https://github.com/tpope/vim-projectionist): projectionist.vim: Granular project configuration
+*   [Shougo/neocomplete.vim](https://github.com/Shougo/neocomplete.vim): Next generation completion framework after neocomplcache
 *   [junegunn/gv.vim](https://github.com/junegunn/gv.vim): A git commit browser in Vim
 *   [tpope/vim-abolish](https://github.com/tpope/vim-abolish): abolish.vim: Work with several variants of a word at once
 *   [Shougo/dein.vim](https://github.com/Shougo/dein.vim): :zap: Dark powered Vim/Neovim plugin manager
@@ -656,6 +657,7 @@
 *   [neomake/neomake](https://github.com/neomake/neomake): Asynchronous linting and make framework for Neovim/Vim
 *   [justinmk/vim-dirvish](https://github.com/justinmk/vim-dirvish): Directory viewer for Vim :zap:
 *   [dhruvasagar/vim-table-mode](https://github.com/dhruvasagar/vim-table-mode): VIM Table Mode for instant table creation.
+*   [Shougo/unite.vim](https://github.com/Shougo/unite.vim): :dragon: Unite and create user interfaces
 *   [preservim/vim-indent-guides](https://github.com/preservim/vim-indent-guides): A Vim plugin for visually displaying indent levels in code
 *   [rkitover/vimpager](https://github.com/rkitover/vimpager): Use Vim as PAGER
 *   [preservim/vim-markdown](https://github.com/preservim/vim-markdown): Markdown Vim Mode
@@ -677,6 +679,7 @@
 *   [Shougo/neosnippet.vim](https://github.com/Shougo/neosnippet.vim): neo-snippet plugin
 *   [garbas/vim-snipmate](https://github.com/garbas/vim-snipmate): snipMate.vim aims to be a concise vim script that implements some of TextMate's snippets features in Vim.
 *   [airblade/vim-gitgutter](https://github.com/airblade/vim-gitgutter): A Vim plugin which shows git diff markers in the sign column and stages/previews/undoes hunks and partial hunks.
+*   [Shougo/vimfiler.vim](https://github.com/Shougo/vimfiler.vim): :file_folder: Powerful file explorer implemented by Vim script
 *   [preservim/nerdcommenter](https://github.com/preservim/nerdcommenter): Vim plugin for intensely nerdy commenting powers
 *   [preservim/tagbar](https://github.com/preservim/tagbar): Vim plugin that displays tags in a window, ordered by scope
 *   [tpope/vim-surround](https://github.com/tpope/vim-surround): surround.vim: Delete/change/add parentheses/quotes/XML-tags/much more with ease
@@ -717,7 +720,6 @@
 *   [skorokithakis/pastery.vim](https://github.com/skorokithakis/pastery.vim): A Vim plugin for the sweetest pastebin in the world, pastery.net.
 *   [tpope/vim-scriptease](https://github.com/tpope/vim-scriptease): scriptease.vim: A Vim plugin for Vim plugins
 *   [kana/vim-textobj-fold](https://github.com/kana/vim-textobj-fold): Vim plugin: Text objects for foldings
-*   [Shougo/neocomplete.vim](https://github.com/Shougo/neocomplete.vim): Next generation completion framework after neocomplcache
 *   [jamessan/vim-gnupg](https://github.com/jamessan/vim-gnupg): This script implements transparent editing of gpg encrypted files.
 *   [mhinz/vim-galore](https://github.com/mhinz/vim-galore): :mortar_board: All things Vim!
 *   [junegunn/vim-after-object](https://github.com/junegunn/vim-after-object): :point_right: Target text *after* the designated characters
@@ -733,7 +735,6 @@
 *   [noahfrederick/vim-skeleton](https://github.com/noahfrederick/vim-skeleton): Initialize new Vim buffers with file-type-specific templates
 *   [kana/vim-textobj-user](https://github.com/kana/vim-textobj-user): Vim plugin: Create your own text objects
 *   [osyo-manga/vim-over](https://github.com/osyo-manga/vim-over): :substitute preview
-*   [Shougo/unite.vim](https://github.com/Shougo/unite.vim): :dragon: Unite and create user interfaces
 *   [junegunn/vim-easy-align](https://github.com/junegunn/vim-easy-align): :sunflower: A Vim alignment plugin
 *   [godlygeek/tabular](https://github.com/godlygeek/tabular): Vim script for text filtering and alignment
 *   [tommcdo/vim-exchange](https://github.com/tommcdo/vim-exchange): Easy text exchange operator for Vim
@@ -765,7 +766,6 @@
 *   [svermeulen/vim-easyclip](https://github.com/svermeulen/vim-easyclip): Simplified clipboard functionality for Vim
 *   [tpope/vim-repeat](https://github.com/tpope/vim-repeat): repeat.vim: enable repeating supported plugin maps with "."
 *   [sjl/gundo.vim](https://github.com/sjl/gundo.vim): A git mirror of gundo.vim
-*   [Shougo/vimfiler.vim](https://github.com/Shougo/vimfiler.vim): :file_folder: Powerful file explorer implemented by Vim script
 *   [vim-syntastic/syntastic](https://github.com/vim-syntastic/syntastic): Syntax checking hacks for vim
 *   [Shougo/vimshell.vim](https://github.com/Shougo/vimshell.vim): :shell: Powerful shell implemented by vim.
 
