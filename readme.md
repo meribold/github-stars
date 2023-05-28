@@ -69,7 +69,7 @@
 *   [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg): Mirror of https://git.ffmpeg.org/ffmpeg.git
 *   [sjmulder/leftpad](https://github.com/sjmulder/leftpad): A serious attempt at a pointless program and library
 *   [hanslub42/rlwrap](https://github.com/hanslub42/rlwrap): A readline wrapper
-*   [stedolan/jq](https://github.com/stedolan/jq): Command-line JSON processor
+*   [jqlang/jq](https://github.com/jqlang/jq): Command-line JSON processor
 *   [derf/feh](https://github.com/derf/feh): a fast and light image viewer
 *   [libfuse/sshfs](https://github.com/libfuse/sshfs): A network filesystem client to connect to SSH servers
 *   [cruegge/pam-gnupg](https://github.com/cruegge/pam-gnupg): Unlock GnuPG keys on login
