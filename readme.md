@@ -532,6 +532,7 @@
 
 ## Shell
 
+*   [binpash/try](https://github.com/binpash/try): "Do, or do not. There is no try."  We're setting out to change that: `try cmd` and commit---or not.
 *   [poetaman/arttime](https://github.com/poetaman/arttime): arttime is a terminal application that blends beauty of text-art with functionality of clock / timer / pattern-based time manager ⏰
 *   [archlinux/svntogit-packages](https://github.com/archlinux/svntogit-packages): Automatic import of svn 'packages' repo (read-only mirror)
 *   [archlinux/svntogit-community](https://github.com/archlinux/svntogit-community): Automatic import of svn 'community' repo (read-only mirror)
