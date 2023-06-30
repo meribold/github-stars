@@ -338,7 +338,7 @@
 *   [MouselookHandler/MouselookHandler](https://github.com/MouselookHandler/MouselookHandler): World of Warcraft interface addon
 *   [luakit/luakit](https://github.com/luakit/luakit): Fast, small, webkit based browser framework extensible by Lua.
 *   [meribold/notion-hide-tabs](https://github.com/meribold/notion-hide-tabs): Lua script for the Notion window manager
-*   [neovim/lua-client](https://github.com/neovim/lua-client): Nvim Lua client
+*   [neovim/lua-client](https://github.com/neovim/lua-client): DEPRECATED
 *   [Primal-UI/PrimalUnitFrames](https://github.com/Primal-UI/PrimalUnitFrames): Unit frames
 *   [Primal-UI/PrimalAuras](https://github.com/Primal-UI/PrimalAuras): Aura frames
 *   [phanx-wow/AnyFavoriteMount](https://github.com/phanx-wow/AnyFavoriteMount): WoW AddOn — (DEPRECATED) Set any mount as a favorite, even if the default UI doesn't approve.
