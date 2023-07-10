@@ -329,6 +329,7 @@
 *   [Primal-UI/PrimalComboPoints](https://github.com/Primal-UI/PrimalComboPoints): Combo Point monitor
 *   [Primal-UI/PrimalGcd](https://github.com/Primal-UI/PrimalGcd): Global cooldown monitor
 *   [lithammer/NeavUI](https://github.com/lithammer/NeavUI): Development branch of Neav UI
+*   [sakhnik/nvim-gdb](https://github.com/sakhnik/nvim-gdb): Neovim thin wrapper for GDB, LLDB, PDB/PDB++ and BashDB
 *   [bruxisma/dotfiles](https://github.com/bruxisma/dotfiles): Izzy Muerte's Dotfiles
 *   [hkupty/nvimux](https://github.com/hkupty/nvimux): Neovim as a TMUX replacement
 *   [WeakAuras/WeakAuras2](https://github.com/WeakAuras/WeakAuras2): World of Warcraft addon that provides a powerful framework to display customizable graphics on your screen.
@@ -430,7 +431,6 @@
 *   [xdanaux/fontawesome-latex](https://github.com/xdanaux/fontawesome-latex): LaTeX mappings for Font Awesome, the icons font
 *   [KJoke70/i3-tools](https://github.com/KJoke70/i3-tools): Scripts for i3wm
 *   [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn): scikit-learn: machine learning in Python
-*   [sakhnik/nvim-gdb](https://github.com/sakhnik/nvim-gdb): Neovim thin wrapper for GDB, LLDB, PDB/PDB++ and BashDB
 *   [posativ/isso](https://github.com/posativ/isso): a Disqus alternative
 *   [scipy/scipy](https://github.com/scipy/scipy): SciPy library main repository
 *   [numpy/numpy](https://github.com/numpy/numpy): The fundamental package for scientific computing with Python.
