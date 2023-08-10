@@ -50,6 +50,7 @@
 
 ## C
 
+*   [torvalds/uemacs](https://github.com/torvalds/uemacs): Random version of microemacs with my private modificatons
 *   [jasonwryan/monsterwm](https://github.com/jasonwryan/monsterwm): minimal and dynamic tiling window manager
 *   [Matthias-Wandel/jhead](https://github.com/Matthias-Wandel/jhead): Command line program to display and manipupate Exif headers of jpeg files, written in C
 *   [Conservatory/wmctrl](https://github.com/Conservatory/wmctrl): Unix command-line tool to interact with an EWMH/NetWM-compatible X Window Manager.  See home site for upstream information.
