@@ -715,7 +715,7 @@
 *   [saaguero/vim-textobj-pastedtext](https://github.com/saaguero/vim-textobj-pastedtext): A convenient text object for last pasted text
 *   [coot/EnchantedVim](https://github.com/coot/EnchantedVim): Persistent Very Magic Patterns in Vim Commands.
 *   [thoughtstream/Damian-Conway-s-Vim-Setup](https://github.com/thoughtstream/Damian-Conway-s-Vim-Setup): Snapshots of my Vim setup. Open source, but utterly unsupported...and probably dangerous.
-*   [sickill/vim-pasta](https://github.com/sickill/vim-pasta): Pasting in Vim with indentation adjusted to destination context
+*   [ku1ik/vim-pasta](https://github.com/ku1ik/vim-pasta): Pasting in Vim with indentation adjusted to destination context
 *   [tommcdo/vim-lion](https://github.com/tommcdo/vim-lion): A simple alignment operator for Vim text editor
 *   [kana/vim-textobj-entire](https://github.com/kana/vim-textobj-entire): Vim plugin: Text objects for entire buffer
 *   [christoomey/vim-sort-motion](https://github.com/christoomey/vim-sort-motion): Vim mapping for sorting a range of text
