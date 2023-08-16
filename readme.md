@@ -252,7 +252,6 @@
 *   [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol): Defines a common protocol for language servers.
 *   [mattgodbolt/cppcon-bits-between-bits](https://github.com/mattgodbolt/cppcon-bits-between-bits): A presentation on how much stuff happens before your code even starts running
 *   [standardebooks/seneca_dialogues_aubrey-stewart](https://github.com/standardebooks/seneca_dialogues_aubrey-stewart): Epub source for the Standard Ebooks edition of Dialogues, by Seneca. Translated by Aubrey Stewart
-*   [standardebooks/epictetus_the-enchiridion_elizabeth-carter](https://github.com/standardebooks/epictetus_the-enchiridion_elizabeth-carter): Epub source for the Standard Ebooks edition of The Enchiridion of Epictetus. Translated by Elizabeth Carter
 *   [mojombo/mojombo.github.io](https://github.com/mojombo/mojombo.github.io): Jekyll source for my personal blog.
 *   [standardebooks/marcus-aurelius_meditations_george-long](https://github.com/standardebooks/marcus-aurelius_meditations_george-long): Epub source for the Standard Ebooks edition of Meditations, by Marcus Aurelius. Translated by George Long
 *   [eevee/eev.ee](https://github.com/eevee/eev.ee): my cool website
