@@ -173,6 +173,7 @@
 
 ## CSS
 
+*   [arp242/hello-css](https://github.com/arp242/hello-css): A CSS template focused on readability
 *   [lemonmade/bigfoot](https://github.com/lemonmade/bigfoot): A jQuery plugin for creating exceptional footnotes.
 *   [LukeSmithxyz/based.cooking](https://github.com/LukeSmithxyz/based.cooking): A simple culinary website.
 *   [meribold/meribold.org](https://github.com/meribold/meribold.org)
