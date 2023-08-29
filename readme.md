@@ -130,6 +130,7 @@
 
 ## C++
 
+*   [tomscii/zutty](https://github.com/tomscii/zutty): X terminal emulator rendering through OpenGL ES Compute Shaders
 *   [OpenRCT2/OpenRCT2](https://github.com/OpenRCT2/OpenRCT2): An open source re-implementation of RollerCoaster Tycoon 2 🎢
 *   [ganaware/pcf2bdf](https://github.com/ganaware/pcf2bdf)
 *   [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop): Telegram Desktop messaging app
