@@ -50,6 +50,7 @@
 
 ## C
 
+*   [jordansissel/xdotool](https://github.com/jordansissel/xdotool): fake keyboard/mouse input, window management, and more
 *   [torvalds/uemacs](https://github.com/torvalds/uemacs): Random version of microemacs with my private modificatons
 *   [jasonwryan/monsterwm](https://github.com/jasonwryan/monsterwm): minimal and dynamic tiling window manager
 *   [Matthias-Wandel/jhead](https://github.com/Matthias-Wandel/jhead): Command line program to display and manipupate Exif headers of jpeg files, written in C
