@@ -532,6 +532,7 @@
 
 ## Sass
 
+*   [readthedocs/sphinx_rtd_theme](https://github.com/readthedocs/sphinx_rtd_theme): Sphinx theme for readthedocs.org
 *   [dotfiles/dotfiles.github.com](https://github.com/dotfiles/dotfiles.github.com): Your unofficial guide to doing dotfiles on GitHub.
 
 ## Shell
