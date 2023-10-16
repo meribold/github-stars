@@ -354,7 +354,6 @@
 
 ## Makefile
 
-*   [archlinux/archlinux-docker](https://github.com/archlinux/archlinux-docker): Docker Base Image for Arch Linux (read-only mirror)
 *   [djc/no-close-buttons](https://github.com/djc/no-close-buttons): Firefox addon to remove close buttons from tabs
 
 ## Miscellaneous
@@ -542,6 +541,7 @@
 *   [archlinux/svntogit-community](https://github.com/archlinux/svntogit-community): Automatic import of svn 'community' repo (read-only mirror)
 *   [archlinux/svntogit-packages](https://github.com/archlinux/svntogit-packages): Automatic import of svn 'packages' repo (read-only mirror)
 *   [icy/pacapt](https://github.com/icy/pacapt): An ArchLinux's pacman-like shell wrapper for many package managers. 56KB and run anywhere.
+*   [archlinux/archlinux-docker](https://github.com/archlinux/archlinux-docker): Docker Base Image for Arch Linux (read-only mirror)
 *   [meribold/git-snap](https://github.com/meribold/git-snap): Create snapshot commits on a not checked-out branch without touching the working tree or losing staged changes
 *   [LukeSmithxyz/voidrice](https://github.com/LukeSmithxyz/voidrice): My dotfiles (deployed by LARBS)
 *   [notofonts/noto-cjk](https://github.com/notofonts/noto-cjk): Noto CJK fonts
