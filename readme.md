@@ -646,6 +646,7 @@
 *   [machakann/vim-sandwich](https://github.com/machakann/vim-sandwich): Set of operators and textobjects to search/select/edit sandwiched texts.
 *   [tpope/vim-sexp-mappings-for-regular-people](https://github.com/tpope/vim-sexp-mappings-for-regular-people): vim-sexp mappings for regular people
 *   [tpope/vim-projectionist](https://github.com/tpope/vim-projectionist): projectionist.vim: Granular project configuration
+*   [tpope/vim-scriptease](https://github.com/tpope/vim-scriptease): scriptease.vim: A Vim plugin for Vim plugins
 *   [Shougo/neocomplete.vim](https://github.com/Shougo/neocomplete.vim): Next generation completion framework after neocomplcache
 *   [junegunn/gv.vim](https://github.com/junegunn/gv.vim): A git commit browser in Vim
 *   [tpope/vim-abolish](https://github.com/tpope/vim-abolish): abolish.vim: Work with several variants of a word at once
@@ -725,7 +726,6 @@
 *   [PotatoesMaster/i3-vim-syntax](https://github.com/PotatoesMaster/i3-vim-syntax): Vim syntax for i3 window manager config
 *   [falconindy/dotfiles](https://github.com/falconindy/dotfiles): Config files from $HOME
 *   [skorokithakis/pastery.vim](https://github.com/skorokithakis/pastery.vim): A Vim plugin for the sweetest pastebin in the world, pastery.net.
-*   [tpope/vim-scriptease](https://github.com/tpope/vim-scriptease): scriptease.vim: A Vim plugin for Vim plugins
 *   [kana/vim-textobj-fold](https://github.com/kana/vim-textobj-fold): Vim plugin: Text objects for foldings
 *   [jamessan/vim-gnupg](https://github.com/jamessan/vim-gnupg): This script implements transparent editing of gpg encrypted files.
 *   [mhinz/vim-galore](https://github.com/mhinz/vim-galore): :mortar_board: All things Vim!
