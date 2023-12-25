@@ -411,7 +411,7 @@
 *   [maguowei/starred](https://github.com/maguowei/starred): creating your own Awesome List by GitHub stars!
 *   [sshuttle/sshuttle](https://github.com/sshuttle/sshuttle): Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
 *   [archlinux/archweb](https://github.com/archlinux/archweb): Arch Linux website code
-*   [wkentaro/labelme](https://github.com/wkentaro/labelme): Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation).
+*   [labelmeai/labelme](https://github.com/labelmeai/labelme): Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation).
 *   [psf/black](https://github.com/psf/black): The uncompromising Python code formatter
 *   [wavexx/screenkey](https://github.com/wavexx/screenkey): A screencast tool to display your keys inspired by Screenflick
 *   [mooz/xkeysnail](https://github.com/mooz/xkeysnail): Yet another keyboard remapping tool for X environment
