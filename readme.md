@@ -132,6 +132,7 @@
 
 ## C++
 
+*   [opencv/opencv_contrib](https://github.com/opencv/opencv_contrib): Repository for OpenCV's extra modules
 *   [tomscii/zutty](https://github.com/tomscii/zutty): X terminal emulator rendering through OpenGL ES Compute Shaders
 *   [OpenRCT2/OpenRCT2](https://github.com/OpenRCT2/OpenRCT2): An open source re-implementation of RollerCoaster Tycoon 2 🎢
 *   [ganaware/pcf2bdf](https://github.com/ganaware/pcf2bdf)
@@ -405,6 +406,7 @@
 
 ## Python
 
+*   [opencv/opencv-python](https://github.com/opencv/opencv-python): Automated CI toolchain to produce precompiled opencv-python, opencv-python-headless, opencv-contrib-python and opencv-contrib-python-headless packages.
 *   [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code): This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
 *   [scour-project/scour](https://github.com/scour-project/scour): Scour - An SVG Optimizer / Cleaner
 *   [meribold/github-stars](https://github.com/meribold/github-stars): A list of the repositories I starred on GitHub that updates itself using GitHub Actions
