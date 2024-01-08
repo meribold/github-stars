@@ -670,6 +670,7 @@
 *   [justinmk/vim-dirvish](https://github.com/justinmk/vim-dirvish): Directory viewer for Vim :zap:
 *   [dhruvasagar/vim-table-mode](https://github.com/dhruvasagar/vim-table-mode): VIM Table Mode for instant table creation.
 *   [Shougo/unite.vim](https://github.com/Shougo/unite.vim): :dragon: Unite and create user interfaces
+*   [ntpeters/vim-better-whitespace](https://github.com/ntpeters/vim-better-whitespace): Better whitespace highlighting for Vim
 *   [preservim/vim-indent-guides](https://github.com/preservim/vim-indent-guides): A Vim plugin for visually displaying indent levels in code
 *   [keith/investigate.vim](https://github.com/keith/investigate.vim): A Vim plugin for looking up documentation
 *   [rkitover/vimpager](https://github.com/rkitover/vimpager): Use Vim as PAGER
@@ -750,7 +751,6 @@
 *   [godlygeek/tabular](https://github.com/godlygeek/tabular): Vim script for text filtering and alignment
 *   [tommcdo/vim-exchange](https://github.com/tommcdo/vim-exchange): Easy text exchange operator for Vim
 *   [bronson/vim-visual-star-search](https://github.com/bronson/vim-visual-star-search): Start a * or # search from a visual block
-*   [ntpeters/vim-better-whitespace](https://github.com/ntpeters/vim-better-whitespace): Better whitespace highlighting for Vim
 *   [jez/vim-superman](https://github.com/jez/vim-superman): Read Unix man pages faster than a speeding bullet!
 *   [kshenoy/vim-signature](https://github.com/kshenoy/vim-signature): Plugin to toggle, display and navigate marks
 *   [guns/vim-sexp](https://github.com/guns/vim-sexp): Precision Editing for S-expressions
