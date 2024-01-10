@@ -133,7 +133,6 @@
 ## C++
 
 *   [opencv/opencv_contrib](https://github.com/opencv/opencv_contrib): Repository for OpenCV's extra modules
-*   [tomscii/zutty](https://github.com/tomscii/zutty): X terminal emulator rendering through OpenGL ES Compute Shaders
 *   [OpenRCT2/OpenRCT2](https://github.com/OpenRCT2/OpenRCT2): An open source re-implementation of RollerCoaster Tycoon 2 🎢
 *   [ganaware/pcf2bdf](https://github.com/ganaware/pcf2bdf)
 *   [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop): Telegram Desktop messaging app
@@ -360,6 +359,7 @@
 
 ## Miscellaneous
 
+*   [tomscii/zutty](https://github.com/tomscii/zutty): X terminal emulator rendering through OpenGL ES Compute Shaders
 *   [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line): Master the command line, in one page
 *   [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix): A collection of modern/faster/saner alternatives to common unix commands.
 *   [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars): My Awesome List
@@ -473,7 +473,6 @@
 *   [Shougo/deoplete.nvim](https://github.com/Shougo/deoplete.nvim): :stars: Dark powered asynchronous completion framework for neovim/Vim8
 *   [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl): Command-line program to download videos from YouTube.com and other video sites
 *   [chubin/wttr.in](https://github.com/chubin/wttr.in): :partly_sunny: The right way to check the weather
-*   [asciinema/asciinema](https://github.com/asciinema/asciinema): Terminal session recorder 📹
 *   [djmelik/archey](https://github.com/djmelik/archey): Archey is a system information tool written in Python.
 *   [MarkHedleyJones/dmenu-extended](https://github.com/MarkHedleyJones/dmenu-extended): An extension to dmenu for quickly opening files and folders.
 *   [cdown/yturl](https://github.com/cdown/yturl): YouTube videos on the command line
@@ -526,6 +525,7 @@
 *   [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep): ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 *   [alacritty/alacritty](https://github.com/alacritty/alacritty): A cross-platform, OpenGL terminal emulator.
 *   [withoutboats/notty](https://github.com/withoutboats/notty): A new kind of terminal
+*   [asciinema/asciinema](https://github.com/asciinema/asciinema): Terminal session recorder 📹
 
 ## SCSS
 
