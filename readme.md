@@ -540,7 +540,7 @@
 ## Shell
 
 *   [binpash/try](https://github.com/binpash/try): Inspect a command's effects before modifying your live system
-*   [poetaman/arttime](https://github.com/poetaman/arttime): arttime is a terminal application that blends beauty of text-art with functionality of clock / timer / pattern-based time manager ⏰
+*   [poetaman/arttime](https://github.com/poetaman/arttime): arttime is a terminal application that blends beauty of text-art with functionality of clock / timer / pattern-based time manager ⏰. Like an exquisite wristwatch, arttime can be used to display dynamic feed of information like weather, news, stocks, system metrics, and etc.
 *   [archlinux/svntogit-community](https://github.com/archlinux/svntogit-community): Automatic import of svn 'community' repo (read-only mirror)
 *   [archlinux/svntogit-packages](https://github.com/archlinux/svntogit-packages): Automatic import of svn 'packages' repo (read-only mirror)
 *   [icy/pacapt](https://github.com/icy/pacapt): An ArchLinux's pacman-like shell wrapper for many package managers. 56KB and run anywhere.
@@ -684,6 +684,7 @@
 *   [tpope/vim-speeddating](https://github.com/tpope/vim-speeddating): speeddating.vim: use CTRL-A/CTRL-X to increment dates, times, and more
 *   [tpope/vim-endwise](https://github.com/tpope/vim-endwise): endwise.vim: Wisely add
 *   [tpope/vim-eunuch](https://github.com/tpope/vim-eunuch): eunuch.vim: Helpers for UNIX
+*   [michaeljsmith/vim-indent-object](https://github.com/michaeljsmith/vim-indent-object): Vim plugin that defines a new text object representing lines of code at the same indent level. Useful for python/vim scripts, etc.
 *   [tpope/vim-dispatch](https://github.com/tpope/vim-dispatch): dispatch.vim: Asynchronous build and test dispatcher
 *   [tpope/vim-sleuth](https://github.com/tpope/vim-sleuth): sleuth.vim: Heuristically set buffer options
 *   [tpope/vim-obsession](https://github.com/tpope/vim-obsession): obsession.vim: continuously updated session files
@@ -757,7 +758,6 @@
 *   [tpope/vim-vinegar](https://github.com/tpope/vim-vinegar): vinegar.vim: Combine with netrw to create a delicious salad dressing
 *   [mtth/scratch.vim](https://github.com/mtth/scratch.vim): Unobtrusive scratch window
 *   [vim-utils/vim-man](https://github.com/vim-utils/vim-man): View and grep man pages in vim
-*   [michaeljsmith/vim-indent-object](https://github.com/michaeljsmith/vim-indent-object): Vim plugin that defines a new text object representing lines of code at the same indent level. Useful for python/vim scripts, etc.
 *   [preservim/vim-lexical](https://github.com/preservim/vim-lexical): Build on Vim’s spell/thes/dict completion
 *   [moll/vim-bbye](https://github.com/moll/vim-bbye): Delete buffers and close files in Vim without closing your windows or messing up your layout. Like Bclose.vim, but rewritten and well maintained.
 *   [qpkorr/vim-bufkill](https://github.com/qpkorr/vim-bufkill): Git repo for http://www.vim.org/scripts/script.php?script_id=1147
