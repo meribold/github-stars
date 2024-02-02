@@ -540,7 +540,7 @@
 ## Shell
 
 *   [binpash/try](https://github.com/binpash/try): Inspect a command's effects before modifying your live system
-*   [poetaman/arttime](https://github.com/poetaman/arttime): arttime is a terminal application that blends beauty of text-art with functionality of clock / timer / pattern-based time manager ⏰. One can also display customized dynamic feed of information like weather, news, stocks, system metrics and etc.
+*   [poetaman/arttime](https://github.com/poetaman/arttime): arttime is a terminal application that blends beauty of text-art with functionality of clock / timer / pattern-based time manager ⏰
 *   [archlinux/svntogit-community](https://github.com/archlinux/svntogit-community): Automatic import of svn 'community' repo (read-only mirror)
 *   [archlinux/svntogit-packages](https://github.com/archlinux/svntogit-packages): Automatic import of svn 'packages' repo (read-only mirror)
 *   [icy/pacapt](https://github.com/icy/pacapt): An ArchLinux's pacman-like shell wrapper for many package managers. 56KB and run anywhere.
