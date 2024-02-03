@@ -155,7 +155,7 @@
 *   [mawww/kakoune](https://github.com/mawww/kakoune): mawww's experiment for a better code editor
 *   [fenrus75/powertop](https://github.com/fenrus75/powertop): The Linux PowerTOP tool  -- please post patches to the mailing list instead of using github pull requests
 *   [realincubus/clang-refactor](https://github.com/realincubus/clang-refactor): This is a early attempt to write a refactor for c and c++ programs based on clang-modernize and oclint rules.
-*   [minetest/minetest](https://github.com/minetest/minetest): Minetest is an open source voxel game engine with easy modding and game creation
+*   [minetest/minetest](https://github.com/minetest/minetest): Minetest is an open source voxel game-creation platform with easy modding and game creation
 *   [libclang-vim/libclang-vim](https://github.com/libclang-vim/libclang-vim): Wrapper library of libclang for Vim script developers.
 *   [naelstrof/slop](https://github.com/naelstrof/slop): slop (Select Operation) is an application that queries for a selection from the user and prints the region to stdout.
 *   [naelstrof/maim](https://github.com/naelstrof/maim): maim (make image) takes screenshots of your desktop. It has options to take only a region, and relies on slop to query for regions. maim is supposed to be an improved scrot.
