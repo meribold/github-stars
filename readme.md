@@ -374,7 +374,7 @@
 *   [romainl/the-patient-vimmer](https://github.com/romainl/the-patient-vimmer): A guide for patient Vimmers.
 *   [Ryeeeeee/MarkdownX](https://github.com/Ryeeeeee/MarkdownX): Markdown text editor for Android
 *   [octol/vombatidae-mutt](https://github.com/octol/vombatidae-mutt): Colorscheme for the Mutt email reader.
-*   [servo/servo](https://github.com/servo/servo): The Servo Browser Engine
+*   [servo/servo](https://github.com/servo/servo): Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
 *   [solarized/xresources](https://github.com/solarized/xresources): Solarized for X Windows
 *   [hparadiz/chromium-disable-profile-button-patch](https://github.com/hparadiz/chromium-disable-profile-button-patch): Patch to disable user profile avatar button in open source Chromium builds
 *   [iridium-browser/tracker](https://github.com/iridium-browser/tracker): Iridium Browser tracker and wiki.
