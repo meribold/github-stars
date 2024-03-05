@@ -436,7 +436,7 @@
 *   [xdanaux/fontawesome-latex](https://github.com/xdanaux/fontawesome-latex): LaTeX mappings for Font Awesome, the icons font
 *   [KJoke70/i3-tools](https://github.com/KJoke70/i3-tools): Scripts for i3wm
 *   [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn): scikit-learn: machine learning in Python
-*   [posativ/isso](https://github.com/posativ/isso): a Disqus alternative
+*   [isso-comments/isso](https://github.com/isso-comments/isso): a Disqus alternative
 *   [scipy/scipy](https://github.com/scipy/scipy): SciPy library main repository
 *   [numpy/numpy](https://github.com/numpy/numpy): The fundamental package for scientific computing with Python.
 *   [scikit-image/scikit-image](https://github.com/scikit-image/scikit-image): Image processing in Python
