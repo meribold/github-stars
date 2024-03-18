@@ -367,6 +367,7 @@
 *   [DFgraphics/Ironhand](https://github.com/DFgraphics/Ironhand): [18x18] Ironhand 40.x - by Goldenshadow
 *   [mozilla/gecko-dev](https://github.com/mozilla/gecko-dev): Read-only Git mirror of the Mercurial gecko repositories at https://hg.mozilla.org. How to contribute: https://firefox-source-docs.mozilla.org/contributing/contribution_quickref.html
 *   [arasatasaygin/openlogos](https://github.com/arasatasaygin/openlogos): Free logos for open source projects
+*   [BartoszMilewski/Publications](https://github.com/BartoszMilewski/Publications): Misc. publications, conference slides, etc. For more, go to http://BartoszMilewski.com
 *   [mortalis13/Tabs-Backup](https://github.com/mortalis13/Tabs-Backup): Firefox Addon for Android. Allows export and import URLs to/from a text file.
 *   [mojombo/tpw](https://github.com/mojombo/tpw)
 *   [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles): A curated list of dotfiles resources.
@@ -606,7 +607,6 @@
 *   [cplusplus/draft](https://github.com/cplusplus/draft): C++ standards drafts
 *   [josephwright/siunitx](https://github.com/josephwright/siunitx): A comprehensive (SI) units package for LaTeX
 *   [hmemcpy/milewski-ctfp-pdf](https://github.com/hmemcpy/milewski-ctfp-pdf): Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source
-*   [BartoszMilewski/Publications](https://github.com/BartoszMilewski/Publications): Misc. publications, conference slides, etc. For more, go to http://BartoszMilewski.com
 *   [meribold/cache-seminar-paper](https://github.com/meribold/cache-seminar-paper): Seminar paper about hardware caches and how to use them effectively
 *   [meribold/greek-letters-table](https://github.com/meribold/greek-letters-table): LaTeX table of the greek alphabet
 *   [lervag/vimtex](https://github.com/lervag/vimtex): VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.
