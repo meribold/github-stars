@@ -575,7 +575,7 @@
 *   [hrs/dotfiles](https://github.com/hrs/dotfiles): Let's be honest: mostly Emacs.
 *   [christoomey/dotfiles](https://github.com/christoomey/dotfiles): My vim, zsh, git, tmux, and other config files and utility scripts.
 *   [scop/bash-completion](https://github.com/scop/bash-completion): Programmable completion functions for bash
-*   [valerie-makes/bacpac](https://github.com/valerie-makes/bacpac): Project archived as I no longer use Arch - looking for maintainers!
+*   [valin4tor/bacpac](https://github.com/valin4tor/bacpac): Project archived as I no longer use Arch - looking for maintainers!
 *   [graysky2/profile-cleaner](https://github.com/graysky2/profile-cleaner): Simple script to vacuum and reindex sqlite databases used by Firefox and by Chrome/Chromium.
 *   [xwmx/bash-boilerplate](https://github.com/xwmx/bash-boilerplate): A collection of Bash scripts for creating safe and useful command line programs.
 *   [thoughtbot/dotfiles](https://github.com/thoughtbot/dotfiles): A set of vim, zsh, git, and tmux configuration files.
