@@ -122,6 +122,7 @@
 *   [axxapy/Adwaita-dark-gtk2](https://github.com/axxapy/Adwaita-dark-gtk2): clone of gnome3 Adwaita theme for gtk2
 *   [i3/i3](https://github.com/i3/i3): A tiling window manager for X11
 *   [Airblader/i3](https://github.com/Airblader/i3): A fork of the i3 window manager with gaps and some other features. :warning: i3-gaps has been merged into i3.
+*   [cdown/clipmenu](https://github.com/cdown/clipmenu): Clipboard management using dmenu
 *   [ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher): A code-searching tool similar to ack, but faster.
 *   [irssi/irssi](https://github.com/irssi/irssi): The client of the future
 *   [raboof/notion](https://github.com/raboof/notion): Tiling tabbed window manager
@@ -594,7 +595,6 @@
 *   [KittyKatt/screenFetch](https://github.com/KittyKatt/screenFetch): Fetches system/theme information in terminal for Linux desktop screenshots.
 *   [sampson-chen/sack](https://github.com/sampson-chen/sack): s(hortcut)-ack: a faster way to use ag, ack (or grep)!
 *   [jukil/dmenu-scripts-collection](https://github.com/jukil/dmenu-scripts-collection): Collection of optional dmenu hacking scripts:
-*   [cdown/clipmenu](https://github.com/cdown/clipmenu): Clipboard management using dmenu
 *   [aur-archive/proggyfonts](https://github.com/aur-archive/proggyfonts)
 *   [notmuch/notmuch](https://github.com/notmuch/notmuch): mirror of the http://git.notmuchmail.org/git/notmuch repository
 *   [msys2/MSYS2-packages](https://github.com/msys2/MSYS2-packages): Package scripts for MSYS2.
