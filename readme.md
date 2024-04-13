@@ -672,6 +672,7 @@
 *   [justinmk/vim-dirvish](https://github.com/justinmk/vim-dirvish): Directory viewer for Vim :zap:
 *   [dhruvasagar/vim-table-mode](https://github.com/dhruvasagar/vim-table-mode): VIM Table Mode for instant table creation.
 *   [Shougo/unite.vim](https://github.com/Shougo/unite.vim): :dragon: Unite and create user interfaces
+*   [junegunn/vim-easy-align](https://github.com/junegunn/vim-easy-align): :sunflower: A Vim alignment plugin
 *   [tommcdo/vim-exchange](https://github.com/tommcdo/vim-exchange): Easy text exchange operator for Vim
 *   [ntpeters/vim-better-whitespace](https://github.com/ntpeters/vim-better-whitespace): Better whitespace highlighting for Vim
 *   [preservim/vim-indent-guides](https://github.com/preservim/vim-indent-guides): A Vim plugin for visually displaying indent levels in code
@@ -750,7 +751,6 @@
 *   [noahfrederick/vim-skeleton](https://github.com/noahfrederick/vim-skeleton): Initialize new Vim buffers with file-type-specific templates
 *   [kana/vim-textobj-user](https://github.com/kana/vim-textobj-user): Vim plugin: Create your own text objects
 *   [osyo-manga/vim-over](https://github.com/osyo-manga/vim-over): :substitute preview
-*   [junegunn/vim-easy-align](https://github.com/junegunn/vim-easy-align): :sunflower: A Vim alignment plugin
 *   [godlygeek/tabular](https://github.com/godlygeek/tabular): Vim script for text filtering and alignment
 *   [bronson/vim-visual-star-search](https://github.com/bronson/vim-visual-star-search): Start a * or # search from a visual block
 *   [jez/vim-superman](https://github.com/jez/vim-superman): Read Unix man pages faster than a speeding bullet!
