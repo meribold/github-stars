@@ -498,7 +498,7 @@
 
 *   [gjtorikian/jekyll-last-modified-at](https://github.com/gjtorikian/jekyll-last-modified-at): A Jekyll plugin to show the last_modified_at time of a post.
 *   [bjoernalbers/gollum-auth](https://github.com/bjoernalbers/gollum-auth): Authentication Middleware for Gollum Wiki
-*   [gollum/gollum](https://github.com/gollum/gollum): A simple, Git-powered wiki with a sweet API and local frontend.
+*   [gollum/gollum](https://github.com/gollum/gollum): A simple, Git-powered wiki with a local frontend and support for many kinds of markup and content.
 *   [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs): API Documentation Browser
 *   [jekyll/jekyll-feed](https://github.com/jekyll/jekyll-feed): :memo: A Jekyll plugin to generate an Atom (RSS-like) feed of your Jekyll posts
 *   [rouge-ruby/rouge](https://github.com/rouge-ruby/rouge): A pure Ruby code highlighter that is compatible with Pygments
