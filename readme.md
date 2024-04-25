@@ -42,7 +42,7 @@
 ## Assembly
 
 *   [meribold/btry](https://github.com/meribold/btry): Monoplatform battery info program written in unportable x86 assembly
-*   [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS): The original sources of MS-DOS 1.25 and 2.0, for reference purposes
+*   [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS): The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes
 
 ## Awk
 
