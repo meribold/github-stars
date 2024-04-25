@@ -238,7 +238,7 @@
 ## Go
 
 *   [arp242/goatcounter](https://github.com/arp242/goatcounter): Easy web analytics. No tracking of personal data.
-*   [rclone/rclone](https://github.com/rclone/rclone): "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
+*   [rclone/rclone](https://github.com/rclone/rclone): "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 *   [stapelberg/percentage-for-i3](https://github.com/stapelberg/percentage-for-i3): resizes the current window to use the specified percentage of its parent container
 *   [stapelberg/next-chrome-for-i3](https://github.com/stapelberg/next-chrome-for-i3): next-chrome-for-i3 focuses the chrome window on the current workspace or starts a new chrome instance
 *   [i3/go-i3](https://github.com/i3/go-i3): Package i3 provides a convenient interface to the i3 window manager
