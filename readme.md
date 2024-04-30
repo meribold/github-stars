@@ -108,7 +108,7 @@
 *   [coolwanglu/vim.js](https://github.com/coolwanglu/vim.js): JavaScript port of Vim
 *   [altdesktop/i3ipc-glib](https://github.com/altdesktop/i3ipc-glib): A C interface library to i3wm
 *   [karlstav/cava](https://github.com/karlstav/cava): Cross-platform Audio Visualizer
-*   [pwmt/zathura](https://github.com/pwmt/zathura): a document viewer
+*   [pwmt/zathura](https://github.com/pwmt/zathura): Document viewer
 *   [dunst-project/dunst](https://github.com/dunst-project/dunst): Lightweight and customizable notification daemon
 *   [git/git](https://github.com/git/git): Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.
 *   [vysheng/tg](https://github.com/vysheng/tg): telegram-cli
