@@ -421,7 +421,7 @@
 *   [wavexx/screenkey](https://github.com/wavexx/screenkey): A screencast tool to display your keys inspired by Screenflick
 *   [mooz/xkeysnail](https://github.com/mooz/xkeysnail): Yet another keyboard remapping tool for X environment
 *   [lucc/khard](https://github.com/lucc/khard): Console vcard client
-*   [luoliyan/chinese-support-redux](https://github.com/luoliyan/chinese-support-redux): Anki add-on providing support for Chinese study
+*   [jdlorimer/chinese-support-redux](https://github.com/jdlorimer/chinese-support-redux): Anki add-on providing support for Chinese study
 *   [beetbox/beets](https://github.com/beetbox/beets): music library manager and MusicBrainz tagger
 *   [pimutils/vdirsyncer](https://github.com/pimutils/vdirsyncer): 📇 Synchronize calendars and contacts.
 *   [jarun/buku](https://github.com/jarun/buku): :bookmark: Personal mini-web in text
