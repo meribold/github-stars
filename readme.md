@@ -189,6 +189,7 @@
 *   [jpfleury/clearlooks-phenix](https://github.com/jpfleury/clearlooks-phenix): GTK3 port of the Clearlooks theme
 *   [horst3180/arc-firefox-theme](https://github.com/horst3180/arc-firefox-theme): Arc Firefox Theme
 *   [horst3180/arc-theme](https://github.com/horst3180/arc-theme): A flat theme with transparent elements
+*   [isocpp/CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines): The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++
 *   [adobe-fonts/source-code-pro](https://github.com/adobe-fonts/source-code-pro): Monospaced font family for user interface and coding environments
 *   [adobe-fonts/source-sans](https://github.com/adobe-fonts/source-sans): Sans serif font family for user interface environments
 
@@ -481,7 +482,6 @@
 *   [joeyespo/grip](https://github.com/joeyespo/grip): Preview GitHub README.md files locally before committing them.
 *   [xavierd/clang_complete](https://github.com/xavierd/clang_complete): Vim plugin that use clang for completing C/C++ code.
 *   [pazz/alot](https://github.com/pazz/alot): Terminal-based Mail User Agent
-*   [isocpp/CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines): The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++
 *   [SirVer/ultisnips](https://github.com/SirVer/ultisnips): UltiSnips - The ultimate snippet solution for Vim. Send pull requests to SirVer/ultisnips!
 *   [ycm-core/YouCompleteMe](https://github.com/ycm-core/YouCompleteMe): A code-completion engine for Vim
 *   [chrippa/livestreamer](https://github.com/chrippa/livestreamer): Command-line utility that extracts streams from various services and pipes them into a video player of choice. No longer maintained, use streamlink or youtube-dl instead.
