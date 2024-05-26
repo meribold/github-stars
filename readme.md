@@ -89,7 +89,6 @@
 *   [torvalds/linux](https://github.com/torvalds/linux): Linux kernel source tree
 *   [s-macke/VoxelSpace](https://github.com/s-macke/VoxelSpace): Terrain rendering algorithm in less than 20 lines of code
 *   [weechat/weechat](https://github.com/weechat/weechat): The extensible chat client.
-*   [chewing/libchewing](https://github.com/chewing/libchewing): libchewing - The intelligent phonetic input method library
 *   [Airblader/unclutter-xfixes](https://github.com/Airblader/unclutter-xfixes): Hides the cursor on inactivity (rewrite of unclutter)
 *   [mpv-player/mpv](https://github.com/mpv-player/mpv): 🎥 Command line video player
 *   [id-Software/Quake-III-Arena](https://github.com/id-Software/Quake-III-Arena): Quake III Arena GPL Source Release
@@ -524,6 +523,7 @@
 *   [rust-lang/book](https://github.com/rust-lang/book): The Rust Programming Language
 *   [sharkdp/fd](https://github.com/sharkdp/fd): A simple, fast and user-friendly alternative to 'find'
 *   [TheAomx/GameOfLifeInRust](https://github.com/TheAomx/GameOfLifeInRust): An implementation of the conways game of life using the Rust language as part of the global day of code retreat.
+*   [chewing/libchewing](https://github.com/chewing/libchewing): libchewing - The intelligent phonetic input method library
 *   [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep): ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 *   [alacritty/alacritty](https://github.com/alacritty/alacritty): A cross-platform, OpenGL terminal emulator.
 *   [withoutboats/notty](https://github.com/withoutboats/notty): A new kind of terminal
