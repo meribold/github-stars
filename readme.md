@@ -645,6 +645,7 @@
 *   [ludovicchabant/vim-gutentags](https://github.com/ludovicchabant/vim-gutentags): A Vim plugin that manages your tag files
 *   [ku1ik/vim-pasta](https://github.com/ku1ik/vim-pasta): Pasting in Vim with indentation adjusted to destination context
 *   [jpalardy/vim-slime](https://github.com/jpalardy/vim-slime): A vim plugin to give you some slime. (Emacs)
+*   [ervandew/matchem](https://github.com/ervandew/matchem): Vim plugin to auto add closing quotes, parens, brackets, curlies, etc.
 *   [wincent/wincent](https://github.com/wincent/wincent): 💾 Dot-files
 *   [embear/vim-localvimrc](https://github.com/embear/vim-localvimrc): Search local vimrc files (".lvimrc") in the tree (root dir up to current dir) and load them.
 *   [MarcWeber/vim-addon-local-vimrc](https://github.com/MarcWeber/vim-addon-local-vimrc): kiss local vimrc with hash protection
@@ -793,7 +794,6 @@
 *   [coderifous/textobj-word-column.vim](https://github.com/coderifous/textobj-word-column.vim): Adds text-objects for word-based columns in Vim.
 *   [libclang-vim/clang-type-inspector.vim](https://github.com/libclang-vim/clang-type-inspector.vim): 'auto' declarations inspector in Vim powered by clang.
 *   [kana/vim-operator-user](https://github.com/kana/vim-operator-user): Vim plugin: Define your own operator easily
-*   [ervandew/matchem](https://github.com/ervandew/matchem): Vim plugin to auto add closing quotes, parens, brackets, curlies, etc.
 *   [vim-scripts/EnhancedJumps](https://github.com/vim-scripts/EnhancedJumps): Enhanced jump list navigation commands.
 *   [libclang-vim/vim-textobj-clang](https://github.com/libclang-vim/vim-textobj-clang): A vim text objects for various C and C++ blocks with power of clang.
 *   [nelstrom/vim-americanize](https://github.com/nelstrom/vim-americanize): Auto-"correct" British spellings to their American equivalent.
