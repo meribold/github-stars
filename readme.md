@@ -251,7 +251,7 @@
 ## HTML
 
 *   [edwardtufte/tufte-css](https://github.com/edwardtufte/tufte-css): Style your webpage like Edward Tufte’s handouts.
-*   [Minoru/blog.debiania.in.ua](https://github.com/Minoru/blog.debiania.in.ua): Source code for my blog
+*   [Minoru/blog.tty8.org](https://github.com/Minoru/blog.tty8.org): Source code for my blog
 *   [kevquirk/512kb.club](https://github.com/kevquirk/512kb.club): Website for the 512 KB Club
 *   [standardebooks/oscar-wilde_the-picture-of-dorian-gray](https://github.com/standardebooks/oscar-wilde_the-picture-of-dorian-gray): Epub source for the Standard Ebooks edition of The Picture of Dorian Gray, by Oscar Wilde
 *   [standardebooks/jules-verne_journey-to-the-center-of-the-earth_f-a-malleson](https://github.com/standardebooks/jules-verne_journey-to-the-center-of-the-earth_f-a-malleson): Epub source for the Standard Ebooks edition of Journey to the Center of the Earth, by Jules Verne
