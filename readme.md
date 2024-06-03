@@ -133,6 +133,7 @@
 
 ## C++
 
+*   [LadybirdWebBrowser/ladybird](https://github.com/LadybirdWebBrowser/ladybird): Truly independent web browser
 *   [opencv/opencv_contrib](https://github.com/opencv/opencv_contrib): Repository for OpenCV's extra modules
 *   [OpenRCT2/OpenRCT2](https://github.com/OpenRCT2/OpenRCT2): An open source re-implementation of RollerCoaster Tycoon 2 🎢
 *   [ganaware/pcf2bdf](https://github.com/ganaware/pcf2bdf)
