@@ -377,7 +377,6 @@
 *   [romainl/the-patient-vimmer](https://github.com/romainl/the-patient-vimmer): A guide for patient Vimmers.
 *   [Ryeeeeee/MarkdownX](https://github.com/Ryeeeeee/MarkdownX): Markdown text editor for Android
 *   [octol/vombatidae-mutt](https://github.com/octol/vombatidae-mutt): Colorscheme for the Mutt email reader.
-*   [servo/servo](https://github.com/servo/servo): Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
 *   [solarized/xresources](https://github.com/solarized/xresources): Solarized for X Windows
 *   [hparadiz/chromium-disable-profile-button-patch](https://github.com/hparadiz/chromium-disable-profile-button-patch): Patch to disable user profile avatar button in open source Chromium builds
 *   [iridium-browser/tracker](https://github.com/iridium-browser/tracker): Iridium Browser tracker and wiki.
@@ -527,6 +526,7 @@
 *   [chewing/libchewing](https://github.com/chewing/libchewing): libchewing - The intelligent phonetic input method library
 *   [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep): ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 *   [alacritty/alacritty](https://github.com/alacritty/alacritty): A cross-platform, OpenGL terminal emulator.
+*   [servo/servo](https://github.com/servo/servo): Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
 *   [withoutboats/notty](https://github.com/withoutboats/notty): A new kind of terminal
 *   [asciinema/asciinema](https://github.com/asciinema/asciinema): Terminal session recorder 📹
 
