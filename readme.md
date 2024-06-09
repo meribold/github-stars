@@ -265,6 +265,7 @@
 *   [vimcasts/vimcasts.org](https://github.com/vimcasts/vimcasts.org): Source code for vimcasts.org
 *   [ericminikel/cureffi](https://github.com/ericminikel/cureffi): CureFFI.org
 *   [KeenRivals/bestmotherfucking.website](https://github.com/KeenRivals/bestmotherfucking.website): The Best Motherfucking Website
+*   [servo/servo](https://github.com/servo/servo): Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
 *   [KevinParnell/my-homepage](https://github.com/KevinParnell/my-homepage): My old homepage
 *   [startpages/startpages.github.io](https://github.com/startpages/startpages.github.io): A curated list of startpages for your browser.
 *   [lhunath/guide.bash.academy](https://github.com/lhunath/guide.bash.academy): Bash Academy - The Bash Guide
@@ -526,7 +527,6 @@
 *   [chewing/libchewing](https://github.com/chewing/libchewing): libchewing - The intelligent phonetic input method library
 *   [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep): ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 *   [alacritty/alacritty](https://github.com/alacritty/alacritty): A cross-platform, OpenGL terminal emulator.
-*   [servo/servo](https://github.com/servo/servo): Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
 *   [withoutboats/notty](https://github.com/withoutboats/notty): A new kind of terminal
 *   [asciinema/asciinema](https://github.com/asciinema/asciinema): Terminal session recorder 📹
 
