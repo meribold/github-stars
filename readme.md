@@ -51,6 +51,7 @@
 
 ## C
 
+*   [haampie/libtree](https://github.com/haampie/libtree): ldd as a tree
 *   [hansgelke/retro_v3](https://github.com/hansgelke/retro_v3)
 *   [jordansissel/xdotool](https://github.com/jordansissel/xdotool): fake keyboard/mouse input, window management, and more
 *   [torvalds/uemacs](https://github.com/torvalds/uemacs): Random version of microemacs with my private modificatons
