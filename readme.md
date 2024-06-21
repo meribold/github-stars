@@ -719,6 +719,7 @@
 
 ## Vim script
 
+*   [andymass/vim-tradewinds](https://github.com/andymass/vim-tradewinds): the missing window movement
 *   [meribold/jellyjam.vim](https://github.com/meribold/jellyjam.vim): Fork of https://github.com/nanotech/jellybeans.vim
 *   [idbrii/vim-online-thesaurus](https://github.com/idbrii/vim-online-thesaurus): Alternative windows port fork: A Vim plugin for looking up words in an online thesaurus
 *   [rhysd/devdocs.vim](https://github.com/rhysd/devdocs.vim): Open devdocs.io from Vim
@@ -785,6 +786,7 @@
 
 ## VimL
 
+*   [ddrscott/vim-window](https://github.com/ddrscott/vim-window)
 *   [vim-scripts/python_match.vim](https://github.com/vim-scripts/python_match.vim): Extend the % motion and define g%, [%, and ]% motions for Python files
 *   [sjl/dotfiles](https://github.com/sjl/dotfiles): A git mirror of my dotfiles (.vimrc, .zshrc, .hgrc, etc).  Note: this won't work on its own because the real repo uses Mercurial's subrepos.  Look at .hgsub and .hgsubstate for what you'll need to get.
 *   [vim-utils/vim-most-minimal-folds](https://github.com/vim-utils/vim-most-minimal-folds): strips out all the noise from vim's fold line
