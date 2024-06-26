@@ -365,6 +365,7 @@
 
 ## Miscellaneous
 
+*   [minimaxir/hacker-news-undocumented](https://github.com/minimaxir/hacker-news-undocumented): Some of the hidden norms about Hacker News not otherwise covered in the Guidelines and the FAQ.
 *   [tomscii/zutty](https://github.com/tomscii/zutty): X terminal emulator rendering through OpenGL ES Compute Shaders
 *   [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line): Master the command line, in one page
 *   [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix): A collection of modern/faster/saner alternatives to common unix commands.
