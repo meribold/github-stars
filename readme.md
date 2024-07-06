@@ -253,6 +253,7 @@
 
 ## HTML
 
+*   [arp242/arp242.net](https://github.com/arp242/arp242.net): This is my site. There are many like it, but this one is mine.
 *   [edwardtufte/tufte-css](https://github.com/edwardtufte/tufte-css): Style your webpage like Edward Tufte’s handouts.
 *   [Minoru/blog.tty8.org](https://github.com/Minoru/blog.tty8.org): Source code for my blog
 *   [kevquirk/512kb.club](https://github.com/kevquirk/512kb.club): Website for the 512 KB Club
