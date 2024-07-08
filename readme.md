@@ -285,7 +285,7 @@
 *   [BartoszMilewski/Publications](https://github.com/BartoszMilewski/Publications): Misc. publications, conference slides, etc. For more, go to http://BartoszMilewski.com
 *   [jgm/pandoc](https://github.com/jgm/pandoc): Universal markup converter
 *   [koalaman/shellcheck](https://github.com/koalaman/shellcheck): ShellCheck, a static analysis tool for shell scripts
-*   [fosskers/aura](https://github.com/fosskers/aura): A secure, multilingual package manager for Arch Linux and the AUR.
+*   [fosskers/aura](https://github.com/fosskers/aura): A multilingual package manager for Arch Linux and the AUR.
 *   [yi-editor/yi](https://github.com/yi-editor/yi): The Haskell-Scriptable Editor
 
 ## Java
