@@ -146,6 +146,7 @@
 *   [ncmpcpp/ncmpcpp](https://github.com/ncmpcpp/ncmpcpp): Featureful ncurses based MPD client inspired by ncmpc
 *   [Hopson97/MineCraft-One-Week-Challenge](https://github.com/Hopson97/MineCraft-One-Week-Challenge): I challenged myself to see if I could create a voxel game (Minecraft-like) in just one week using C++ and OpenGL, and here is the result
 *   [jasonrohrer/OneLife](https://github.com/jasonrohrer/OneLife): a multiplayer survival game of parenting and civilization building
+*   [mozilla/gecko-dev](https://github.com/mozilla/gecko-dev): Read-only Git mirror of the Mercurial gecko repositories at https://hg.mozilla.org. How to contribute: https://firefox-source-docs.mozilla.org/contributing/contribution_quickref.html
 *   [TheAomx/HP-625-Linux-Fancontrol](https://github.com/TheAomx/HP-625-Linux-Fancontrol): Fancontrol under Linux for HP-625 Notebooks for latest kernel versions.
 *   [harfbuzz/harfbuzz](https://github.com/harfbuzz/harfbuzz): HarfBuzz text shaping engine
 *   [flann-lib/flann](https://github.com/flann-lib/flann): Fast Library for Approximate Nearest Neighbors
@@ -373,7 +374,6 @@
 *   [ninsky/recovermyvideotracker](https://github.com/ninsky/recovermyvideotracker): RecoverMy.Video issue tracker
 *   [neomutt/corpus-address](https://github.com/neomutt/corpus-address): 📚 Test data for fuzzing
 *   [DFgraphics/Ironhand](https://github.com/DFgraphics/Ironhand): [18x18] Ironhand 40.x - by Goldenshadow
-*   [mozilla/gecko-dev](https://github.com/mozilla/gecko-dev): Read-only Git mirror of the Mercurial gecko repositories at https://hg.mozilla.org. How to contribute: https://firefox-source-docs.mozilla.org/contributing/contribution_quickref.html
 *   [arasatasaygin/openlogos](https://github.com/arasatasaygin/openlogos): Free logos for open source projects
 *   [mortalis13/Tabs-Backup](https://github.com/mortalis13/Tabs-Backup): Firefox Addon for Android. Allows export and import URLs to/from a text file.
 *   [mojombo/tpw](https://github.com/mojombo/tpw)
