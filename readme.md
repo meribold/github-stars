@@ -700,6 +700,7 @@
 *   [tpope/vim-obsession](https://github.com/tpope/vim-obsession): obsession.vim: continuously updated session files
 *   [vim-ctrlspace/vim-ctrlspace](https://github.com/vim-ctrlspace/vim-ctrlspace): Vim Space Controller
 *   [tpope/dotfiles](https://github.com/tpope/dotfiles): tpope's dotfiles. DON'T USE unless you're tpope
+*   [Raimondi/delimitMate](https://github.com/Raimondi/delimitMate): Vim plugin, provides insert mode auto-completion for quotes, parens, brackets, etc.
 *   [tpope/vim-repeat](https://github.com/tpope/vim-repeat): repeat.vim: enable repeating supported plugin maps with "."
 *   [Shougo/vimproc.vim](https://github.com/Shougo/vimproc.vim): Interactive command execution in Vim.
 *   [tpope/vim-commentary](https://github.com/tpope/vim-commentary): commentary.vim: comment stuff out
@@ -780,7 +781,6 @@
 *   [derekwyatt/vim-fswitch](https://github.com/derekwyatt/vim-fswitch): Vim plug for switching between companion source files (e.g. ".h" and ".cpp")
 *   [LucHermitte/lh-cpp](https://github.com/LucHermitte/lh-cpp): C&C++ ftplugins suite for Vim
 *   [octol/vim-cpp-enhanced-highlight](https://github.com/octol/vim-cpp-enhanced-highlight): Additional Vim syntax highlighting for C++ (including C++11/14/17)
-*   [Raimondi/delimitMate](https://github.com/Raimondi/delimitMate): Vim plugin, provides insert mode auto-completion for quotes, parens, brackets, etc.
 *   [svermeulen/vim-easyclip](https://github.com/svermeulen/vim-easyclip): Simplified clipboard functionality for Vim
 *   [sjl/gundo.vim](https://github.com/sjl/gundo.vim): A git mirror of gundo.vim
 *   [vim-syntastic/syntastic](https://github.com/vim-syntastic/syntastic): Syntax checking hacks for vim
