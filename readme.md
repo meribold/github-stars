@@ -291,6 +291,7 @@
 
 ## Java
 
+*   [Retera/WarsmashModEngine](https://github.com/Retera/WarsmashModEngine): An emulation engine to improve Warcraft III modding
 *   [abarisain/dmix](https://github.com/abarisain/dmix): A modern MPD Client for Android.
 *   [zhanghai/MaterialProgressBar](https://github.com/zhanghai/MaterialProgressBar): Material Design ProgressBar with consistent appearance
 *   [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android): A private messenger for Android.
