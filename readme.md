@@ -294,7 +294,6 @@
 *   [Retera/WarsmashModEngine](https://github.com/Retera/WarsmashModEngine): An emulation engine to improve Warcraft III modding
 *   [abarisain/dmix](https://github.com/abarisain/dmix): A modern MPD Client for Android.
 *   [zhanghai/MaterialProgressBar](https://github.com/zhanghai/MaterialProgressBar): Material Design ProgressBar with consistent appearance
-*   [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android): A private messenger for Android.
 *   [signalapp/libsignal-service-java](https://github.com/signalapp/libsignal-service-java): A Java/Android library for communicating with the Signal messaging service.
 *   [AsamK/signal-cli](https://github.com/AsamK/signal-cli): signal-cli provides an unofficial commandline, JSON-RPC and dbus interface for the Signal messenger.
 *   [jatwigg/cmus-android-remote](https://github.com/jatwigg/cmus-android-remote): An android application for remotely controlling cmus music player.
@@ -335,6 +334,7 @@
 ## Kotlin
 
 *   [meribold/snapscore-android](https://github.com/meribold/snapscore-android): The SnapScore Android app
+*   [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android): A private messenger for Android.
 
 ## Lua
 
