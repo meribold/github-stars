@@ -268,6 +268,7 @@
 *   [eevee/eev.ee](https://github.com/eevee/eev.ee): my cool website
 *   [vimcasts/vimcasts.org](https://github.com/vimcasts/vimcasts.org): Source code for vimcasts.org
 *   [ericminikel/cureffi](https://github.com/ericminikel/cureffi): CureFFI.org
+*   [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons): Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 *   [KeenRivals/bestmotherfucking.website](https://github.com/KeenRivals/bestmotherfucking.website): The Best Motherfucking Website
 *   [KevinParnell/my-homepage](https://github.com/KevinParnell/my-homepage): My old homepage
 *   [startpages/startpages.github.io](https://github.com/startpages/startpages.github.io): A curated list of startpages for your browser.
@@ -319,7 +320,6 @@
 *   [rastapasta/mapscii](https://github.com/rastapasta/mapscii): 🗺  MapSCII is a Braille & ASCII world map renderer for your console - enter =&gt; telnet mapscii.me &lt;= on Mac (brew install telnet) and Linux, connect with PuTTY on Windows
 *   [browserpass/browserpass-legacy](https://github.com/browserpass/browserpass-legacy): Legacy Browserpass repo, development is now happening at:
 *   [suhajdab/remot.io](https://github.com/suhajdab/remot.io): Remot.io is a simple, no install controller for html based presentations.
-*   [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons): Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 *   [mooz/keysnail](https://github.com/mooz/keysnail): Allows you to bind commands to key sequences in Mozilla Firefox
 *   [browserhtml/browserhtml](https://github.com/browserhtml/browserhtml): Experimental Servo browser built in HTML
 *   [nohamelin/xseei](https://github.com/nohamelin/xseei): A legacy Mozilla Firefox add-on to import and export search engines from XML files in the OpenSearch format
