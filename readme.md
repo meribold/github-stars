@@ -440,7 +440,6 @@
 *   [endaaman/dotfiles](https://github.com/endaaman/dotfiles): NeoVim Zsh tmux fonts.conf etc..
 *   [googlefonts/noto-emoji](https://github.com/googlefonts/noto-emoji): Noto Emoji fonts
 *   [notofonts/noto-fonts](https://github.com/notofonts/noto-fonts): Noto fonts, except for CJK and emoji
-*   [notofonts/noto-cjk](https://github.com/notofonts/noto-cjk): Noto CJK fonts
 *   [python-pillow/Pillow](https://github.com/python-pillow/Pillow): Python Imaging Library (Fork)
 *   [xdanaux/fontawesome-latex](https://github.com/xdanaux/fontawesome-latex): LaTeX mappings for Font Awesome, the icons font
 *   [KJoke70/i3-tools](https://github.com/KJoke70/i3-tools): Scripts for i3wm
@@ -556,6 +555,7 @@
 *   [archlinux/archlinux-docker](https://github.com/archlinux/archlinux-docker): Docker Base Image for Arch Linux (read-only mirror)
 *   [meribold/git-snap](https://github.com/meribold/git-snap): Create snapshot commits on a not checked-out branch without touching the working tree or losing staged changes
 *   [LukeSmithxyz/voidrice](https://github.com/LukeSmithxyz/voidrice): My dotfiles (deployed by LARBS)
+*   [notofonts/noto-cjk](https://github.com/notofonts/noto-cjk): Noto CJK fonts
 *   [meribold/muccadoro](https://github.com/meribold/muccadoro): 🍅 Pomodoro timer using figlet, cowsay, and optionally lolcat 🐮
 *   [kathamer/DebianKindle](https://github.com/kathamer/DebianKindle): Scripts to install Debian on your Kindle
 *   [qw3rtman/git-fire](https://github.com/qw3rtman/git-fire): :fire: Save Your Code in an Emergency
