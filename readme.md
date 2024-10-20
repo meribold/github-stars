@@ -79,7 +79,7 @@
 *   [libfuse/sshfs](https://github.com/libfuse/sshfs): A network filesystem client to connect to SSH servers
 *   [cruegge/pam-gnupg](https://github.com/cruegge/pam-gnupg): Unlock GnuPG keys on login
 *   [ericpruitt/emus](https://github.com/ericpruitt/emus): EMUS: Eric's Multi-platform UNIX Stack
-*   [archlinux/linux](https://github.com/archlinux/linux): Arch Linux kernel sources, with patches (Mirror)
+*   [archlinux/linux](https://github.com/archlinux/linux): Arch Linux kernel sources, with patches
 *   [endaaman/tym](https://github.com/endaaman/tym): Lua-configurable terminal emulator
 *   [jonas/tig](https://github.com/jonas/tig): Text-mode interface for git
 *   [lua/lua](https://github.com/lua/lua): A copy of the Lua development repository, as seen by the Lua team. Mirrored irregularly. Please DO NOT send pull requests or any other stuff. All communication should be through the Lua mailing list https://www.lua.org/lua-l.html
