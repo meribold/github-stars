@@ -699,6 +699,7 @@
 *   [tpope/vim-dispatch](https://github.com/tpope/vim-dispatch): dispatch.vim: Asynchronous build and test dispatcher
 *   [tpope/vim-sleuth](https://github.com/tpope/vim-sleuth): sleuth.vim: Heuristically set buffer options
 *   [tpope/vim-obsession](https://github.com/tpope/vim-obsession): obsession.vim: continuously updated session files
+*   [chriskempson/vim-tomorrow-theme](https://github.com/chriskempson/vim-tomorrow-theme): Tomorrow Theme for Vim
 *   [vim-ctrlspace/vim-ctrlspace](https://github.com/vim-ctrlspace/vim-ctrlspace): Vim Space Controller
 *   [tpope/dotfiles](https://github.com/tpope/dotfiles): tpope's dotfiles. DON'T USE unless you're tpope
 *   [Raimondi/delimitMate](https://github.com/Raimondi/delimitMate): Vim plugin, provides insert mode auto-completion for quotes, parens, brackets, etc.
@@ -820,7 +821,6 @@
 *   [bling/dotvim](https://github.com/bling/dotvim): lean & mean vim distribution
 *   [kana/vim-textobj-indent](https://github.com/kana/vim-textobj-indent): Vim plugin: Text objects for indented blocks of lines
 *   [szw/vim-g](https://github.com/szw/vim-g): Quick Google lookup directly from Vim
-*   [chriskempson/vim-tomorrow-theme](https://github.com/chriskempson/vim-tomorrow-theme): Tomorrow Theme for Vim
 *   [vim-scripts/xoria256.vim](https://github.com/vim-scripts/xoria256.vim): Finely tuned soft gamma, 256 colors, dark background, gvim == vim
 *   [sheerun/vim-wombat-scheme](https://github.com/sheerun/vim-wombat-scheme): Awesome wombat-like scheme for Vim
 *   [vim-scripts/wombat256.vim](https://github.com/vim-scripts/wombat256.vim): Wombat for 256 color xterms
