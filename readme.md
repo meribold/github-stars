@@ -662,6 +662,7 @@
 *   [Shougo/neocomplete.vim](https://github.com/Shougo/neocomplete.vim): Next generation completion framework after neocomplcache
 *   [junegunn/gv.vim](https://github.com/junegunn/gv.vim): A git commit browser in Vim
 *   [tpope/vim-abolish](https://github.com/tpope/vim-abolish): abolish.vim: Work with several variants of a word at once
+*   [jeetsukumaran/vim-filebeagle](https://github.com/jeetsukumaran/vim-filebeagle): A VINE-spired (Vim Is Not Emacs) file system explorer.
 *   [Shougo/dein.vim](https://github.com/Shougo/dein.vim): :zap: Dark powered Vim/Neovim plugin manager
 *   [kassio/neoterm](https://github.com/kassio/neoterm): Wrapper of some vim/neovim's :terminal functions.
 *   [python-mode/python-mode](https://github.com/python-mode/python-mode): Vim python-mode. PyLint, Rope, Pydoc, breakpoints from box.
@@ -752,7 +753,6 @@
 *   [mhinz/vim-galore](https://github.com/mhinz/vim-galore): :mortar_board: All things Vim!
 *   [junegunn/vim-after-object](https://github.com/junegunn/vim-after-object): :point_right: Target text *after* the designated characters
 *   [junegunn/vim-journal](https://github.com/junegunn/vim-journal): :memo:
-*   [jeetsukumaran/vim-filebeagle](https://github.com/jeetsukumaran/vim-filebeagle): A VINE-spired (Vim Is Not Emacs) file system explorer.
 *   [altercation/solarized](https://github.com/altercation/solarized): precision color scheme for multiple applications (terminal, vim, etc.) with both dark/light modes
 *   [wellle/dotfiles](https://github.com/wellle/dotfiles): vim, zsh, tmux etc.
 *   [wellle/visual-split.vim](https://github.com/wellle/visual-split.vim): Vim plugin to control splits with visual selections or text objects
