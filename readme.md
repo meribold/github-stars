@@ -166,7 +166,6 @@
 *   [MusicPlayerDaemon/MPD](https://github.com/MusicPlayerDaemon/MPD): Music Player Daemon
 *   [enkore/j4-dmenu-desktop](https://github.com/enkore/j4-dmenu-desktop): A fast desktop menu
 *   [thjaeger/easystroke](https://github.com/thjaeger/easystroke): X11 gesture recognition application
-*   [dpayne/cli-visualizer](https://github.com/dpayne/cli-visualizer): CLI based audio visualizer
 *   [thestinger/termite](https://github.com/thestinger/termite): Termite is obsoleted by Alacritty. Termite was a keyboard-centric VTE-based terminal, aimed at use within a window manager with tiling and/or tabbing support.
 *   [AGWA/git-crypt](https://github.com/AGWA/git-crypt): Transparent file encryption in git
 *   [dhewm/dhewm3](https://github.com/dhewm/dhewm3): dhewm 3 main repository
