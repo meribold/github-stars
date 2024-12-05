@@ -634,6 +634,7 @@
 *   [AndrewRadev/splitjoin.vim](https://github.com/AndrewRadev/splitjoin.vim): Switch between single-line and multiline forms of code
 *   [zaid/vim-rec](https://github.com/zaid/vim-rec): GNU Recutils syntax highlighting support for Vim
 *   [wellle/context.vim](https://github.com/wellle/context.vim): Vim plugin that shows the context of the currently visible buffer contents
+*   [meribold/jellyjam.vim](https://github.com/meribold/jellyjam.vim): Fork of https://github.com/nanotech/jellybeans.vim
 *   [whiteinge/diffconflicts](https://github.com/whiteinge/diffconflicts): A better Vimdiff Git mergetool
 *   [rhysd/git-messenger.vim](https://github.com/rhysd/git-messenger.vim): Vim and Neovim plugin to reveal the commit messages under the cursor
 *   [udalov/kotlin-vim](https://github.com/udalov/kotlin-vim): Kotlin plugin for Vim. Featuring: syntax highlighting, basic indentation, Syntastic support
@@ -728,7 +729,6 @@
 ## Vim script
 
 *   [andymass/vim-tradewinds](https://github.com/andymass/vim-tradewinds): the missing window movement
-*   [meribold/jellyjam.vim](https://github.com/meribold/jellyjam.vim): Fork of https://github.com/nanotech/jellybeans.vim
 *   [idbrii/vim-online-thesaurus](https://github.com/idbrii/vim-online-thesaurus): Alternative windows port fork: A Vim plugin for looking up words in an online thesaurus
 *   [rhysd/devdocs.vim](https://github.com/rhysd/devdocs.vim): Open devdocs.io from Vim
 *   [Airblader/dotfiles-manjaro](https://github.com/Airblader/dotfiles-manjaro): My personal dotfiles (how do these have so many stars?)
