@@ -140,7 +140,7 @@
 *   [ganaware/pcf2bdf](https://github.com/ganaware/pcf2bdf)
 *   [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop): Telegram Desktop messaging app
 *   [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot): Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
-*   [electronicarts/CnC_Remastered_Collection](https://github.com/electronicarts/CnC_Remastered_Collection)
+*   [electronicarts/CnC_Remastered_Collection](https://github.com/electronicarts/CnC_Remastered_Collection): Command & Conquer: Remastered Collection
 *   [SerenityOS/serenity](https://github.com/SerenityOS/serenity): The Serenity Operating System 🐞
 *   [g-truc/glm](https://github.com/g-truc/glm): OpenGL Mathematics (GLM)
 *   [ncmpcpp/ncmpcpp](https://github.com/ncmpcpp/ncmpcpp): Featureful ncurses based MPD client inspired by ncmpc
