@@ -146,6 +146,7 @@
 *   [ncmpcpp/ncmpcpp](https://github.com/ncmpcpp/ncmpcpp): Featureful ncurses based MPD client inspired by ncmpc
 *   [Hopson97/MineCraft-One-Week-Challenge](https://github.com/Hopson97/MineCraft-One-Week-Challenge): I challenged myself to see if I could create a voxel game (Minecraft-like) in just one week using C++ and OpenGL, and here is the result
 *   [jasonrohrer/OneLife](https://github.com/jasonrohrer/OneLife): a multiplayer survival game of parenting and civilization building
+*   [mozilla/gecko-dev](https://github.com/mozilla/gecko-dev): Read-only Git mirror of the Mercurial gecko repositories at https://hg.mozilla.org. How to contribute: https://firefox-source-docs.mozilla.org/contributing/contribution_quickref.html
 *   [TheAomx/HP-625-Linux-Fancontrol](https://github.com/TheAomx/HP-625-Linux-Fancontrol): Fancontrol under Linux for HP-625 Notebooks for latest kernel versions.
 *   [harfbuzz/harfbuzz](https://github.com/harfbuzz/harfbuzz): HarfBuzz text shaping engine
 *   [flann-lib/flann](https://github.com/flann-lib/flann): Fast Library for Approximate Nearest Neighbors
@@ -303,7 +304,6 @@
 *   [frank-deng/zeek-the-geek](https://github.com/frank-deng/zeek-the-geek): HTML5 clone of Zeek the Geek.
 *   [jzlai/whereistaipei.com](https://github.com/jzlai/whereistaipei.com): 🇹🇼
 *   [mozilla/multi-account-containers](https://github.com/mozilla/multi-account-containers): Firefox Multi-Account Containers lets you keep parts of your online life separated into color-coded tabs that preserve your privacy. Cookies are separated by container, allowing you to use the web with multiple identities or accounts simultaneously.
-*   [mozilla/gecko-dev](https://github.com/mozilla/gecko-dev): Read-only Git mirror of the Mercurial gecko repositories at https://hg.mozilla.org. How to contribute: https://firefox-source-docs.mozilla.org/contributing/contribution_quickref.html
 *   [mozilla/FirefoxColor](https://github.com/mozilla/FirefoxColor): Theming demo for Firefox Quantum and beyond
 *   [openstyles/stylus](https://github.com/openstyles/stylus): Stylus - Userstyles Manager
 *   [carljm/pipvirtualenv-preso](https://github.com/carljm/pipvirtualenv-preso): presentation on pip and virtualenv for PyCon 2011
