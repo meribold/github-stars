@@ -646,6 +646,7 @@
 *   [tpope/vim-markdown](https://github.com/tpope/vim-markdown): Vim Markdown runtime files
 *   [skywind3000/asyncrun.vim](https://github.com/skywind3000/asyncrun.vim): :rocket: Run Async Shell Commands in Vim 8.0 / NeoVim and Output to the Quickfix Window !!
 *   [itchyny/calendar.vim](https://github.com/itchyny/calendar.vim): A calendar application for Vim
+*   [LucHermitte/vim-refactor](https://github.com/LucHermitte/vim-refactor): Generic Refactoring Plugin for Vim
 *   [vim-utils/vim-troll-stopper](https://github.com/vim-utils/vim-troll-stopper): Stop Unicode trolls from messing with your code.
 *   [editorconfig/editorconfig-vim](https://github.com/editorconfig/editorconfig-vim): EditorConfig plugin for Vim
 *   [tpope/vim-pathogen](https://github.com/tpope/vim-pathogen): pathogen.vim: manage your runtimepath
@@ -738,7 +739,6 @@
 *   [yuttie/comfortable-motion.vim](https://github.com/yuttie/comfortable-motion.vim): Brings physics-based smooth scrolling to the Vim world!
 *   [donRaphaco/neotex](https://github.com/donRaphaco/neotex): latex live preview - plugin for neovim and vim 8
 *   [kopischke/unite-spell-suggest](https://github.com/kopischke/unite-spell-suggest): A unite.vim source of spell checking suggestions.
-*   [LucHermitte/vim-refactor](https://github.com/LucHermitte/vim-refactor): Generic Refactoring Plugin for Vim
 *   [saaguero/vim-textobj-pastedtext](https://github.com/saaguero/vim-textobj-pastedtext): A convenient text object for last pasted text
 *   [coot/EnchantedVim](https://github.com/coot/EnchantedVim): Persistent Very Magic Patterns in Vim Commands.
 *   [thoughtstream/Damian-Conway-s-Vim-Setup](https://github.com/thoughtstream/Damian-Conway-s-Vim-Setup): Snapshots of my Vim setup. Open source, but utterly unsupported...and probably dangerous.
