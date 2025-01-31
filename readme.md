@@ -412,6 +412,7 @@
 
 ## Python
 
+*   [httpie/cli](https://github.com/httpie/cli): 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 *   [opencv/opencv-python](https://github.com/opencv/opencv-python): Automated CI toolchain to produce precompiled opencv-python, opencv-python-headless, opencv-contrib-python and opencv-contrib-python-headless packages.
 *   [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code): This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
 *   [scour-project/scour](https://github.com/scour-project/scour): Scour - An SVG Optimizer / Cleaner
