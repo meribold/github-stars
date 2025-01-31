@@ -679,7 +679,7 @@
 *   [junegunn/goyo.vim](https://github.com/junegunn/goyo.vim): :tulip: Distraction-free writing in Vim
 *   [preservim/vim-pencil](https://github.com/preservim/vim-pencil): Rethinking Vim as a tool for writing
 *   [neomake/neomake](https://github.com/neomake/neomake): Asynchronous linting and make framework for Neovim/Vim
-*   [justinmk/vim-dirvish](https://github.com/justinmk/vim-dirvish): Directory viewer for Vim :zap:
+*   [justinmk/vim-dirvish](https://github.com/justinmk/vim-dirvish): Directory viewer for Vim :zap: netrW =&gt; netrL
 *   [dhruvasagar/vim-table-mode](https://github.com/dhruvasagar/vim-table-mode): VIM Table Mode for instant table creation.
 *   [Shougo/unite.vim](https://github.com/Shougo/unite.vim): :dragon: Unite and create user interfaces
 *   [junegunn/vim-easy-align](https://github.com/junegunn/vim-easy-align): :sunflower: A Vim alignment plugin
