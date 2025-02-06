@@ -532,7 +532,7 @@
 *   [chewing/libchewing](https://github.com/chewing/libchewing): libchewing - The intelligent phonetic input method library
 *   [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep): ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 *   [alacritty/alacritty](https://github.com/alacritty/alacritty): A cross-platform, OpenGL terminal emulator.
-*   [servo/servo](https://github.com/servo/servo): Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
+*   [servo/servo](https://github.com/servo/servo): Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
 *   [withoutboats/notty](https://github.com/withoutboats/notty): A new kind of terminal
 *   [asciinema/asciinema](https://github.com/asciinema/asciinema): Terminal session recorder 📹
 
