@@ -719,6 +719,7 @@
 *   [preservim/tagbar](https://github.com/preservim/tagbar): Vim plugin that displays tags in a window, ordered by scope
 *   [tpope/vim-surround](https://github.com/tpope/vim-surround): surround.vim: Delete/change/add parentheses/quotes/XML-tags/much more with ease
 *   [tpope/vim-fugitive](https://github.com/tpope/vim-fugitive): fugitive.vim: A Git wrapper so awesome, it should be illegal
+*   [Shougo/vimshell.vim](https://github.com/Shougo/vimshell.vim): :shell: Powerful shell implemented by vim.
 *   [neovim/neovim](https://github.com/neovim/neovim): Vim-fork focused on extensibility and usability
 *   [itchyny/lightline.vim](https://github.com/itchyny/lightline.vim): A light and configurable statusline/tabline plugin for Vim
 *   [vim-airline/vim-airline](https://github.com/vim-airline/vim-airline): lean & mean status/tabline for vim that's light as air
@@ -787,7 +788,6 @@
 *   [svermeulen/vim-easyclip](https://github.com/svermeulen/vim-easyclip): Simplified clipboard functionality for Vim
 *   [sjl/gundo.vim](https://github.com/sjl/gundo.vim): A git mirror of gundo.vim
 *   [vim-syntastic/syntastic](https://github.com/vim-syntastic/syntastic): Syntax checking hacks for vim
-*   [Shougo/vimshell.vim](https://github.com/Shougo/vimshell.vim): :shell: Powerful shell implemented by vim.
 
 ## VimL
 
