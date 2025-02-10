@@ -300,6 +300,7 @@
 
 ## JavaScript
 
+*   [dinoosauro/youtube-fullscreen-fit](https://github.com/dinoosauro/youtube-fullscreen-fit): Make the YouTube player fit all of your screen when opening fullscreen mode
 *   [frank-deng/zeek-the-geek](https://github.com/frank-deng/zeek-the-geek): HTML5 clone of Zeek the Geek.
 *   [jzlai/whereistaipei.com](https://github.com/jzlai/whereistaipei.com): 🇹🇼
 *   [mozilla/multi-account-containers](https://github.com/mozilla/multi-account-containers): Firefox Multi-Account Containers lets you keep parts of your online life separated into color-coded tabs that preserve your privacy. Cookies are separated by container, allowing you to use the web with multiple identities or accounts simultaneously.
