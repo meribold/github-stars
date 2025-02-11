@@ -559,7 +559,6 @@
 *   [meribold/git-snap](https://github.com/meribold/git-snap): Create snapshot commits on a not checked-out branch without touching the working tree or losing staged changes
 *   [LukeSmithxyz/voidrice](https://github.com/LukeSmithxyz/voidrice): My dotfiles (deployed by LARBS)
 *   [meribold/muccadoro](https://github.com/meribold/muccadoro): 🍅 Pomodoro timer using figlet, cowsay, and optionally lolcat 🐮
-*   [kathamer/DebianKindle](https://github.com/kathamer/DebianKindle): Scripts to install Debian on your Kindle
 *   [qw3rtman/git-fire](https://github.com/qw3rtman/git-fire): :fire: Save Your Code in an Emergency
 *   [junegunn/myvim](https://github.com/junegunn/myvim): :bento: Script to create a portable bundle of Vim environment
 *   [sebastiencs/icons-in-terminal](https://github.com/sebastiencs/icons-in-terminal): Use any fonts in the terminal without replacing or patching
