@@ -86,7 +86,6 @@
 *   [freedict/fd-dictionaries](https://github.com/freedict/fd-dictionaries): hand-written dictionaries from the FreeDict project
 *   [jonls/redshift](https://github.com/jonls/redshift): Redshift adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.
 *   [microsoft/winfile](https://github.com/microsoft/winfile): Original Windows File Manager (winfile) with enhancements
-*   [audacity/audacity](https://github.com/audacity/audacity): Audio Editor
 *   [torvalds/linux](https://github.com/torvalds/linux): Linux kernel source tree
 *   [s-macke/VoxelSpace](https://github.com/s-macke/VoxelSpace): Terrain rendering algorithm in less than 20 lines of code
 *   [weechat/weechat](https://github.com/weechat/weechat): The extensible chat client.
@@ -149,6 +148,7 @@
 *   [TheAomx/HP-625-Linux-Fancontrol](https://github.com/TheAomx/HP-625-Linux-Fancontrol): Fancontrol under Linux for HP-625 Notebooks for latest kernel versions.
 *   [harfbuzz/harfbuzz](https://github.com/harfbuzz/harfbuzz): HarfBuzz text shaping engine
 *   [flann-lib/flann](https://github.com/flann-lib/flann): Fast Library for Approximate Nearest Neighbors
+*   [audacity/audacity](https://github.com/audacity/audacity): Audio Editor
 *   [opencv/opencv](https://github.com/opencv/opencv): Open Source Computer Vision Library
 *   [newsboat/newsboat](https://github.com/newsboat/newsboat): An RSS/Atom feed reader for text terminals
 *   [BartoszMilewski/Concurrency](https://github.com/BartoszMilewski/Concurrency)
