@@ -133,6 +133,7 @@
 
 ## C++
 
+*   [rizsotto/Bear](https://github.com/rizsotto/Bear): Bear is a tool that generates a compilation database for clang tooling.
 *   [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird): Truly independent web browser
 *   [opencv/opencv_contrib](https://github.com/opencv/opencv_contrib): Repository for OpenCV's extra modules
 *   [OpenRCT2/OpenRCT2](https://github.com/OpenRCT2/OpenRCT2): An open source re-implementation of RollerCoaster Tycoon 2 🎢
