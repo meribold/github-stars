@@ -239,7 +239,6 @@
 
 ## Go
 
-*   [itchyny/mmv](https://github.com/itchyny/mmv): rename multiple files with editor
 *   [arp242/elles](https://github.com/arp242/elles): A nicer /bin/ls
 *   [arp242/goatcounter](https://github.com/arp242/goatcounter): Easy web analytics. No tracking of personal data.
 *   [rclone/rclone](https://github.com/rclone/rclone): "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
