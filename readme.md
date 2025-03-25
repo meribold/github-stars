@@ -90,7 +90,7 @@
 *   [s-macke/VoxelSpace](https://github.com/s-macke/VoxelSpace): Terrain rendering algorithm in less than 20 lines of code
 *   [weechat/weechat](https://github.com/weechat/weechat): The extensible chat client.
 *   [Airblader/unclutter-xfixes](https://github.com/Airblader/unclutter-xfixes): Hides the cursor on inactivity (rewrite of unclutter)
-*   [mpv-player/mpv](https://github.com/mpv-player/mpv): 🎥 Command line video player
+*   [mpv-player/mpv](https://github.com/mpv-player/mpv): 🎥 Command line media player
 *   [id-Software/Quake-III-Arena](https://github.com/id-Software/Quake-III-Arena): Quake III Arena GPL Source Release
 *   [nelhage/reptyr](https://github.com/nelhage/reptyr): Reparent a running program to a new terminal
 *   [Airblader/xtrlock](https://github.com/Airblader/xtrlock): Fork of xtrlock that uses a normal pointer
