@@ -187,7 +187,7 @@
 *   [Timvde/UserChrome-Tweaks](https://github.com/Timvde/UserChrome-Tweaks): A community maintained repository of userChrome.css tweaks for Firefox
 *   [davatorium/rofi-themes](https://github.com/davatorium/rofi-themes): Themes for Rofi
 *   [traxium/navbarheight](https://github.com/traxium/navbarheight): Nav Bar Height extension for Firefox https://addons.mozilla.org/en-US/firefox/addon/nav-bar-height/
-*   [jpfleury/clearlooks-phenix](https://github.com/jpfleury/clearlooks-phenix): GTK3 port of the Clearlooks theme
+*   [jpfleury/clearlooks-phenix](https://github.com/jpfleury/clearlooks-phenix): GTK 3 port of Clearlooks, the default theme for GNOME 2
 *   [horst3180/arc-firefox-theme](https://github.com/horst3180/arc-firefox-theme): Arc Firefox Theme
 *   [horst3180/arc-theme](https://github.com/horst3180/arc-theme): A flat theme with transparent elements
 *   [isocpp/CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines): The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++
