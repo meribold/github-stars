@@ -524,7 +524,7 @@
 ## Rust
 
 *   [aaronjanse/dns-over-wikipedia](https://github.com/aaronjanse/dns-over-wikipedia): Redirect `.idk` domains using Wikipedia
-*   [shssoichiro/oxipng](https://github.com/shssoichiro/oxipng): Multithreaded PNG optimizer written in Rust
+*   [oxipng/oxipng](https://github.com/oxipng/oxipng): Multithreaded PNG optimizer written in Rust
 *   [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei): Count your code, quickly.
 *   [ankitects/anki](https://github.com/ankitects/anki): Anki's shared backend and web components, and the Qt frontend
 *   [rust-lang/rust](https://github.com/rust-lang/rust): Empowering everyone to build reliable and efficient software.
