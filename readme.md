@@ -52,7 +52,7 @@
 ## C
 
 *   [haampie/libtree](https://github.com/haampie/libtree): ldd as a tree
-*   [hansgelke/retro_v3](https://github.com/hansgelke/retro_v3)
+*   [hansgelke/retro_linux_c](https://github.com/hansgelke/retro_linux_c)
 *   [jordansissel/xdotool](https://github.com/jordansissel/xdotool): fake keyboard/mouse input, window management, and more
 *   [torvalds/uemacs](https://github.com/torvalds/uemacs): Random version of microemacs with my private modificatons
 *   [jasonwryan/monsterwm](https://github.com/jasonwryan/monsterwm): minimal and dynamic tiling window manager
