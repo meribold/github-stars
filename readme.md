@@ -526,7 +526,7 @@
 *   [aaronjanse/dns-over-wikipedia](https://github.com/aaronjanse/dns-over-wikipedia): Redirect `.idk` domains using Wikipedia
 *   [oxipng/oxipng](https://github.com/oxipng/oxipng): Multithreaded PNG optimizer written in Rust
 *   [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei): Count your code, quickly.
-*   [ankitects/anki](https://github.com/ankitects/anki): Anki® is a smart spaced repetition flashcard program
+*   [ankitects/anki](https://github.com/ankitects/anki): Anki is a smart spaced repetition flashcard program
 *   [rust-lang/rust](https://github.com/rust-lang/rust): Empowering everyone to build reliable and efficient software.
 *   [benfred/py-spy](https://github.com/benfred/py-spy): Sampling profiler for Python programs
 *   [rust-lang/book](https://github.com/rust-lang/book): The Rust Programming Language
