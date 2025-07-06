@@ -239,6 +239,7 @@
 
 ## Go
 
+*   [itchyny/mmv](https://github.com/itchyny/mmv): rename multiple files with editor
 *   [arp242/elles](https://github.com/arp242/elles): A nicer /bin/ls
 *   [arp242/goatcounter](https://github.com/arp242/goatcounter): Easy web analytics. No tracking of personal data.
 *   [rclone/rclone](https://github.com/rclone/rclone): "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
@@ -415,6 +416,7 @@
 
 ## Python
 
+*   [MahouShoujoMivutilde/bulka](https://github.com/MahouShoujoMivutilde/bulka): bulk rename files in your editor, geared for lf, vimv/vidir/mmv alternative
 *   [httpie/cli](https://github.com/httpie/cli): 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 *   [opencv/opencv-python](https://github.com/opencv/opencv-python): Automated CI toolchain to produce precompiled opencv-python, opencv-python-headless, opencv-contrib-python and opencv-contrib-python-headless packages.
 *   [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code): This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
