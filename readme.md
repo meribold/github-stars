@@ -307,7 +307,7 @@
 *   [frank-deng/zeek-the-geek](https://github.com/frank-deng/zeek-the-geek): HTML5 clone of Zeek the Geek.
 *   [jzlai/whereistaipei.com](https://github.com/jzlai/whereistaipei.com): 🇹🇼
 *   [mozilla/multi-account-containers](https://github.com/mozilla/multi-account-containers): Firefox Multi-Account Containers lets you keep parts of your online life separated into color-coded tabs that preserve your privacy. Cookies are separated by container, allowing you to use the web with multiple identities or accounts simultaneously.
-*   [mozilla/gecko-dev](https://github.com/mozilla/gecko-dev): DEPRECATED by https://github.com/mozilla-firefox/firefox.  Read-only Git mirror of the Mercurial gecko repositories at https://hg.mozilla.org
+*   [mozilla/gecko-dev](https://github.com/mozilla/gecko-dev): SUPERSEDED by https://github.com/mozilla-firefox/firefox.  Read-only Git mirror of the Mercurial gecko repositories at https://hg.mozilla.org
 *   [mozilla/FirefoxColor](https://github.com/mozilla/FirefoxColor): Theming demo for Firefox Quantum and beyond
 *   [openstyles/stylus](https://github.com/openstyles/stylus): Stylus - Userstyles Manager
 *   [carljm/pipvirtualenv-preso](https://github.com/carljm/pipvirtualenv-preso): presentation on pip and virtualenv for PyCon 2011
