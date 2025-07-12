@@ -571,7 +571,7 @@
 *   [archfan/infinality_bundle](https://github.com/archfan/infinality_bundle)
 *   [linrunner/TLP](https://github.com/linrunner/TLP): TLP - Optimize Linux Laptop Battery Life
 *   [carnager/rofi-pass](https://github.com/carnager/rofi-pass): rofi frontend for pass
-*   [meribold/dotfiles](https://github.com/meribold/dotfiles): Dotfiles for Vim, Neovim, i3-gaps, NeoMutt, Bash, … :penguin:
+*   [meribold/dotfiles](https://github.com/meribold/dotfiles): Dotfiles for Vim, Neovim, i3-gaps, Bash, … :penguin:
 *   [easysid/dotfiles](https://github.com/easysid/dotfiles): My various configs and scripts. Few written by me and most of them lifted/modified from the web
 *   [simonthum/git-sync](https://github.com/simonthum/git-sync): Safe and simple one-script git synchronization
 *   [tremby/imgur.sh](https://github.com/tremby/imgur.sh): Bart's Imgur uploader bash script
