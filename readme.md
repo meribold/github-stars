@@ -608,7 +608,7 @@
 *   [jukil/dmenu-scripts-collection](https://github.com/jukil/dmenu-scripts-collection): Collection of optional dmenu hacking scripts:
 *   [aur-archive/proggyfonts](https://github.com/aur-archive/proggyfonts)
 *   [notmuch/notmuch](https://github.com/notmuch/notmuch): mirror of the http://git.notmuchmail.org/git/notmuch repository
-*   [msys2/MSYS2-packages](https://github.com/msys2/MSYS2-packages): Package scripts for MSYS2.
+*   [msys2/MSYS2-packages](https://github.com/msys2/MSYS2-packages): Package scripts for Cygwin targets to build under MSYS2.
 
 ## Swift
 
