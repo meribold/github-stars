@@ -637,6 +637,7 @@
 
 ## Vim Script
 
+*   [AndrewRadev/qftools.vim](https://github.com/AndrewRadev/qftools.vim): Tools to manipulate the quickfix window
 *   [tpope/vim-rhubarb](https://github.com/tpope/vim-rhubarb): rhubarb.vim: GitHub extension for fugitive.vim
 *   [romainl/vim-qf](https://github.com/romainl/vim-qf): Tame the quickfix window.
 *   [AndrewRadev/splitjoin.vim](https://github.com/AndrewRadev/splitjoin.vim): Switch between single-line and multiline forms of code
