@@ -711,6 +711,7 @@
 *   [michaeljsmith/vim-indent-object](https://github.com/michaeljsmith/vim-indent-object): Vim plugin that defines a new text object representing lines of code at the same indent level. Useful for python/vim scripts, etc.
 *   [tpope/vim-dispatch](https://github.com/tpope/vim-dispatch): dispatch.vim: Asynchronous build and test dispatcher
 *   [tpope/vim-sleuth](https://github.com/tpope/vim-sleuth): sleuth.vim: Heuristically set buffer options
+*   [felipec/notmuch-vim](https://github.com/felipec/notmuch-vim): Text-based mail user agent in vim using notmuch.
 *   [tpope/vim-obsession](https://github.com/tpope/vim-obsession): obsession.vim: continuously updated session files
 *   [chriskempson/vim-tomorrow-theme](https://github.com/chriskempson/vim-tomorrow-theme): Tomorrow Theme for Vim
 *   [vim-ctrlspace/vim-ctrlspace](https://github.com/vim-ctrlspace/vim-ctrlspace): Vim Space Controller
@@ -785,7 +786,6 @@
 *   [preservim/vim-lexical](https://github.com/preservim/vim-lexical): Build on Vim’s spell/thes/dict completion
 *   [moll/vim-bbye](https://github.com/moll/vim-bbye): Delete buffers and close files in Vim without closing your windows or messing up your layout. Like Bclose.vim, but rewritten and well maintained.
 *   [qpkorr/vim-bufkill](https://github.com/qpkorr/vim-bufkill): Git repo for http://www.vim.org/scripts/script.php?script_id=1147
-*   [felipec/notmuch-vim](https://github.com/felipec/notmuch-vim): Text-based mail user agent in vim using notmuch.
 *   [terryma/vim-multiple-cursors](https://github.com/terryma/vim-multiple-cursors): True Sublime Text style multiple selections for Vim
 *   [nanotech/jellybeans.vim](https://github.com/nanotech/jellybeans.vim): A colorful, dark color scheme for Vim.
 *   [jonathanfilip/vim-lucius](https://github.com/jonathanfilip/vim-lucius): Lucius color scheme for vim
