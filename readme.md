@@ -272,7 +272,6 @@
 *   [ericminikel/cureffi](https://github.com/ericminikel/cureffi): CureFFI.org
 *   [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons): Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 *   [KeenRivals/bestmotherfucking.website](https://github.com/KeenRivals/bestmotherfucking.website): The Best Motherfucking Website
-*   [servo/servo](https://github.com/servo/servo): Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
 *   [KevinParnell/my-homepage](https://github.com/KevinParnell/my-homepage): My old homepage
 *   [startpages/startpages.github.io](https://github.com/startpages/startpages.github.io): A curated list of startpages for your browser.
 *   [lhunath/guide.bash.academy](https://github.com/lhunath/guide.bash.academy): Bash Academy - The Bash Guide
@@ -539,6 +538,7 @@
 *   [chewing/libchewing](https://github.com/chewing/libchewing): libchewing - The intelligent phonetic input method library
 *   [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep): ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 *   [alacritty/alacritty](https://github.com/alacritty/alacritty): A cross-platform, OpenGL terminal emulator.
+*   [servo/servo](https://github.com/servo/servo): Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
 *   [withoutboats/notty](https://github.com/withoutboats/notty): A new kind of terminal
 *   [asciinema/asciinema](https://github.com/asciinema/asciinema): Terminal session recorder 📹
 
