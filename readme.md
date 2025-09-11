@@ -540,7 +540,7 @@
 *   [alacritty/alacritty](https://github.com/alacritty/alacritty): A cross-platform, OpenGL terminal emulator.
 *   [servo/servo](https://github.com/servo/servo): Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
 *   [withoutboats/notty](https://github.com/withoutboats/notty): A new kind of terminal
-*   [asciinema/asciinema](https://github.com/asciinema/asciinema): Terminal session recorder 📹
+*   [asciinema/asciinema](https://github.com/asciinema/asciinema): Terminal session recorder, streamer and player 📹
 
 ## SCSS
 
