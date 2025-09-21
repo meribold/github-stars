@@ -51,7 +51,7 @@
 
 ## C
 
-*   [lslvr/1wm](https://github.com/lslvr/1wm): The smallest (actually usable) window manager.
+*   [lslvr/1wm](https://github.com/lslvr/1wm): The smallest, actually usable window manager.
 *   [haampie/libtree](https://github.com/haampie/libtree): ldd as a tree
 *   [hansgelke/retro_linux_c](https://github.com/hansgelke/retro_linux_c)
 *   [jordansissel/xdotool](https://github.com/jordansissel/xdotool): fake keyboard/mouse input, window management, and more
