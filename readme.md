@@ -703,6 +703,7 @@
 *   [junegunn/vim-plug](https://github.com/junegunn/vim-plug): :hibiscus: Minimalist Vim Plugin Manager
 *   [tyru/open-browser.vim](https://github.com/tyru/open-browser.vim): Open URI with your favorite browser from your most favorite editor
 *   [tpope/vim-unimpaired](https://github.com/tpope/vim-unimpaired): unimpaired.vim: Pairs of handy bracket mappings
+*   [guns/vim-sexp](https://github.com/guns/vim-sexp): Precision Editing for S-expressions
 *   [MarcWeber/vim-addon-manager](https://github.com/MarcWeber/vim-addon-manager): manage and install vim plugins (including their dependencies) in a sane way. If you have any trouble contact me. Usually I reply within 24 hours
 *   [preservim/nerdtree](https://github.com/preservim/nerdtree): A tree explorer plugin for vim.
 *   [tpope/vim-speeddating](https://github.com/tpope/vim-speeddating): speeddating.vim: use CTRL-A/CTRL-X to increment dates, times, and more
@@ -779,7 +780,6 @@
 *   [bronson/vim-visual-star-search](https://github.com/bronson/vim-visual-star-search): Start a * or # search from a visual block
 *   [jez/vim-superman](https://github.com/jez/vim-superman): Read Unix man pages faster than a speeding bullet!
 *   [kshenoy/vim-signature](https://github.com/kshenoy/vim-signature): Plugin to toggle, display and navigate marks
-*   [guns/vim-sexp](https://github.com/guns/vim-sexp): Precision Editing for S-expressions
 *   [tpope/vim-vinegar](https://github.com/tpope/vim-vinegar): vinegar.vim: Combine with netrw to create a delicious salad dressing
 *   [mtth/scratch.vim](https://github.com/mtth/scratch.vim): Unobtrusive scratch window
 *   [vim-utils/vim-man](https://github.com/vim-utils/vim-man): View and grep man pages in vim
