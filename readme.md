@@ -488,7 +488,7 @@
 *   [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl): Command-line program to download videos from YouTube.com and other video sites
 *   [chubin/wttr.in](https://github.com/chubin/wttr.in): :partly_sunny: The right way to check the weather
 *   [djmelik/archey](https://github.com/djmelik/archey): Archey is a system information tool written in Python.
-*   [MarkHedleyJones/dmenu-extended](https://github.com/MarkHedleyJones/dmenu-extended): An extension to dmenu for quickly opening files and folders.
+*   [markhedleyjones/dmenu-extended](https://github.com/markhedleyjones/dmenu-extended): An extension to dmenu for quickly opening files and folders.
 *   [cdown/yturl](https://github.com/cdown/yturl): YouTube videos on the command line
 *   [joeyespo/grip](https://github.com/joeyespo/grip): Preview GitHub README.md files locally before committing them.
 *   [xavierd/clang_complete](https://github.com/xavierd/clang_complete): Vim plugin that use clang for completing C/C++ code.
