@@ -436,7 +436,7 @@
 *   [beetbox/beets](https://github.com/beetbox/beets): music library manager and MusicBrainz tagger
 *   [pimutils/vdirsyncer](https://github.com/pimutils/vdirsyncer): 📇 Synchronize calendars and contacts.
 *   [jarun/buku](https://github.com/jarun/buku): :bookmark: Personal mini-web in text
-*   [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty): Cross-platform, fast, feature-rich, GPU based terminal
+*   [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty): If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
 *   [rougier/from-python-to-numpy](https://github.com/rougier/from-python-to-numpy): An open-access book on numpy vectorization techniques, Nicolas P. Rougier, 2017
 *   [liberapay/liberapay.com](https://github.com/liberapay/liberapay.com): Source code of the recurrent donations platform Liberapay
 *   [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre): The official source code repository for the calibre ebook manager
