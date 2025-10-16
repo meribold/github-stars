@@ -353,6 +353,7 @@
 *   [RealUI/RealUI](https://github.com/RealUI/RealUI): A minimalistic UI for World of Warcraft designed to be functional, yet also efficient and elegant.
 *   [meribold/PerCharacterFavoriteMounts](https://github.com/meribold/PerCharacterFavoriteMounts): Warcraft addon
 *   [MouselookHandler/MouselookHandler](https://github.com/MouselookHandler/MouselookHandler): World of Warcraft interface addon
+*   [wincent/wincent](https://github.com/wincent/wincent): 💾 Dot-files
 *   [luakit/luakit](https://github.com/luakit/luakit): Fast, small, webkit based browser framework extensible by Lua.
 *   [meribold/notion-hide-tabs](https://github.com/meribold/notion-hide-tabs): Lua script for the Notion window manager
 *   [neovim/lua-client](https://github.com/neovim/lua-client): DEPRECATED
@@ -664,7 +665,6 @@
 *   [ku1ik/vim-pasta](https://github.com/ku1ik/vim-pasta): Pasting in Vim with indentation adjusted to destination context
 *   [jpalardy/vim-slime](https://github.com/jpalardy/vim-slime): A vim plugin to give you some slime. (Emacs)
 *   [ervandew/matchem](https://github.com/ervandew/matchem): Vim plugin to auto add closing quotes, parens, brackets, curlies, etc.
-*   [wincent/wincent](https://github.com/wincent/wincent): 💾 Dot-files
 *   [embear/vim-localvimrc](https://github.com/embear/vim-localvimrc): Search local vimrc files (".lvimrc") in the tree (root dir up to current dir) and load them.
 *   [MarcWeber/vim-addon-local-vimrc](https://github.com/MarcWeber/vim-addon-local-vimrc): kiss local vimrc with hash protection
 *   [machakann/vim-sandwich](https://github.com/machakann/vim-sandwich): Set of operators and textobjects to search/select/edit sandwiched texts.
