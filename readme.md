@@ -270,7 +270,6 @@
 *   [eevee/eev.ee](https://github.com/eevee/eev.ee): my cool website
 *   [vimcasts/vimcasts.org](https://github.com/vimcasts/vimcasts.org): Source code for vimcasts.org
 *   [ericminikel/cureffi](https://github.com/ericminikel/cureffi): CureFFI.org
-*   [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons): Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 *   [KeenRivals/bestmotherfucking.website](https://github.com/KeenRivals/bestmotherfucking.website): The Best Motherfucking Website
 *   [KevinParnell/my-homepage](https://github.com/KevinParnell/my-homepage): My old homepage
 *   [startpages/startpages.github.io](https://github.com/startpages/startpages.github.io): A curated list of startpages for your browser.
@@ -465,6 +464,7 @@
 *   [pypa/packaging.python.org](https://github.com/pypa/packaging.python.org): Python Packaging User Guide
 *   [PyCQA/isort](https://github.com/PyCQA/isort): A Python utility / library to sort imports.
 *   [thefinn93/signal-weechat](https://github.com/thefinn93/signal-weechat): Use signal in weechat
+*   [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons): Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 *   [aclements/latexrun](https://github.com/aclements/latexrun): A 21st century LaTeX wrapper
 *   [jamesofarrell/i3-swallow](https://github.com/jamesofarrell/i3-swallow): used to swallow a terminal window in i3
 *   [vinitkumar/googlecl](https://github.com/vinitkumar/googlecl): GoogleCL rewrite in __progress__
