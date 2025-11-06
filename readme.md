@@ -619,7 +619,6 @@
 
 ## TeX
 
-*   [cplusplus/draft](https://github.com/cplusplus/draft): C++ standards drafts
 *   [josephwright/siunitx](https://github.com/josephwright/siunitx): A comprehensive (SI) units package for LaTeX
 *   [hmemcpy/milewski-ctfp-pdf](https://github.com/hmemcpy/milewski-ctfp-pdf): Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source
 *   [meribold/cache-seminar-paper](https://github.com/meribold/cache-seminar-paper): Seminar paper about hardware caches and how to use them effectively
