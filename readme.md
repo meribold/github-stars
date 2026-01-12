@@ -23,6 +23,7 @@
 *   [Objective-C](#objective-c)
 *   [PHP](#php)
 *   [Perl](#perl)
+*   [PowerShell](#powershell)
 *   [Python](#python)
 *   [QML](#qml)
 *   [Roff](#roff)
@@ -346,7 +347,6 @@
 *   [Primal-UI/PrimalGcd](https://github.com/Primal-UI/PrimalGcd): Global cooldown monitor
 *   [lithammer/NeavUI](https://github.com/lithammer/NeavUI): Development branch of Neav UI
 *   [sakhnik/nvim-gdb](https://github.com/sakhnik/nvim-gdb): Neovim thin wrapper for GDB, LLDB, PDB/PDB++ and BashDB
-*   [bruxisma/dotfiles](https://github.com/bruxisma/dotfiles): Izzy Muerte's Dotfiles
 *   [hkupty/nvimux](https://github.com/hkupty/nvimux): Neovim as a TMUX replacement
 *   [WeakAuras/WeakAuras2](https://github.com/WeakAuras/WeakAuras2): World of Warcraft addon that provides a powerful framework to display customizable graphics on your screen.
 *   [RealUI/RealUI](https://github.com/RealUI/RealUI): A minimalistic UI for World of Warcraft designed to be functional, yet also efficient and elegant.
@@ -414,6 +414,10 @@
 *   [lifeforms/irssi-smartfilter](https://github.com/lifeforms/irssi-smartfilter): Irssi smart filter to selectively hide JOIN/QUIT in busy channels
 *   [AlDanial/cloc](https://github.com/AlDanial/cloc): cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
 *   [irssi/scripts.irssi.org](https://github.com/irssi/scripts.irssi.org): Script Repository for Irssi
+
+## PowerShell
+
+*   [bruxisma/dotfiles](https://github.com/bruxisma/dotfiles): Izzy Muerte's Dotfiles
 
 ## Python
 
