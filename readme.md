@@ -362,7 +362,7 @@
 *   [AdiAddons/DRData-1.0](https://github.com/AdiAddons/DRData-1.0): [ABANDONNED] Diminishing returns data library
 *   [tekkub/wow-ui-source](https://github.com/tekkub/wow-ui-source): git mirror of the user interface source code for World of Warcraft
 *   [Haleth/Aurora](https://github.com/Haleth/Aurora): Minimalistic UI theme for World of Warcraft
-*   [p3lim-wow/Inomena](https://github.com/p3lim-wow/Inomena): Random tweaks and features, basically my UI. You shouldn't use this if you expect to have a working UI afterwards.
+*   [p3lim-wow/Inomena](https://github.com/p3lim-wow/Inomena): Collection of bits and bobs that make up my UI. You shouldn't use this if you expect to have a working UI afterwards.
 
 ## Makefile
 
