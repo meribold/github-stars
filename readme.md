@@ -285,7 +285,6 @@
 *   [xmonad/xmonad](https://github.com/xmonad/xmonad): The core of xmonad, a small but functional ICCCM-compliant tiling window manager
 *   [vimus/vimus](https://github.com/vimus/vimus): An MPD client with vim-like key bindings, written in Haskell
 *   [freedict/tools](https://github.com/freedict/tools): This repository contains all the tools of the FreeDict project. This includes the Make build system, various importer scripts, XSL conversion style sheets and more.
-*   [BartoszMilewski/Publications](https://github.com/BartoszMilewski/Publications): Misc. publications, conference slides, etc. For more, go to http://BartoszMilewski.com
 *   [jgm/pandoc](https://github.com/jgm/pandoc): Universal markup converter
 *   [koalaman/shellcheck](https://github.com/koalaman/shellcheck): ShellCheck, a static analysis tool for shell scripts
 *   [fosskers/aura](https://github.com/fosskers/aura): A multilingual package manager for Arch Linux and the AUR.
@@ -380,6 +379,7 @@
 *   [neomutt/corpus-address](https://github.com/neomutt/corpus-address): 📚 Test data for fuzzing
 *   [DFgraphics/Ironhand](https://github.com/DFgraphics/Ironhand): [18x18] Ironhand 40.x - by Goldenshadow
 *   [arasatasaygin/openlogos](https://github.com/arasatasaygin/openlogos): Free logos for open source projects
+*   [BartoszMilewski/Publications](https://github.com/BartoszMilewski/Publications): Misc. publications, conference slides, etc. For more, go to http://BartoszMilewski.com
 *   [mortalis13/Tabs-Backup](https://github.com/mortalis13/Tabs-Backup): Firefox Addon for Android. Allows export and import URLs to/from a text file.
 *   [mojombo/tpw](https://github.com/mojombo/tpw)
 *   [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles): A curated list of dotfiles resources.
