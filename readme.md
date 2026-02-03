@@ -117,7 +117,7 @@
 *   [chjj/compton](https://github.com/chjj/compton): A compositor for X11.
 *   [cmus/cmus](https://github.com/cmus/cmus): Small, fast and powerful console music player for Unix-like operating systems.
 *   [LuaJIT/LuaJIT](https://github.com/LuaJIT/LuaJIT): Mirror of the LuaJIT git repository
-*   [dvorka/hstr](https://github.com/dvorka/hstr): bash and zsh shell history suggest box - easily view, navigate, search and manage your command history.
+*   [dvorka/hstr](https://github.com/dvorka/hstr): Bash and Zsh shell history TUI suggest box - easily view, navigate, search and manage your command history.
 *   [davatorium/rofi](https://github.com/davatorium/rofi): Rofi: A window switcher, application launcher and dmenu replacement
 *   [uzbl/uzbl](https://github.com/uzbl/uzbl): A web browser that adheres to the unix philosophy.
 *   [axxapy/Adwaita-dark-gtk2](https://github.com/axxapy/Adwaita-dark-gtk2): clone of gnome3 Adwaita theme for gtk2
