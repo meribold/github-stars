@@ -408,7 +408,7 @@
 
 ## Perl
 
-*   [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy): Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
+*   [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy): Make your diffs human readable for improved code quality and faster defect detection. :tada:
 *   [muse/.files](https://github.com/muse/.files): Collection of various .files and or configuration files.
 *   [m3m0ryh0l3/extracturl](https://github.com/m3m0ryh0l3/extracturl): Automatically exported from code.google.com/p/extracturl
 *   [lifeforms/irssi-smartfilter](https://github.com/lifeforms/irssi-smartfilter): Irssi smart filter to selectively hide JOIN/QUIT in busy channels
