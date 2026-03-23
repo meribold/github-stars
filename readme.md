@@ -43,7 +43,7 @@
 
 ## Assembly
 
-*   [meribold/btry](https://github.com/meribold/btry): Battery info program for x86-64 Linux laptops in 384 bytes of machine code
+*   [meribold/btry](https://github.com/meribold/btry): Battery info program for x86-64 Linux laptops in 331 bytes of machine code
 *   [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS): The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes
 
 ## Awk
