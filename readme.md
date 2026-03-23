@@ -85,7 +85,7 @@
 *   [archlinux/linux](https://github.com/archlinux/linux): Arch Linux kernel sources, with patches
 *   [endaaman/tym](https://github.com/endaaman/tym): Lua-configurable terminal emulator
 *   [jonas/tig](https://github.com/jonas/tig): Text-mode interface for git
-*   [lua/lua](https://github.com/lua/lua): A copy of the Lua development repository, as seen by the Lua team. Mirrored irregularly. Please DO NOT send pull requests or any other stuff. All communication should be through the Lua mailing list https://www.lua.org/lua-l.html
+*   [lua/lua](https://github.com/lua/lua): A copy of the Lua development repository, as seen by the Lua team. Mirrored irregularly. All communication should be through the Lua mailing list https://www.lua.org/lua-l.html
 *   [freedict/fd-dictionaries](https://github.com/freedict/fd-dictionaries): hand-written dictionaries from the FreeDict project
 *   [jonls/redshift](https://github.com/jonls/redshift): Redshift adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.
 *   [microsoft/winfile](https://github.com/microsoft/winfile): Original Windows File Manager (winfile) with enhancements
