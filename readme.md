@@ -64,7 +64,6 @@
 *   [gwsw/less](https://github.com/gwsw/less): Less - text pager
 *   [mwh/dragon](https://github.com/mwh/dragon): Drag and drop source/target for X
 *   [mchehab/zbar](https://github.com/mchehab/zbar): ZBar is an open source software suite for reading bar codes from various sources, including webcams. As its development stopped in 2012, I took the task of keeping it updated with the V4L2 API. This is the main repository for it. There's a clone at at LinuxTV.org, and another one at gitlab.
-*   [alols/xcape](https://github.com/alols/xcape): Linux utility to configure modifier keys to act as other keys when pressed and released on their own.
 *   [cgdb/cgdb](https://github.com/cgdb/cgdb): Console front-end to the GNU debugger
 *   [strace/strace](https://github.com/strace/strace): strace is a diagnostic, debugging and instructional userspace utility for Linux
 *   [muttmua/mutt](https://github.com/muttmua/mutt): The Mutt E-Mail Client github mirror.  Please use gitlab for issues/pull requests.
