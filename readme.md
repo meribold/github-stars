@@ -86,7 +86,7 @@
 *   [jonas/tig](https://github.com/jonas/tig): Text-mode interface for git
 *   [lua/lua](https://github.com/lua/lua): A copy of the Lua development repository, as seen by the Lua team. Mirrored irregularly. All communication should be through the Lua mailing list https://www.lua.org/lua-l.html
 *   [freedict/fd-dictionaries](https://github.com/freedict/fd-dictionaries): hand-written dictionaries from the FreeDict project
-*   [jonls/redshift](https://github.com/jonls/redshift): Redshift adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.
+*   [sharpbracket/redshift](https://github.com/sharpbracket/redshift): Redshift adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.
 *   [microsoft/winfile](https://github.com/microsoft/winfile): Original Windows File Manager (winfile) with enhancements
 *   [torvalds/linux](https://github.com/torvalds/linux): Linux kernel source tree
 *   [s-macke/VoxelSpace](https://github.com/s-macke/VoxelSpace): Terrain rendering algorithm in less than 20 lines of code
