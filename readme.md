@@ -450,7 +450,7 @@
 *   [googlefonts/noto-emoji](https://github.com/googlefonts/noto-emoji): Noto Emoji fonts
 *   [notofonts/noto-fonts](https://github.com/notofonts/noto-fonts): Noto fonts, except for CJK and emoji
 *   [notofonts/noto-cjk](https://github.com/notofonts/noto-cjk): Noto CJK fonts
-*   [python-pillow/Pillow](https://github.com/python-pillow/Pillow): Python Imaging Library (Fork)
+*   [python-pillow/Pillow](https://github.com/python-pillow/Pillow): Python Imaging Library (fork)
 *   [xdanaux/fontawesome-latex](https://github.com/xdanaux/fontawesome-latex): LaTeX mappings for Font Awesome, the icons font
 *   [KJoke70/i3-tools](https://github.com/KJoke70/i3-tools): Scripts for i3wm
 *   [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn): scikit-learn: machine learning in Python
