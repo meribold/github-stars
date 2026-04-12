@@ -169,7 +169,7 @@
 *   [thjaeger/easystroke](https://github.com/thjaeger/easystroke): X11 gesture recognition application
 *   [thestinger/termite](https://github.com/thestinger/termite): Termite is obsoleted by Alacritty. Termite was a keyboard-centric VTE-based terminal, aimed at use within a window manager with tiling and/or tabbing support.
 *   [AGWA/git-crypt](https://github.com/AGWA/git-crypt): Transparent file encryption in git
-*   [dhewm/dhewm3](https://github.com/dhewm/dhewm3): dhewm 3 main repository
+*   [dhewm/dhewm3](https://github.com/dhewm/dhewm3): dhewm 3 (Doom3 sourceport) main repository
 *   [boostorg/thread](https://github.com/boostorg/thread): Boost.org thread module
 *   [doxygen/doxygen](https://github.com/doxygen/doxygen): Official doxygen git repository
 *   [brndnmtthws/conky](https://github.com/brndnmtthws/conky): Light-weight system monitor for X, Wayland, and other things, too
