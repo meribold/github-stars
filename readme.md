@@ -117,7 +117,7 @@
 *   [chjj/compton](https://github.com/chjj/compton): A compositor for X11.
 *   [cmus/cmus](https://github.com/cmus/cmus): Small, fast and powerful console music player for Unix-like operating systems.
 *   [LuaJIT/LuaJIT](https://github.com/LuaJIT/LuaJIT): Mirror of the LuaJIT git repository
-*   [dvorka/hstr](https://github.com/dvorka/hstr): Bash and Zsh shell history TUI suggest box - easily view, navigate, search and manage your command history.
+*   [dvorka-oss/hstr](https://github.com/dvorka-oss/hstr): Bash and Zsh shell history TUI suggest box - easily view, navigate, search and manage your command history.
 *   [davatorium/rofi](https://github.com/davatorium/rofi): Rofi: A window switcher, application launcher and dmenu replacement
 *   [uzbl/uzbl](https://github.com/uzbl/uzbl): A web browser that adheres to the unix philosophy.
 *   [axxapy/Adwaita-dark-gtk2](https://github.com/axxapy/Adwaita-dark-gtk2): clone of gnome3 Adwaita theme for gtk2
@@ -251,6 +251,7 @@
 *   [syncthing/syncthing-inotify](https://github.com/syncthing/syncthing-inotify): File watcher intended for use with Syncthing (Linux, BSD, Windows, OSX)
 *   [syncthing/syncthing](https://github.com/syncthing/syncthing): Open Source Continuous File Synchronization
 *   [schachmat/wego](https://github.com/schachmat/wego): weather app for the terminal
+*   [chubin/wttr.in](https://github.com/chubin/wttr.in): :partly_sunny: The right way to check the weather
 *   [junegunn/fzf](https://github.com/junegunn/fzf): :cherry_blossom: A command-line fuzzy finder
 
 ## HTML
@@ -490,7 +491,6 @@
 *   [p-e-w/maybe](https://github.com/p-e-w/maybe): :open_file_folder: :rabbit2: :tophat: See what a program does before deciding whether you really want it to happen (NO LONGER MAINTAINED)
 *   [Shougo/deoplete.nvim](https://github.com/Shougo/deoplete.nvim): :stars: Dark powered asynchronous completion framework for neovim/Vim8
 *   [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl): Command-line program to download videos from YouTube.com and other video sites
-*   [chubin/wttr.in](https://github.com/chubin/wttr.in): :partly_sunny: The right way to check the weather
 *   [djmelik/archey](https://github.com/djmelik/archey): Archey is a system information tool written in Python.
 *   [markhedleyjones/dmenu-extended](https://github.com/markhedleyjones/dmenu-extended): An extension to dmenu for quickly opening files and folders.
 *   [cdown/yturl](https://github.com/cdown/yturl): YouTube videos on the command line
