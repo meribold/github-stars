@@ -327,7 +327,7 @@
 *   [mooz/keysnail](https://github.com/mooz/keysnail): Allows you to bind commands to key sequences in Mozilla Firefox
 *   [browserhtml/browserhtml](https://github.com/browserhtml/browserhtml): Experimental Servo browser built in HTML
 *   [nohamelin/xseei](https://github.com/nohamelin/xseei): A legacy Mozilla Firefox add-on to import and export search engines from XML files in the OpenSearch format
-*   [nashbridges/input-autofocus-firefox-extension](https://github.com/nashbridges/input-autofocus-firefox-extension): Sets focus to a first text input element. Uses Firefox Addon SDK.
+*   [nashbridges/input-autofocus-firefox-extension](https://github.com/nashbridges/input-autofocus-firefox-extension): Sets focus to the first search input element
 *   [hakimel/reveal.js](https://github.com/hakimel/reveal.js): The HTML Presentation Framework
 *   [benbasson/newtabhomepage](https://github.com/benbasson/newtabhomepage): Firefox Extension - Loads your homepage when you open a new tab.
 *   [stylish-userstyles/stylish](https://github.com/stylish-userstyles/stylish): User styles manager for Firefox and other Mozilla software
