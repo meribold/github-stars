@@ -511,6 +511,7 @@
 
 ## Ruby
 
+*   [lobsters/lobsters](https://github.com/lobsters/lobsters): Computing-focused community centered around link aggregation and discussion
 *   [gjtorikian/jekyll-last-modified-at](https://github.com/gjtorikian/jekyll-last-modified-at): A Jekyll plugin to show the last_modified_at time of a post.
 *   [bjoernalbers/gollum-auth](https://github.com/bjoernalbers/gollum-auth): Authentication Middleware for Gollum Wiki
 *   [gollum/gollum](https://github.com/gollum/gollum): A simple, Git-powered wiki with a local frontend and support for many kinds of markup and content.
