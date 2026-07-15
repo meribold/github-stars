@@ -68,7 +68,7 @@
 *   [strace/strace](https://github.com/strace/strace): strace is a diagnostic, debugging and instructional userspace utility for Linux
 *   [muttmua/mutt](https://github.com/muttmua/mutt): The Mutt E-Mail Client github mirror.  Please use gitlab for issues/pull requests.
 *   [shlomif/fortune-mod](https://github.com/shlomif/fortune-mod): Implementation of the Unix fortune command for displaying a random quotation, for Linux and other systems.
-*   [coreutils/coreutils](https://github.com/coreutils/coreutils): upstream mirror
+*   [coreutils/coreutils](https://github.com/coreutils/coreutils): Public mirror. Pull requests and Issues accepted
 *   [pnggroup/libpng](https://github.com/pnggroup/libpng): LIBPNG: Portable Network Graphics support, official libpng repository
 *   [glfw/glfw](https://github.com/glfw/glfw): A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input
 *   [NetHack/NetHack](https://github.com/NetHack/NetHack): Official NetHack Git Repository
