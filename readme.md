@@ -315,7 +315,7 @@
 *   [magcius/xplain](https://github.com/magcius/xplain): Interactive demos
 *   [nuchi/firefox-quantum-userchromejs](https://github.com/nuchi/firefox-quantum-userchromejs): **Stops working with FF v72.** Firefox Quantum-compatible custom javascript in browser context — no extension, userChromeJS replacement.
 *   [greduan/chrome-ext-tabulator](https://github.com/greduan/chrome-ext-tabulator): Tabulator is a free Google Chrome extension that helps reduce tab clutter and memory usage by saving all your open tabs into lists which can be restored at another time
-*   [cadeyrn/newtaboverride](https://github.com/cadeyrn/newtaboverride): New Tab Override Allows you to choose which page Firefox shows whenever you open a new tab.
+*   [cadeyrn/newtaboverride](https://github.com/cadeyrn/newtaboverride): New Tab Override allows you to choose which page Firefox shows whenever you open a new tab.
 *   [cadecairos/TabSweeper](https://github.com/cadecairos/TabSweeper): A Firefox Web Extension for tidying up tabs without losing them.
 *   [bwinton/TabCenter](https://github.com/bwinton/TabCenter): Firefox add-on for arranging tabs vertically
 *   [pixel-saver/pixel-saver](https://github.com/pixel-saver/pixel-saver): Pixel Saver is designed to save pixel by fusing activity bar and title bar in a natural way.
