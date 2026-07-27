@@ -531,7 +531,7 @@
 
 ## Rust
 
-*   [rizsotto/Bear](https://github.com/rizsotto/Bear): Bear is a tool that generates a compilation database for clang tooling.
+*   [rizsotto/Bear](https://github.com/rizsotto/Bear): Generate compile_commands.json for any C or C++ build
 *   [aaronjanse/dns-over-wikipedia](https://github.com/aaronjanse/dns-over-wikipedia): Redirect `.idk` domains using Wikipedia
 *   [oxipng/oxipng](https://github.com/oxipng/oxipng): Multithreaded PNG optimizer written in Rust
 *   [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei): Count your code, quickly.
