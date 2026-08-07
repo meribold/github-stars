@@ -374,7 +374,6 @@
 *   [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line): Master the command line, in one page
 *   [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix): A collection of modern/faster/saner alternatives to common unix commands.
 *   [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars): My Awesome List
-*   [ninsky/recovermyvideotracker](https://github.com/ninsky/recovermyvideotracker): RecoverMy.Video issue tracker
 *   [neomutt/corpus-address](https://github.com/neomutt/corpus-address): 📚 Test data for fuzzing
 *   [DFgraphics/Ironhand](https://github.com/DFgraphics/Ironhand): [18x18] Ironhand 40.x - by Goldenshadow
 *   [arasatasaygin/openlogos](https://github.com/arasatasaygin/openlogos): Free logos for open source projects
