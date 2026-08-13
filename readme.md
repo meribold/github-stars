@@ -74,7 +74,6 @@
 *   [NetHack/NetHack](https://github.com/NetHack/NetHack): Official NetHack Git Repository
 *   [fukuchi/libqrencode](https://github.com/fukuchi/libqrencode): A fast and compact QR Code encoding library
 *   [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg): Mirror of https://git.ffmpeg.org/ffmpeg.git
-*   [sjmulder/leftpad](https://github.com/sjmulder/leftpad): A serious attempt at a pointless program and library
 *   [hanslub42/rlwrap](https://github.com/hanslub42/rlwrap): A readline wrapper
 *   [jqlang/jq](https://github.com/jqlang/jq): Command-line JSON processor
 *   [derf/feh](https://github.com/derf/feh): a fast and light image viewer
