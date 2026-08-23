@@ -771,7 +771,6 @@
 *   [wellle/dotfiles](https://github.com/wellle/dotfiles): vim, zsh, tmux etc.
 *   [wellle/visual-split.vim](https://github.com/wellle/visual-split.vim): Vim plugin to control splits with visual selections or text objects
 *   [AlessandroYorba/Alduin](https://github.com/AlessandroYorba/Alduin): A Vim Colorscheme
-*   [fboender/bexec](https://github.com/fboender/bexec): A vim plugin that allows the user to execute the current buffer
 *   [vim-utils/vim-alt-mappings](https://github.com/vim-utils/vim-alt-mappings): (experimental!) Enables ALT key mappings in terminal vim
 *   [pgilad/vim-skeletons](https://github.com/pgilad/vim-skeletons): Quickly scaffold template files in your favorite editor using UltiSnips templates
 *   [noahfrederick/vim-skeleton](https://github.com/noahfrederick/vim-skeleton): Initialize new Vim buffers with file-type-specific templates
