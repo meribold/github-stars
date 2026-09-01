@@ -597,7 +597,6 @@
 *   [xwmx/bash-boilerplate](https://github.com/xwmx/bash-boilerplate): A collection of Bash scripts for creating safe and useful command line programs.
 *   [thoughtbot/dotfiles](https://github.com/thoughtbot/dotfiles): A set of vim, zsh, git, and tmux configuration files.
 *   [altercation/mutt-colors-solarized](https://github.com/altercation/mutt-colors-solarized): mutt mail client color schemes
-*   [derekwyatt/dotfiles](https://github.com/derekwyatt/dotfiles): Various dotfiles that I need
 *   [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch): 🖼️  A command-line system information tool written in bash 3.2+
 *   [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting): Fish shell like syntax highlighting for Zsh.
 *   [lhunath/scripts](https://github.com/lhunath/scripts): A bunch of scripts for all sorts of purposes.
