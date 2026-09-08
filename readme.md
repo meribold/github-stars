@@ -468,7 +468,7 @@
 *   [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons): Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 *   [aclements/latexrun](https://github.com/aclements/latexrun): A 21st century LaTeX wrapper
 *   [jamesofarrell/i3-swallow](https://github.com/jamesofarrell/i3-swallow): used to swallow a terminal window in i3
-*   [vinitkumar/googlecl](https://github.com/vinitkumar/googlecl): GoogleCL rewrite in __progress__
+*   [vinitkumar/googlecl](https://github.com/vinitkumar/googlecl): Pythonic interface for working with Google services - a modern rewrite of Google's original GoogleCL command-line tool
 *   [python/cpython](https://github.com/python/cpython): The Python programming language
 *   [powerline/powerline](https://github.com/powerline/powerline): Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile.
 *   [insanum/gcalcli](https://github.com/insanum/gcalcli): Google Calendar Command Line Interface
