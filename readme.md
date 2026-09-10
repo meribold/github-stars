@@ -262,7 +262,6 @@
 *   [kevquirk/512kb.club](https://github.com/kevquirk/512kb.club): Website for the 512 KB Club
 *   [standardebooks/oscar-wilde_the-picture-of-dorian-gray](https://github.com/standardebooks/oscar-wilde_the-picture-of-dorian-gray): Epub source for the Standard Ebooks edition of The Picture of Dorian Gray, by Oscar Wilde
 *   [standardebooks/jules-verne_journey-to-the-center-of-the-earth_f-a-malleson](https://github.com/standardebooks/jules-verne_journey-to-the-center-of-the-earth_f-a-malleson): Epub source for the Standard Ebooks edition of Journey to the Center of the Earth, by Jules Verne
-*   [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol): Defines a common protocol for language servers.
 *   [mattgodbolt/cppcon-bits-between-bits](https://github.com/mattgodbolt/cppcon-bits-between-bits): A presentation on how much stuff happens before your code even starts running
 *   [standardebooks/seneca_dialogues_aubrey-stewart](https://github.com/standardebooks/seneca_dialogues_aubrey-stewart): Epub source for the Standard Ebooks edition of Dialogues, by Seneca. Translated by Aubrey Stewart
 *   [mojombo/mojombo.github.io](https://github.com/mojombo/mojombo.github.io): Jekyll source for my personal blog.
@@ -631,6 +630,7 @@
 *   [ArchiveBox/pocket-exporter](https://github.com/ArchiveBox/pocket-exporter): [FREE] A service to help export your pocket bookmarks, tags, saved article text, and more...
 *   [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock): Skip YouTube video sponsors (browser extension)
 *   [cs01/gdbgui](https://github.com/cs01/gdbgui): Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser.
+*   [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol): Defines a common protocol for language servers.
 *   [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer): Run compilers interactively from your web browser and interact with the assembly
 *   [onivim/oni](https://github.com/onivim/oni): Oni: Modern Modal Editing - powered by Neovim
 *   [rhysd/NyaoVim](https://github.com/rhysd/NyaoVim): Web-enhanced Extensible Neovim Frontend
