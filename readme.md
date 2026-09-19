@@ -305,6 +305,7 @@
 *   [dinoosauro/youtube-fullscreen-fit](https://github.com/dinoosauro/youtube-fullscreen-fit): Make the YouTube player fit all of your screen when opening fullscreen mode
 *   [frank-deng/zeek-the-geek](https://github.com/frank-deng/zeek-the-geek): HTML5 clone of Zeek the Geek.
 *   [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike): Chrome extension to return youtube dislikes
+*   [archlinux/archweb](https://github.com/archlinux/archweb): Arch Linux website code
 *   [mozilla/multi-account-containers](https://github.com/mozilla/multi-account-containers): Firefox Multi-Account Containers lets you keep parts of your online life separated into color-coded tabs that preserve your privacy. Cookies are separated by container, allowing you to use the web with multiple identities or accounts simultaneously.
 *   [mozilla/gecko-dev](https://github.com/mozilla/gecko-dev): SUPERSEDED by https://github.com/mozilla-firefox/firefox.  Read-only Git mirror of the Mercurial gecko repositories at https://hg.mozilla.org
 *   [mozilla/FirefoxColor](https://github.com/mozilla/FirefoxColor): Theming demo for Firefox Quantum and beyond
@@ -426,7 +427,6 @@
 *   [sigmavirus24/github3.py](https://github.com/sigmavirus24/github3.py): Hi, I'm a library for interacting with GItHub's REST API in a convenient and ergonomic way. I work on Python 3.6+.
 *   [maguowei/starred](https://github.com/maguowei/starred): Create and maintain your own Awesome-style list from GitHub stars!
 *   [sshuttle/sshuttle](https://github.com/sshuttle/sshuttle): Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
-*   [archlinux/archweb](https://github.com/archlinux/archweb): Arch Linux website code
 *   [wkentaro/labelme](https://github.com/wkentaro/labelme): Image annotation with Python. Supports polygon, rectangle, circle, line, point, and AI-assisted annotation.
 *   [psf/black](https://github.com/psf/black): The uncompromising Python code formatter
 *   [wavexx/screenkey](https://github.com/wavexx/screenkey): A screencast tool to display your keys inspired by Screenflick
