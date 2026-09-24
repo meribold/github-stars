@@ -556,7 +556,7 @@
 
 ## Shell
 
-*   [junegunn/fzf-git.sh](https://github.com/junegunn/fzf-git.sh): bash, zsh, and fish key bindings for Git objects, powered by fzf
+*   [junegunn/fzf-git.sh](https://github.com/junegunn/fzf-git.sh): bash, zsh, fish, and tmux bindings for Git objects, powered by fzf
 *   [binpash/try](https://github.com/binpash/try): Inspect, control, and manipulate a command's effects before modifying your live system.
 *   [poetaman/arttime](https://github.com/poetaman/arttime): arttime is a CLI application that blends beauty of ASCII / text art with functionality of clock / timer / pattern-based time manager in terminal ⏰
 *   [archlinux/svntogit-community](https://github.com/archlinux/svntogit-community): Automatic import of svn 'community' repo (read-only mirror)
