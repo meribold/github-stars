@@ -63,7 +63,7 @@
 *   [Conservatory/wmctrl](https://github.com/Conservatory/wmctrl): Unix command-line tool to interact with an EWMH/NetWM-compatible X Window Manager.  See home site for upstream information.
 *   [gwsw/less](https://github.com/gwsw/less): Less - text pager
 *   [mwh/dragon](https://github.com/mwh/dragon): Drag and drop source/target for X
-*   [mchehab/zbar](https://github.com/mchehab/zbar): ZBar is an open source software suite for reading bar codes from various sources, including webcams. As its development stopped in 2012, I took the task of keeping it updated with the V4L2 API. This is the main repository for it. There's a clone at at LinuxTV.org, and another one at gitlab.
+*   [mchehab/zbar](https://github.com/mchehab/zbar): ZBar is an open source software suite for reading bar codes from various sources, including webcams.  This is the main repository for reporting issues and send PRs. There's a clone at at https://git.linuxtv.org/zbar.git/, and another one at https://gitlab.com/mchehab_kernel/zbar.
 *   [cgdb/cgdb](https://github.com/cgdb/cgdb): Console front-end to the GNU debugger
 *   [strace/strace](https://github.com/strace/strace): strace is a diagnostic, debugging and instructional userspace utility for Linux
 *   [muttmua/mutt](https://github.com/muttmua/mutt): The Mutt E-Mail Client github mirror.  Please use gitlab for issues/pull requests.
