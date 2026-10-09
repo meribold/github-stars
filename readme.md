@@ -283,7 +283,6 @@
 *   [xmonad/xmonad-contrib](https://github.com/xmonad/xmonad-contrib): Contributed modules for xmonad
 *   [xmonad/xmonad](https://github.com/xmonad/xmonad): The core of xmonad, a small but functional ICCCM-compliant tiling window manager
 *   [vimus/vimus](https://github.com/vimus/vimus): An MPD client with vim-like key bindings, written in Haskell
-*   [freedict/tools](https://github.com/freedict/tools): This repository contains all the tools of the FreeDict project. This includes the Make build system, various importer scripts, XSL conversion style sheets and more.
 *   [jgm/pandoc](https://github.com/jgm/pandoc): Universal markup converter
 *   [koalaman/shellcheck](https://github.com/koalaman/shellcheck): ShellCheck, a static analysis tool for shell scripts
 *   [fosskers/aura](https://github.com/fosskers/aura): A multilingual package manager for Arch Linux and the AUR.
@@ -450,6 +449,7 @@
 *   [python-pillow/Pillow](https://github.com/python-pillow/Pillow): Python Imaging Library (fork)
 *   [xdanaux/fontawesome-latex](https://github.com/xdanaux/fontawesome-latex): LaTeX mappings for Font Awesome, the icons font
 *   [KJoke70/i3-tools](https://github.com/KJoke70/i3-tools): Scripts for i3wm
+*   [freedict/tools](https://github.com/freedict/tools): This repository contains all the tools of the FreeDict project. This includes the Make build system, various importer scripts, XSL conversion style sheets and more.
 *   [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn): scikit-learn: machine learning in Python
 *   [isso-comments/isso](https://github.com/isso-comments/isso): a Disqus alternative
 *   [scipy/scipy](https://github.com/scipy/scipy): SciPy library main repository
