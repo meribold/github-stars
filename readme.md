@@ -671,6 +671,7 @@
 *   [tpope/vim-projectionist](https://github.com/tpope/vim-projectionist): projectionist.vim: Granular project configuration
 *   [tpope/vim-scriptease](https://github.com/tpope/vim-scriptease): scriptease.vim: A Vim plugin for Vim plugins
 *   [Shougo/neocomplete.vim](https://github.com/Shougo/neocomplete.vim): Next generation completion framework after neocomplcache
+*   [jamessan/vim-gnupg](https://github.com/jamessan/vim-gnupg): This script implements transparent editing of gpg encrypted files.
 *   [junegunn/gv.vim](https://github.com/junegunn/gv.vim): A git commit browser in Vim
 *   [tpope/vim-abolish](https://github.com/tpope/vim-abolish): abolish.vim: Work with several variants of a word at once
 *   [jeetsukumaran/vim-filebeagle](https://github.com/jeetsukumaran/vim-filebeagle): A VINE-spired (Vim Is Not Emacs) file system explorer.
@@ -762,7 +763,6 @@
 *   [falconindy/dotfiles](https://github.com/falconindy/dotfiles): Config files from $HOME
 *   [skorokithakis/pastery.vim](https://github.com/skorokithakis/pastery.vim): A Vim plugin for the sweetest pastebin in the world, pastery.net.
 *   [kana/vim-textobj-fold](https://github.com/kana/vim-textobj-fold): Vim plugin: Text objects for foldings
-*   [jamessan/vim-gnupg](https://github.com/jamessan/vim-gnupg): This script implements transparent editing of gpg encrypted files.
 *   [mhinz/vim-galore](https://github.com/mhinz/vim-galore): :mortar_board: All things Vim!
 *   [junegunn/vim-after-object](https://github.com/junegunn/vim-after-object): :point_right: Target text *after* the designated characters
 *   [junegunn/vim-journal](https://github.com/junegunn/vim-journal): :memo:
