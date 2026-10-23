@@ -39,7 +39,6 @@
 *   [Vim Snippet](#vim-snippet)
 *   [Vim script](#vim-script-1)
 *   [VimL](#viml)
-*   [Vue](#vue)
 
 ## Assembly
 
@@ -629,6 +628,7 @@
 
 *   [ArchiveBox/pocket-exporter](https://github.com/ArchiveBox/pocket-exporter): [FREE] A service to help export your pocket bookmarks, tags, saved article text, and more...
 *   [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock): Skip YouTube video sponsors (browser extension)
+*   [jzlai/whereistaipei.com](https://github.com/jzlai/whereistaipei.com): 🇹🇼
 *   [cs01/gdbgui](https://github.com/cs01/gdbgui): Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser.
 *   [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol): Defines a common protocol for language servers.
 *   [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer): Run compilers interactively from your web browser and interact with the assembly
@@ -843,7 +843,3 @@
 *   [Lokaltog/vim-powerline](https://github.com/Lokaltog/vim-powerline): Moved to powerline/powerline.
 *   [beloglazov/vim-online-thesaurus](https://github.com/beloglazov/vim-online-thesaurus): A Vim plugin for looking up words in an online thesaurus
 *   [tomasr/molokai](https://github.com/tomasr/molokai): Molokai color scheme for Vim
-
-## Vue
-
-*   [jzlai/whereistaipei.com](https://github.com/jzlai/whereistaipei.com): 🇹🇼
