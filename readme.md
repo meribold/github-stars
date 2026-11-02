@@ -235,6 +235,7 @@
 *   [linktohack/evil-commentary](https://github.com/linktohack/evil-commentary): Comment stuff out. A port of vim-commentary
 *   [coldnew/linum-relative](https://github.com/coldnew/linum-relative): display relative line number in the left margin in emacs
 *   [sellout/emacs-color-theme-solarized](https://github.com/sellout/emacs-color-theme-solarized): Emacs highlighting using Ethan Schoonover’s Solarized color scheme
+*   [google/styleguide](https://github.com/google/styleguide): Style guides for Google-originated open-source projects
 
 ## Go
 
@@ -247,6 +248,7 @@
 *   [i3/go-i3](https://github.com/i3/go-i3): Package i3 provides a convenient interface to the i3 window manager
 *   [dzhou121/gonvim](https://github.com/dzhou121/gonvim)
 *   [syncthing/syncthing-inotify](https://github.com/syncthing/syncthing-inotify): File watcher intended for use with Syncthing (Linux, BSD, Windows, OSX)
+*   [vinitkumar/googlecl](https://github.com/vinitkumar/googlecl): Pythonic interface for working with Google services - a modern rewrite of Google's original GoogleCL command-line tool
 *   [syncthing/syncthing](https://github.com/syncthing/syncthing): Open Source Continuous File Synchronization
 *   [schachmat/wego](https://github.com/schachmat/wego): weather app for the terminal
 *   [chubin/wttr.in](https://github.com/chubin/wttr.in): :partly_sunny: The right way to check the weather
@@ -274,7 +276,6 @@
 *   [lhunath/guide.bash.academy](https://github.com/lhunath/guide.bash.academy): Bash Academy - The Bash Guide
 *   [lhunath/bash.academy](https://github.com/lhunath/bash.academy): The http://bash.academy website
 *   [boostorg/boost](https://github.com/boostorg/boost): Super-project for modularized Boost
-*   [google/styleguide](https://github.com/google/styleguide): Style guides for Google-originated open-source projects
 
 ## Haskell
 
@@ -466,7 +467,6 @@
 *   [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons): Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 *   [aclements/latexrun](https://github.com/aclements/latexrun): A 21st century LaTeX wrapper
 *   [jamesofarrell/i3-swallow](https://github.com/jamesofarrell/i3-swallow): used to swallow a terminal window in i3
-*   [vinitkumar/googlecl](https://github.com/vinitkumar/googlecl): Pythonic interface for working with Google services - a modern rewrite of Google's original GoogleCL command-line tool
 *   [python/cpython](https://github.com/python/cpython): The Python programming language
 *   [powerline/powerline](https://github.com/powerline/powerline): Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile.
 *   [insanum/gcalcli](https://github.com/insanum/gcalcli): Google Calendar Command Line Interface
