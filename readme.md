@@ -133,7 +133,6 @@
 
 ## C++
 
-*   [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird): Truly independent web browser
 *   [opencv/opencv_contrib](https://github.com/opencv/opencv_contrib): Repository for OpenCV's extra modules
 *   [OpenRCT2/OpenRCT2](https://github.com/OpenRCT2/OpenRCT2): An open source re-implementation of RollerCoaster Tycoon 2 🎢
 *   [ganaware/pcf2bdf](https://github.com/ganaware/pcf2bdf)
@@ -527,6 +526,7 @@
 ## Rust
 
 *   [rizsotto/Bear](https://github.com/rizsotto/Bear): Generate compile_commands.json for any C or C++ build
+*   [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird): Truly independent web browser
 *   [aaronjanse/dns-over-wikipedia](https://github.com/aaronjanse/dns-over-wikipedia): Redirect `.idk` domains using Wikipedia
 *   [oxipng/oxipng](https://github.com/oxipng/oxipng): Multithreaded PNG optimizer written in Rust
 *   [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei): Count your code, quickly.
